@@ -32,9 +32,9 @@
     },
     {
       "id": 6,
-      "title": "Tôm chiên",
+      "title": "Đồ ăn vặt",
       "image": "https://cdn-icons-png.flaticon.com/256/10844/10844877.png",
-      "loai": "Tôm chiên"
+      "loai": "Đồ ăn vặt"
     }
   ],
   "monan": [
@@ -60,9 +60,499 @@
           "daban": "600",
           "muc": "Yêu thích+",
           "loai": "Bánh"
+        },
+        {
+          "id": 3,
+          "image": "https://down-vn.img.susercontent.com/file/73aae92b2c84e7d65394d0bae9485356",
+          "title": "Bánh Đài Loan Mix Đủ Vị 1kg",
+          "mota": "Bánh Tươi Nội Địa Đài Loan \n( Mặt trước của bánh ghi ngày sản xuất , mặt sau của bánh có ghi ngày sử dụng 6 tháng kể từ ngày sản xuất như hình ảnh shop đã mô tả ở sản phẩm ) \n- Lưu ý . ngày in trên vỏ bánh là ngày sản xuất \n- Hạn Sử Dụng 6 Tháng Kể Từ Ngày Sản Xuất\n- xuất xứ Đài Loan\n🍱 Combo 1 kg bánh .( Toàn Bánh To Và không trùng vị , Bánh mix tuỳ theo thời điểm nhập hàng , từ 17-20 cái nhưng toàn bánh to nên nặng và đắt chất lượng )\nCombo 1kg gồm có những vị sau\n✅ Bánh Guo ren yuan\n✅Mexican bread\n✅Bông lan Nho beboxan\n✅Bánh chuối đôi \n✅Bánh ruốc cay fuck family tròn\n✅Bánh ruốc cay dài\n✅Bông lan tròn bedoxan\n✅Bánh chuối new bake sữa chua\n✅Bánh xuenuo pai xanh lá\n✅Bánh wang xin lu trứng muối\n✅Bánh kong weng việt quất\n✅Bánh guo ren yuan chữ nhật ruốc nh\n✅Bánh guo ren yuan trứng gấu bắc cực\n✅Bánh guo ren yuan tròn xoắn \n✅Bánh tròn guo ren yuan trứng muối \n✅Bánh vuông ruốc qing ru rou song\n✅Bánh ruốc guolenyuan tròn \n... Rất nhiều vị khác nữa mà shop không thể kể hết\n🍱 Bánh Đài Loan Ngon Chất Lượng\n🍰 Đảm bảo Đủ 1 kg bánh , không tính hộp đựng hàng \n🍰 Đảm bảo ăn là nghiện vì độ ngon của bánh\n🍰 Cam kết hàng chuẩn date mới nhất \n🍰 Không cần tốn kém mua riêng lẻ từng loại , chỉ cần trong 1 combo là đủ các vị yêu thích\n🍰 Người lớn hay trẻ em đều thích và dễ ăn . Bánh ngon lại chất lượng ngại gì không ăn",
+          "gia": "₫75.000 ",
+          "daban": "7,9k",
+          "muc": "Yêu thích+",
+          "loai": "Bánh"
+        },
+        {
+          "id": 4,
+          "image": "https://down-vn.img.susercontent.com/file/sg-11134201-22100-pz65wz257liv3c",
+          "title": "Bánh mì hoa cúc vị sữa chua",
+          "mota": "Bánh tươi Đài Loan đủ vị date mới nhất theo thị trường\nĐủ các mẫu bánh bông lan, bánh mì tươi có nhân và ko nhân hot nhất thị trường . \nThành phần mỗi chiếc bánh đều in rõ trên 1 túi bạn nên khách mua về yên tâm nhé . \nNgày sản xuất và hạn sử dụng in trên bao bì sản phẩm hình thật shop chụp.\nLưu ý : Ngày in trên bao bì là ngày sản xuất.\nHạn sử dụng : 3 tháng kể từ ngày sản xuất.",
+          "gia": "₫12.900",
+          "daban": "1,7k",
+          "muc": "Hot",
+          "loai": "Bánh"
+        },
+        {
+          "id": 5,
+          "image": "https://down-vn.img.susercontent.com/file/e4918ee415c0003490161ec57138582e",
+          "title": "Bánh mỳ phô mai , đậu đỏ thơm ngon (thùng1kg)",
+          "mota": "BÁNH MỲ PHÔ MAI , ĐẬU ĐỎ   \n- quy cách : thùng 1 kg \n- vị : phô mai , đậu đỏ \n- xuất xứ : thành phố Đức Châu , tỉnh Sơn Đông , Trung Quốc \n- hạn sử dụng : 2 tháng  kể từ ngày sản xuất in trên vỏ bánh \n👉bánh mỳ phô mai béo ngậy thơm vị sữa , bánh mỳ đậu đỏ thơm bùi tạo nên hương vị khó quên \n- bánh làm từ bột mì cao cấp , trứng sữa , phô mai , đậu đỏ toàn thành phần được tuyển chọn kĩ càng , buổi sáng chỉ cần một cái bánh và 1 ly sữa là đủ dinh dưỡng cho cả buổi sáng đầy năng lượng rồi ",
+          "gia": "₫85.000",
+          "daban": "905",
+          "muc": "",
+          "loai": "Bánh"
+        },
+        {
+          "id": 6,
+          "image": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-liice11fr7wyd3",
+          "title": "BÁNH MÌ GỐI BƠ SỮA NGÀN LỚP",
+          "mota": "\n1 thùng 8 hộp x 1 hộp 2 cái x 210 gam --> shop em bán theo hộp\nHsd 45 ngày\nHàng đủ công bố giấy tờ\n🍞🍞🍞BÁNH MÌ GỐI BƠ SỮA NGÀN LỚP\n🍞Bánh ngon và thơm lắm mn ơi, cả nhà e đều cực mê bánh nhiều lớp này, dỡ từng lớp ăn bao phê luôn!!\n🍞Bánh nhào nhiều lớp siêu mềm mịn - Thơm mùi bơ sữa nhưng không quá ngọt, rất cuốn ạ. \n🥞Ăn không hoặc chấm sữa đều ngon cả \n😃😃Cảm giác ăn mịn tan luôn nên trẻ con rất là thích! \nLƯU Ý\n- NGÀY IN TRÊN BÁNH LÀ NGÀY SẢN XUẤT.\n- HẠN SỬ DỤNG BÁNH QUÝ KHÁCH VUI LÒNG LẬT MẶT SAU BÁNH ĐỂ XEM HẠN SỬ DỤNG.\nCác mẹ mua trữ sẵn cho con đi học ăn siêu tiện nha. Hoặc lúc đói lôi ra nhâm nhi là đủ năng lượng rồi",
+          "gia": "₫59.000 ",
+          "daban": "51",
+          "muc": "Yêu thích ",
+          "loai": "Bánh"
+        },
+        {
+          "id": 7,
+          "image": "https://down-vn.img.susercontent.com/file/4d2954648c8960164e974e6af094bde9",
+          "title": "Bánh mì tươi các vị (nho, socola, dâu, khoai môn, ruốc)",
+          "mota": "Cảm ơn các bạn đã ghé thăm shop. \nHiện shop đã đăng ký gói freeship extra của Shopee nên khi bạn mua hàng, hãy áp dụng mã miễn phí vận chuyển của Freeship extra để được giảm phí vận chuyển nhé.\nĐơn từ 50k trở lên, sẽ được giảm tối đa 20k phí vận chuyển và đơn từ 300k trở lên được giảm tối đa 70k phí vận chuyển đó ạ. \n(Các hàng chưa đủ 50k, khách có thể xem thêm sản phẩm khác của shop để mua combo đủ điều kiện từ 50k trở lên để được mã giảm phí vận chuyển freeship extra nhé. ^^\nCác bạn vào phần mã giảm giá và chọn phần giảm phí vận chuyển có chữ freeship extra nhé. \nỞ nhà mua hàng online giá tốt tại tổng kho tạp hoá Khang Trang nhé. Cảm ơn khách yêu nhiều ạ)",
+          "gia": "₫2.990 ",
+          "daban": "9,5k",
+          "muc": "Yêu thích+",
+          "loai": "Bánh"
+        },
+        {
+          "id": 8,
+          "image": "https://down-vn.img.susercontent.com/file/vn-11134201-23020-b9arzp4tywnv34",
+          "title": "Bánh mì tươi mini 20c❤️GIÁ SỈ❤️thơm ngon tiện lợi",
+          "mota": "Theo yêu cầu của cả nhà e về thêm a. 😄 phải tìm được chỗ uy tín mới lên bài đây a. Trưa e có ạ\n#BÁN_MỲ_MINI_TƯƠI CÁC BÁC ƠI!!!!!!!!!\n💪💪💪💪 Sỉ  2x\n/ túi 20 cái\nX nhỏ xíu xíu luôn a\n💐💐Bánh mỳ chuột mini vị bơ Pháp chay mặn đều ăn dc nha\n💐💐trong nhà có sẵn ít mỳ tươi bỏ đông ăn dần tiện lắm ah\n💕💕Bánh mỳ chuột mini tươi về nướng bằng nồi chiên ko dầu/lò vi sóng 5-7p là giòn tan, nóng đặc ruột thơm lắm ạ, ưa làm mỳ bơ muối ,mỳ bơ tỏi , nướng lên nóng hổi chấm sữa … ngon,vỏ giòn,ruột dẻo thích lắm ạ.\n# túi 20 chiếc ạ",
+          "gia": "₫39.999",
+          "daban": "48",
+          "muc": "Yêu thích+",
+          "loai": "Bánh"
         }
       ],
       "id": 1
+    },
+    {
+      "ma":2,
+      "id":2,
+      "products":[
+        {
+          "id": 1,
+          "image": "https://down-vn.img.susercontent.com/file/e3c533bc8783b7278a750ede075705d3",
+          "title": "Mì tôm Mug Nhật Bản Nissin cho bé ăn dặm",
+          "mota": "Xuất xứ: Nissin - Nhật Bản \nHSD: 6 tháng kể từ ngày sản xuất \nMì Mug Nhật Bản\nThay đổi khẩu phần ăn hàng ngày hoặc dùng mang đi chơi cho bé rất tiện lợi. \nĐặc biệt, Mi Mug còn kích thích khẩu phần ăn của trẻ, bởi trong mỗi gói mỳ nhỏ đều có thịt(sau khi nở) sẽ thành hình mặt gấu, chú lợn, chú chó hoặc con mèo tạo cho bé cảm giác hứng thú khi ăn. \nMì Mug không chiên, không cay, không nóng, mùi vị thơm ngon, dạng mềm. \nTHÔNG TIN SẢN PHẨM \nSản phẩm có 2 màu sắc tương ứng với 2 hương vị khác biệt cho bữa ăn của bé thêm sự lựa chọn: \n– Mì Mug màu trắng – xanh: Có hình heo và cáo, sợi mì mầu trắng với hương vị thịt heo đặc trưng. \n– Mì Mug màu vàng: Có hình gấu panda và cún con, sợi mì mầu vàng với hương vị hải sản \nCÁCH DÙNG \n– Chỉ cần lấy 01 gói nhỏ, mở ra, cho vào cốc có nắp đậy hoặc bát, đổ 150ml nước sôi vào, rồi cho toàn bộ gói gia vị có sẵn trong túi vào, rồi đậy nắp. Sau 2-3 phút là bé đã có ngay 1 tô mỳ nóng hổi đủ dinh dưỡng.\n– Khi cho nước nóng vào, thịt nở ra & có hình mặt chú lợn hay chú gấu…, giúp kích thích bé ăn ngon, thích ăn.\n– Bạn có thể cho thêm 10ml dầu oliu (tùy thích) hoặc sử dụng nước dùng (nước hầm từ thịt thăn, sườn hoặc rau củ). \n– Mì Mug dành cho bé từ 1 tuổi trở lên hoặc những bé biết ăn cháo lổn nhổn, ăn cơm…",
+          "gia": "₫79.950",
+          "daban": "2,3k",
+          "muc": "Yêu thích+",
+          "loai": "Mỳ Tôm"
+        },
+        {
+          "id": 2,
+          "image": "https://down-vn.img.susercontent.com/file/sg-11134201-7qvcp-li5hi2hm552i3a",
+          "title": "Thùng Mì Tôm 30 Gói Hảo Hảo chua cay",
+          "mota": "30 Gói Mì Tôm Hảo Hảo chua cay ,thiếu gói gia vị muối và mỡ bên trong .Đảm bảo hàng chuẩn của Cty Acecook Việt Nam  ,sai 1 đền 10 luôn ah \nMỌI NGƯỜI LƯU Ý DÙM EM LÀ MÌ THIẾU MUỐI NHA , ko có mất công đặt hàng xong nói Shop em lừa đảo ạ , \nGiá Mì Hảo Hảo chua cay tại đại lý giờ 125 k ( em bán có 98 k ) tất nhiên phải là ko có muối ạ .\nNgày in trên bao bì là ngày sản xuất , cộng thêm 5 tháng là ngày hết hạn , Quý Anh /Chị đừng nhầm ngày in là ngày hết hạn ạ .\nDo nhu cầu nhiều người muốn giảm giá thành lên Shop em xin được phục vụ Qúy Khách theo cách riêng .\nRất mong Quý Khách Hàng đọc kỹ SP trước khi đặt hàng bên em ạ ❤️😘\nCAM KẾT :Hàng chính hãng Cty ACECOOK Việt Nam \nHạn Sử Dụng 6 tháng kể từ ngày SX in trên bao bì .",
+          "gia": "₫103.999",
+          "daban": "580",
+          "muc": "Yêu thích+",
+          "loai": "Mỳ Tôm"
+        },
+        {
+          "id": 3,
+          "image": "https://down-vn.img.susercontent.com/file/5a0737a159c80ccb18f126b011554cdb",
+          "title": "Thùng Mì KOKOMI Tôm Chua Cay 30 gói 65GR",
+          "mota": "Loại mì: Mì nước\nVị mì: Tôm chua cay\nSợi mì: Sợi tròn, nhỏ\nKhối lượng: 65g / gói\nHướng dẫn sử dụng:\nCho vắt mì và các gói gia vị vào tô.\nThêm nước sôi vừa đủ dùng.\nĐậy kín, đợi khoảng 3-4 phút là có thể sử dụng được.\nBảo quản:\nĐể nơi khô ráo, thoáng mát.\nTránh ánh nắng mặt trời.\nXuất xứ: Việt Nam\nHạn sử dụng: 5 tháng",
+          "gia": "₫86.000 ",
+          "daban": "1,1k",
+          "muc": "",
+          "loai": "Mỳ Tôm"
+        },
+        {
+          "id": 4,
+          "image": "https://down-vn.img.susercontent.com/file/6adb26db573d84ab8668d0a0101ebb91",
+          "title": "Gói Mì xào khô Indomie Goreng l 4 vị",
+          "mota": "- Mì có 4 vị được bán tại Việt Nam:\n+ Vị Đặc Biệt (Goreng Fried) 85g\n+ Vị Bò Cay (Goreng Rasa Rendang) 91g\n+ Vị Sườn (Goreng Rasa Iga Penyet) 80g\n+ Vị Cay Nồng (Goreng Pedas) 79\n+ Vị gà siêu cay (Goreng Rasa Ayam Geprek) 85g ->  mì giành cho những bạn thích ăn cay. Khi trộn vị này, gói muối nên trộn 2/3 gói, và gói dầu sa tế nên đổ từ từ vào trộn đều và nếm thử để tìm được khẩu vị cay hợp lý của bạn.\n- Mì Xào Khô INDOMIE\nMột sản phẩm thuộc tập đoàn INDOFOOD của INDONESIA, thương hiệu mì được ưa chuộng tại 60 quốc gia trên toàn thế giới đã có mặt tại Việt Nam.\n- IDOMIE cung cấp cho bạn cho bạn đầy đủ hương vị đặc biệt độc đáo.\n- Sản phẩm có chứa Vitamin A, B1, B6, B12, Axit Folic, sắt và nhiều khoáng chất cần thiết cho cơ thể, đảm bảo năng lượng hoạt động hàng ngày.\n- Thành phần: Bột mì, tinh bột sắn, lúa mạch, chất tạo vị chua, hành tím, đậu tương…\nHạn sử dụng: 8 tháng kể từ ngày sản xuất\n- Cách dùng: cho khoảng 400ml nước sôi vào mì chờ khoảng 2-3 phút cho mềm mì, chắt hết nước và cho các gói gia vị trộn đều và ăn nóng.",
+          "gia": "₫6.200",
+          "daban": "9,3k",
+          "muc": "Yêu thích+",
+          "loai": "Mỳ Tôm"
+        },
+        {
+          "id": 5,
+          "image": "https://down-vn.img.susercontent.com/file/f237e5d71ea4bcef802db59e36f37359",
+          "title": "Mì tôm Enaak cho trẻ em và Mì Shogun vị Gà Nướng",
+          "mota": "Trẻ con bây giờ sướng thật đấy các mẹ ạ! Bao nhiêu là đồ ngon, mình ăn mình còn thấy ngon nữa là trẻ con. Mì tôm enaak này cũng ko phải ngoại lệ ạ!\nVị đậm đà, giòn tan😜😜😜😜\nCon nhà em mang về xé túi nhai nhau nháu 😂😂😒😂\nXuất xứ: Hàng Indonesia liên doanh Hàn Quốc ạ!\nDate: 12 tháng cơ ạ\nNói chung hàng ăn vặt nhà em các chị cứ yên tâm cả về chất lượng lẫn date nhé!",
+          "gia": "₫5.700",
+          "daban": "5,6k",
+          "muc": "",
+          "loai": "Mỳ Tôm"
+        },
+        {
+          "id": 6,
+          "image": "https://down-vn.img.susercontent.com/file/9f1932bf7efeda6ebb3f48d84444b5a6",
+          "title": "Thùng Mì 3 miền tôm chua cay 30 gói",
+          "mota": "- Mì 3 miền tôm chua cay thung 30 gói mỗi gói 65 g\n- Sợi mì mềm dai, hương vị tôm chua cay thơm ngon\n- Chế nước sôi 3 phút là có thể dùng",
+          "gia": "₫85.000",
+          "daban": "1,3k",
+          "muc": "Yêu thích ",
+          "loai": "Mỳ Tôm"
+        },
+        {
+          "id": 7,
+          "image": "https://down-vn.img.susercontent.com/file/d4bc38a53c3fb95cd962892b5a6e8cb1",
+          "title": "5 Gói Mì Tôm Omachi Xốt Bò Hầm, Sườn Hầm, Tôm chua cay 80g",
+          "mota": "Thương hiệu: Omachi - Masan\nThành phần Bột mì nguyên chất, bột lòng đỏ trứng, bột ớt, bột chanh cùng vị xốt bò hầm, sườn hầm....\nMÌ OMACHI được sản xuất từ những nguyên liệu chọn lọc, tươi ngon. Vắt mì làm từ khoai tây tươi cùng với phần súp chứa mỡ bò, hành tây, tỏi, nước cốt từ thịt và xương... tạo nên hương vị hấp dẫn, ngon đúng điệu.\nSản phẩm MÌ OMACHI xốt bò hầm, sườn hầm được sản xuất theo công nghệ hiện đại. Mọi khâu từ tuyển chọn nguyên liệu tới chế biến, đóng gói đều diễn ra khép kín dưới sự giám sát và kiểm tra nghiêm ngặt của các chuyên gia thực phẩm hàng đầu, theo đó sản phẩm không chứa hóa chất, chất bảo quản độc hại, đảm bảo an toàn cho sức khỏe người tiêu dùng.\nCách nấu mì: Cho vắt mì và các gói gia vị vào tô, đổ thêm nước sôi vào tô cho vừa ăn, đậy kín nắp trong vòng 3 phút. Mở nắp rồi trộn đều và thưởng thức.\nMẫu mã bao bì sản phẩm có thể thay đổi tùy từng đợt đổi mẫu của sản xuất\nHướng dẫn bảo quản: Bảo quản nơi thoáng mát, tránh ẩm ướt. Tránh ánh nắng mặt trời",
+          "gia": "₫47.000 ",
+          "daban": "2,6k",
+          "muc": "Yêu thích",
+          "loai": "Mỳ Tôm"
+        },
+        {
+          "id": 8,
+          "image": "https://down-vn.img.susercontent.com/file/ad4d21212546bed08033efb0bb09596c",
+          "title": "[Freeship70k] Thùng 30 gói mì gấu đỏ tôm chua cay 63g/ thùng 30 gói mì gà sợi phở gấu đỏ",
+          "mota": "Sợi mì vàng dai ngon được tẩm ướp nước mắm cá cơm hoà quyện trong nước súp tôm chua cay Gấu Đỏ đậm đà cùng hành phi 1 nắng thơm lừng ngất ngây. 30 gói mì Gấu Đỏ tôm chua cay 63g có hương vị thơm ngon khó cưỡng, lựa chọn hấp dẫn cho bữa ăn nhanh gọn đơn giản và đầy đủ dưỡng chất\nThông tin sản phẩm\nLoại mì \nMì nước\nVị mì \nTôm chua cay\nSợi mì \nSợi tròn, nhỏ \n Khối lượng \n63g / gói\nThành phần \nBột mì, dầu thực vật tinh luyện, tinh bột khoai mì biến tính (1412, 1420), muối I-ốt, đường, chất điều vị (621, 627, 631), hành (5 g/kg), chiết xuất nấm men, bột tôm (1,6 g/kg), ớt, tiêu, tỏi, rau sấy, chất điều chỉnh độ axit (296, 330), chất tạo xốp (452(i), 500(i)), chất ổn định (466, 501(i)), chất nhũ hoá (322(i), 420(i)), hương tổng hợp dùng trong thực phẩm, chất ngọt tổng hợp (420(ii), 950, 951), màu tự nhiên (160b(i), 160c), chất chống oxy hoá (320, 321).\nCách dùng \nCho vắt mì và các gói gia vị vào tô. Chế khoảng 320 ml nước sôi, đậy nắp trong 3 phút. Mở nắp, trộn đều bạn sẽ có tô mì ngon tuyệt.\nBảo quản \nBảo quản nơi khô ráo, thoáng mát, tránh ánh nắng trực tiếp. Không để gần hóa chất hoặc sản phẩm có mùi mạnh.",
+          "gia": "₫85.000",
+          "daban": "192",
+          "muc": "Yêu thích",
+          "loai": "Mỳ Tôm"
+        }
+      ]
+    },
+    {
+      "ma": 3,
+      "products": [
+        {
+          "id": 1,
+          "image": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-liqs1sfkcedu65",
+          "title": "[TẶNG LY GIỮ NHIỆT 900ML]Thùng 24 Lon Nước Ngọt Có Gaz Mirinda Soda Kem (320ml/lon)",
+          "mota": "Trên thị trường ngành hàng đồ uống có gaz đang ngày càng phát triển và đa dạng sản phẩm, Mirinda luôn tự hào là nhãn hiệu nước giải khát có gaz nổi tiếng mà luôn được mọi lứa tuổi ưa chuộng và tin dùng.\nĐược sản xuất trên dây chuyền công nghệ hiện đại, đảm bảo vệ sinh, an toàn cho sức khỏe người tiêu dùng. Sản phẩm đậm vị soda kem thơm béo, ngọt dịu kết hợp với vị gaz nhẹ - Mirinda Soda Kem luôn là lựa chọn tuyệt vời giải nhanh cơn khát, tràn đầy năng lượng, cùng bạn khơi nguồn sáng tạo, tận hưởng mọi cuộc vuiiiiii!\nSố lượng: 24 lon/thùng\nHSD: 12 tháng kể từ ngày sản xuất \nHướng dẫn bảo quản: Bảo quản nơi sạch sẽ, khô ráo thoáng mát, tránh ánh nắng mặt trời.\n***Lưu ý: \n+ Bao bì sản phẩm thay có thể đổi theo đợt nhập hàng\n+ Giá sản phẩm đã bao gồm thuế theo luật hiện hành và phí vận chuyển\n+ Chỉ áp dụng hình thức thanh toán online",
+          "gia": "₫205.000",
+          "daban": "62",
+          "loai": "Nước ngọt",
+          "muc": "Mall"
+        },
+        {
+          "id": 2,
+          "image": "https://down-vn.img.susercontent.com/file/3b04c549068cf953f2a39a9189f7f8da_tn",
+          "title": "Nước Uống Có Gas SFC Soda Sparkling Vị Cam Mận Xoài Dưa Hấu Dưa Lưới 350ml",
+          "mota": "🌳 Có 5 vị : dưa hấu, mận, cam , dưa gang, dưa lưới.\n🌳 Bảo quản: Nơi khô ráo, thoáng mát, tránh ánh nắng mặt trời\n🌳 Thể tích thực: 350ml/lon\n🌳 Hạn sử dụng: 24 tháng kể từ ngày sản xuất in trên bao bì sản phẩm\n▶️ MÔ TẢ SẢN PHẨM\n🌳 Nước Soda SFC đên từ hàn quốc giúp bạn sản khoái tinh thần vui chơi và làm việc ,,,\n🌳 Soda mix là mới chính là 'Từ Khóa' được tìm kiếm nhiều nhất trong thế giới đồ uống giải nhiệt mùa hè.\n🌳 Nguyên liệu tự nhiên và giàu dưỡng chất, cung cấp nhiều năng lượng và nước cho các hoạt động hằng ngày\n🌳 Dễ dàng sử dụng và mang theo khi đi chơi hoặc đi làm.\n🌳 Có 5 vị : dưa hấu, mận, cam , dưa gang, dưa lưới, xoài",
+          "gia": "₫18.000",
+          "daban": "2,4k",
+          "loai": "Nước ngọt",
+          "muc": "Hot"
+        },
+        {
+          "id": 3,
+          "image": "https://down-vn.img.susercontent.com/file/2d6df5dba66e341b01aadafd2e0cac09",
+          "title": "Nước trái cây hoa quả Kangshifu",
+          "mota": " Cải thiện sự hấp thu chất dinh dưỡng, tăng cường hệ thống miễn dịch, giảm huyết áp , tăng cường lưu thông, tăng mật độ xương, hỗ trợ sức khỏe hệ thần kinh, hỗ trợ nhận thức và loại bỏ viêm, trong số những người khác  \n+> Cải thiện sức khỏe tim mạch: \n +> Tăng lưu thông: \n +> Ngăn ngừa loãng xương: \n+> Điều hòa hệ thần kinh: \n+>Giảm viêm\n+>Tăng cường miễn dịch\n +>Thúc đẩy lượng dinh dưỡng\nBảo quản nơi khô ráo, thoáng mát, ngon hơn khi uống lạnh",
+          "gia": "₫18.900",
+          "daban": "10k",
+          "loai": "Nước ngọt",
+          "muc": ""
+        },
+        {
+          "id": 4,
+          "image": "https://down-vn.img.susercontent.com/file/b279f2d8419725cc5bc2221dda88bb17",
+          "title": "Lốc 6 Chai Nước Giải Khát, Nước Ngọt Có Ga Coca, 7up, Pepsi, Sting, Number One, Revive, Warrior",
+          "mota": "Các Loại Nước Ngọt Có Ga\nĐóng gói: 6 chai/lốc\nPhân loại: \n- Coca 390ML\n- 7 Up 390ML\n- Pepsi 390ML\n- Sting Dâu/Nhân Sâm 330ML\n- Number One: 330ML\n-  Revive Chanh Muối 390ML/ Muối Khoáng 500ML\n- Warrior Nho: 330ML",
+          "gia": "₫59.999",
+          "daban": "558",
+          "muc": "Yêu thích",
+          "loai": "Nước ngọt"
+        },
+        {
+          "id": 5,
+          "image": "https://down-vn.img.susercontent.com/file/73bf2bce8040764ad08138ba343b707f_tn",
+          "title": "Nước Trái Cây Có Ga Lon 330ml 🍇🍑🍓🍒GIẢM CÂN🍇🍑🍓🍒 Soda CHI FOREST",
+          "mota": "    CAM KẾT CỦA SHOP\n           -Giao ngay HỎA TỐC trong TPHCM nhận trong 1 2h\n           -Đổi trả khi sản phẩm tổn hại hoặc không đúng sản phẩm hoàn toàn 100/100\n           -Khách hàng sẽ nhận được hàng trong khoảng thời gian 2 đến 3 ngày nếu khách ở xa\n          -Đóng gói cẩn thận, gửi hàng nhanh chóng.100% là ảnh THẬT tự chụp.\n                      THÔNG TIN SẢN PHẨM\n           🍇🍑🍓🍒 Nước soda có ga không Calo có tên là CHI FOREST 🍇🍑🍓🍒\n            + Rất có ích cho người thích uống nước ngọt nhưng mà không lo mập vì sản phẩm thuộc dòng : 0 đường - 0 chất béo - 0 calo\n            + Mùi hương ngọt ngào của các loại trái cây và mát lạnh , nay thêm tuyệt vời cùng cảm giác bùng nổ từ những làn sóng ga sảng khoái.\n            🍕 Thức uống không thể thiếu cho mỗi bữa ăn\nUống nước có ga, vị hoa quả ngọt ngào mà lại không lo bị béo\n🍇Vị Nho 🍇\n🍑Vị Đào 🍑\n🍓Vị Dâu Dừa🍓\n🍒Vị Vải 🍒\n- Hạn sử dụng: 24 tháng\nQuy cách đóng gói:\nLon chứa dung tích 330ml\nXuất xứ: Trung Quốc\nLưu ý :\nHSD: 24 tháng kể từ ngày sản xuất ,hạn sử dụng in trên thân chai\n - HƯỚNG DẪN SỬ DỤNG: sử dụng ngay khi mở uống trực tiếp với nước đá hoặc bỏ vào tủ lạnh cho lanh trước dùng sẽ ngon hơn.\n- BẢO QUẢN: nơi khô ráo, thoáng mát, tránh tiếp xúc trực tiếp với ánh nắng mặt trời.\nLiên hệ:\nNhắn tin trực tiếp cho shop và khách hàng sẽ được trả lời sớm nhất .",
+          "gia": "₫19.900",
+          "daban": "1k",
+          "muc": "",
+          "loai": "Nước ngọt"
+        },
+        {
+          "id": 6,
+          "image": "https://down-vn.img.susercontent.com/file/sg-11134201-22120-aist2oxxx3kv4a",
+          "title": "[TẶNG LY GIỮ NHIỆT 900L]Thùng 24 Lon Nước Uống Có Gaz Pepsi Vị Chanh Không Calo (320ml/lon)",
+          "mota": "Thế hệ Pepsi-Cola tiên phong dành cho bạn, với vị Cola trứ danh, đột phá cùng Vị Chanh, không calo đem đến một trải nghiệm sảng khoái tột đỉnh, để bạn thoải mái bung hết chất mình. \nHương vị: Nước Ngọt Có Gas Pepsi Không Calo với hương cola hấp dẫn kết hợp cùng vị chanh thanh mát, không chỉ mang lại cảm giác sảng khoái, giải nhiệt tức thì mà còn tốt cho sức khỏe. Dùng trực tiếp, sẽ ngon hơn khi ướp lạnh, hoặc dùng với đá.\nThiết kế bao bì chất liệu lon Matte nhám sang trọng lần đầu tiên xuất hiện trong ngành hàng Nước uống có gaz, giúp bạn có thể dễ dàng bảo quản cũng như mang theo sản phẩm trong các buổi tiệc, chuyến dã ngoại.\nSố lượng: 24 lon/thùng\nHSD: 09 tháng kể từ ngày sản xuất\nBảo quản nơi sạch sẽ, khô ráo thoáng mát, tránh ánh nắng mặt trời. \n***Lưu ý: \n+ Bao bì sản phẩm có thể đổi theo đợt nhập hàng\n+ Giá sản phẩm đã bao gồm thuế theo luật hiện hành và phí vận chuyển\n+ Chỉ áp dụng hình thức thanh toán online",
+          "gia": "₫207.000",
+          "daban": "241",
+          "muc": "Mall",
+          "loai": "Nước ngọt"
+        },
+        {
+          "id": 7,
+          "image": "https://down-vn.img.susercontent.com/file/e2b13830264de3ca8b52ffe7b117cbc6",
+          "title": "Thùng 10 bịch nước trái cây oishi vị teago chanh, đào, nước cam, táo, nho, bưởi, t-rexx",
+          "mota": "Thùng 10 bịch nước trái cây oishi vị teago chanh, teago đào, teago cam, teago táo, t-rexx \n Nhãng oishi nổi tiếng bim bim ra đời dòng nước trái cây cực thơm ngon bổ rẻ",
+          "gia": "₫35.000",
+          "daban": "4,4k",
+          "muc": "Yêu thích",
+          "loai": "Nước ngọt"
+        },
+        {
+          "id": 8,
+          "image": "https://down-vn.img.susercontent.com/file/36bc106eb43165fe53d50c2f7a511824",
+          "title": "[GROFFWC -10% max 30k đơn 170k] Thùng/lốc 24 Lon Nước Giải Khát Có Gas Fanta Nho 320ml x 24 lon",
+          "mota": "Thông tin sản phẩm\nLốc 24 Lon Nước Giải Khát Có Gas Fanta Nho 320ml là nước ngọt có ga thơm ngon hấp dẫn đến từ thương hiệu nước ngọt Fanta nổi tiếng trên thế giới. Lốc 24  lon nước ngọt Fanta hương nho 320ml chua ngọt tươi mới, thơm ngon mang đến cho bạn cảm giác sảng khoái cùng vị ga thích thú. Sản phẩm chính hãng, giá tốt\n· Thương hiệu: Fanta (Việt Nam)\n· Sản xuất tại: Việt Nam\n· Loại nước: Nước ngọt\n· Hương vị: Hương nho\n· Thành phần: Nước bảo hoà CO2, đường HFCS, đường mía, chất điều chỉnh độ acid, hương nho tự nhiên và tổng hợp, chất tạo ngọt tổng hợp, chất bảo quản, màu tổng hợp, hỗn hợp vitamin (B3, B5, B6)\n· Lượng ga: Có ga\n· Lượng đường: Có đường\n· Thể tích: 320ml\n· Số lượng: 24 lon\n· Sử dụng: Ngon hơn khi uống lạnh\n· Bảo quản: Bảo quản nơi thoáng mát\n· HSD: 9 tháng \nThành phần dinh dưỡng trong sản phẩm\n· Thành phần chủ yếu của sản phẩm là nước bão hòa CO2, đường, hương nho và khoáng chất natri.\n· Mức năng lượng của sản phẩm khoảng 19 calo/100ml\nTác dụng của sản phẩm với sức khỏe\n· Cung cấp năng lượng tươi trẻ, cho tinh thần tỉnh táo\n· Giải khát\n· Giải tỏa căng thẳng mệt mỏi\n· Nước có ga có tác dụng kích thích vị giác, giúp ăn ngon ngon miệng hơn, tốt cho tiêu hóa\n· Nước ngọt còn có tác giúp giúp giữ canxi trong máu\nLưu ý khi sử dụng và cách bảo quản sản phẩm\n· Bảo quản nơi khô ráo thoáng mát\n· Tránh nơi có ánh nắng trực tiếp\n· Tránh để sản phẩm trong tủ lạnh\n· Không lạm dụng sản phẩm, uống quá nhiều, đặc biệt với trẻ em\n· Không phù hợp cho người tiểu đường\n#cocacola #coca #nutriboost #thumsup #sprite #fanta #dasani #fuzetea #teppy #monster #schweppes #fantanho #fantacam  #aquarius #fantaxaxi #fantasodakem #nuocngotcoga #nuocngot #nuocgiaikhat # #georgiamaxcoffee\nLưu ý: mẫu mã bao bì thay đổi theo từng đợt nhập hàng.",
+          "gia": "₫192.000",
+          "daban": "114",
+          "muc": "Mall",
+          "loai": "Nước ngọt"
+        }
+      ],
+      "id": 3
+    },
+    {
+      "ma": 4,
+      "products": [
+        {
+          "id": 1,
+          "image": "https://down-vn.img.susercontent.com/file/vn-11134211-23030-xf1m45ez0cov5b",
+          "title": "Phở Bò Chinsu Thịt Thật Nguyên Miếng, Bánh Đa Cua, Hủ Tiếu, Miến Gà Hầm Măng, Phở Gà",
+          "mota": "Sản phẩm mới của Chinsu\nRiêu cua đồng 120g\nHủ tiếu nam vang thịt bằm trứng cút 137\nHủ tiếu khô Nam Vang 71g\nPhở bò thịt thật 132g\nHủ tiếu bò kho nguyên miếng 145g\nMiến gà măng khô 123g\nChế biến trong 5 phút siêu ngon và tiện lợi\nThành phần: gạo, chất ổn định, tinh bột khoai tây, tinh bột gạo, muối đường, chất điều vị...\n- Hướng dẫn sử dụng: xé và cho vắt phở và nguyên liệu vào bát, đổ vào 400ml nước sôi đậy nắp trong 5 phút, trộn đều thưởng thức\n-Sản phẩm sx bởi: Công ty TNHH một thành viên công nghiệp masan\n- Sản xuất tại Việt Nam\nHạn sử dụng : 9 tháng",
+          "gia": "₫29.900",
+          "daban": "12,1k",
+          "loai": "Phở",
+          "muc": "Yêu thích"
+        },
+        {
+          "id": 2,
+          "image": "https://down-vn.img.susercontent.com/file/2c5f8d2bb2ee30ecc7beb9dcd0d27763",
+          "title": "Bún riêu cua/bánh đa cua/phở bò/phở gà VIFON",
+          "mota": "Bún riêu cua, bánh đa cua,phở bò,phở gà ViFon\nKhối lượng tịnh: phở bò,phở gà:65g\nBánh đa cua 60g\nBún riêu cua:80g",
+          "gia": "₫11.000",
+          "daban": "4,4k",
+          "loai": "Phở",
+          "muc": "Yêu thích+"
+        },
+        {
+          "id": 3,
+          "image": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-li8j7m70bt1udf",
+          "title": "[Thùng 30 gói] Phở Bò VIFON (65g / Gói)",
+          "mota": "Món phở Việt Nam là món ngon truyền thống ăn kèm rau thơm, húng quế được phục vụ vào buổi sáng. Thưởng thức một tô Phở Bò VIFON nóng quả là một lựa chọn hợp lý cho bữa sáng. Điểm đặc trưng nhất của phở VIFON là vị nước dùng thanh, nhẹ nhàng giữ nguyên vị phở xưa truyền thống.",
+          "gia": "₫259.900",
+          "daban": "1k",
+          "loai": "Phở",
+          "muc": "Mall"
+        },
+        {
+          "id": 4,
+          "image": "https://down-vn.img.susercontent.com/file/d39a97344e933551eae07b9e0bc57ac2_tn",
+          "title": "[HCM] Mì xào khô / Mì Trộn Indomie Mi Goreng Ngon số 1 Thế Giới (Đủ Vị)",
+          "mota": "❤ Một sản phẩm thuộc tập đoàn INDOFOOD của INDONESIA, thương hiệu mì được ưa chuộng tại 60 quốc gia trên toàn thế giới đã có mặt tại VIỆT NAM !!!\n❤ Được The Ramen Rater bình chọn là một trong 10 sản phẩm mì ngon nhất mọi thời đại, INDOMIE cung cấp cho bạn đủ đầy hương vị đặc biệt độc đáo của đất nước vạn đảo Nam Dương.\n❤ Sản phẩm có chứa Vitamin A, B1,B6,B12,Axit Folic, sắt và nhiều khoáng chất cần thiết cho cơ thể, đảm bảo năng lượng hoạt động hàng ngày.\n𝐂𝐎́ 𝐒𝐀̆̃𝐍 𝟒 𝐕𝐈̣ 𝐂𝐎̛ 𝐁𝐀̉𝐍\n🛑 Vị Đặc Biệt ( Goreng Fried ) 85g\n🛑 Vị Bò Cay ( Goreng Rasa Rendang ) 91g\n🛑 Vị Sườn ( Goreng Rasa Iga Penyet) 80g\n🛑 Vị Cay Nồng (Goreng Pedas ) 79g\n𝐇𝐔̛𝐎̛́𝐍𝐆 𝐃𝐀̂̃𝐍 𝐒𝐔̛̉ 𝐃𝐔̣𝐍𝐆\n➊ - Nấu mì với 400ml nước sôi trong khoảng 3 phút.\n➋ - Cho các gói gia vị, dầu gia vị vá nước sốt vào đĩa, trộn đều. Điều chỉnh gia vị tùy theo khẩu vị.\n➌ - Vớt mì ra để ráo.\n➍ - Sau đó cho vào đĩa trộn đều với gia vị đã pha sẵn và món mì xào đã sẵn sàng để thưởng thức",
+          "gia": "₫5.500",
+          "daban": "127k",
+          "muc": "Yêu thích",
+          "loai": "Phở"
+        },
+        {
+          "id": 5,
+          "image": "https://down-vn.img.susercontent.com/file/19ac41363f3d55845442ff36e6721bf7",
+          "title": "Phở gà good 68g",
+          "mota": "Mỳ ăn liền sợi phở sản phẩm với công nghệ nhật bản\nĐịa chỉ cửa hàng tạp hóa thắng phượng 45e,  dương khuê, mai dịch, hà nội",
+          "gia": "₫5.000",
+          "daban": "2,2k",
+          "muc": "Yêu thích",
+          "loai": "Phở"
+        },
+        {
+          "id": 6,
+          "image": "https://down-vn.img.susercontent.com/file/2fba409a79ffd3eb5fd0fe9a5862f5b9_tn",
+          "title": "Phở Gánh Hà Nội Ăn Liền Thùng 24 Gói x 75gr",
+          "mota": "“Phở là một thứ quà đặc biệt của Hà Nội, không phải chỉ riêng Hà Nội mới có nhưng chính là vì chỉ ở Hà Nội mới ngon”. Nhắc đến Phở Hà Nội, ta không thể bỏ qua Phở Gánh - nơi đầu tiên Phở ra đời với hương vị rất đặc trưng và cũng là nơi lưu giữ những kí ức ngọt ngào về Hà Nội xưa. Phở Gánh Hà Nội ăn liền của Foodeli mang trọn vẹn hương vị truyền thống của Phở Gánh vào trong từng gói phở, khiến bạn cứ ngỡ như đang được thưởng thức tô phở nóng hổi trên phố cổ Hà Nội xưa. Phở Bò ăn liền của Foodeli với: \n-Vắt phở làm 100% từ những hạt gạo mới nguyên chất, được lựa chọn kĩ lưỡng; trải qua các quá trình ngâm, xay, nghiền; sau đó đem hấp và sấy khô đảm bảo bánh phở có độ dẻo dai chỉ sau 4 phút chế biến. \n-Nước cốt xương hầm nguyên chất được hầm liên tục 12 giờ mang vị thanh ngọt từ xương, kết hợp với hương thơm từ mùi, hồi, quế, thảo quả, gừng nướng, hành nướng và thịt bò băm tạo nên một gói sốt đậm đà, tròn vị. \n-Gói hành lá, hành chẻ được sấy theo công nghệ sấy thăng hoa giữ nguyên được màu sắc, hương vị đặc trưng và đầy đủ chất dinh dưỡng. \n-Gói tỏi ớt ngâm giấm ăn kèm phở giúp dậy mùi, chống ngán và đúng chuẩn hương vị phở Hà Nội. \n-Gói tương ớt xay được chế biến đặc biệt dành riêng cho Phở Hà Nội. \nChỉ với vài thao tác chế biến đơn giản, Foodeli mang đến cho bạn một bữa ăn đầy đủ dinh dưỡng, đúng chuẩn hương vị tinh tuý của Phở Gánh Hà Nội xưa mà chẳng cần đi đâu xa. \nThông tin sản phẩm\n- Trọng lượng 75gr/gói, 1 thùng 24 gói \n- Giá trị năng lượng 215kcal \n- Sản phẩm đạt đầy đủ các tiêu chuẩn khắt khe về vệ sinh an toàn thực phẩm FSSC 22000, ISO, HACCP \n- 1 thùng 24 gói \n- HSD: 12 tháng kể từ ngày sản xuất ghi trên bao bì \n- Sản xuất tại Việt Nam\nHướng dẫn sử dụng\n- Bước 1: Cho vắt phở, gói rau và gói nước sốt vào tô \n- Bước 2: Chế khoảng 400ml nước sôi vào tô \n- Bước 3: Đậy nắp tô lại và chờ trong khoảng từ 3-4 phút \n- Bước 4: Trộn đều, cho gói tương ớt và tỏi ớt ngâm giấm vào tô rồi thưởng thức\n*Sản phẩm của Công ty cổ phần thương mai Foodeli Việt Nam.",
+          "gia": "₫216.000",
+          "daban": "1,2k",
+          "muc": "",
+          "loai": "Phở"
+        },
+        {
+          "id": 7,
+          "image": "https://down-vn.img.susercontent.com/file/sg-11134201-22090-y99yxor6b1hv41_tn",
+          "title": "[Tô lẻ] TÔ CHINSU CÓ THỊT 5 VỊ: PHỞ BÒ, HỦ TIẾU NAM VANG, BÁNH ĐA CUA, HỦ TIẾU BÒ KHO, MIẾN GÀ HẦM MĂNG ",
+          "mota": "Bữa ăn cực tiện lợi và thơm ngon. Chin-su tô 145g là thực phẩm ăn liền của nhà Chin-su với 5 hương vị khác nhau, mang đặc trưng riêng của từng món ăn đậm chất  và thấm đẫm trong từng sợi dai ngon đậm đà kèm gói thịt thật cực chất lượng cùng mùi hương hấp dẫn lôi cuốn không thể chối từ\nCó 05 vị: Phở Bò, Hủ Tiếu Nam Vang, Bánh Đa Cua, Hủ Tiếu Bò Kho, Miến Gà Hầm Măng\nKhối lượng: 145g\nCách nấu: Mở nắp tô, xé và cho vắt hủ tiếu, các gói gia vị và gói thịt bò nguyên miếng vào tô. Đổ nước sôi tới vạch trong tô. Đây nắp và đợi trong 5 phút. Trộn đều và thưởng thức.\nBảo quản: Bảo quản nơi khô ráo, tránh ánh nắng mặt trời. Nên chế biến ngay khi mở bao bì. Tránh để gần hoá chất và sản phẩm có mùi mạnh.\nThương hiệu: Chin-su (Việt Nam)\nSản xuất tại Việt Nam",
+          "gia": "₫52.000",
+          "daban": "554",
+          "muc": "Yêu thích",
+          "loai": "Phở"
+        },
+        {
+          "id": 8,
+          "image": "https://down-vn.img.susercontent.com/file/vn-11134211-23030-lqcaa57tadov2b",
+          "title": "Phở Bò Acecook, Tái Lăn, Phở Gà Ngon Như Phở Quán",
+          "mota": "ĐỆ NHẤT PHỞ, NGON NHƯ PHỞ QUÁN\nTrong mỗi gói Phở Đệ Nhất, từng sợi phở mềm dai đắm mình trong nước súp thơm ngon tuyệt hảo. Sự kết hợp hài hòa, tỉ mỉ của các gia vị Phở truyền thống, cùng nước cốt thịt và nhiều hành lá tươi ngon, bạn sẽ được thưởng thức tô phở NGON NHƯ PHỞ QUÁN dù ở nhà hay bất cứ nơi đâu.\nHướng dẫn sử dụng\nCách chung\nBước 1\nCho vắt phở và các gói gia vị vào tô.\nBước 2\nChế khoảng 400ml nước sôi, đậy nắp lại và chờ 3 phút.\nBước 3\nTrộn đều và dùng được ngay.\nGIÁ TRỊ DINH DƯỠNG\nGiá trị năng lượng:235 kcal\nChất béo:3,8 g\nCarbohydrat:45,6 g\nChất đạm:4,6 g\nTHÀNH PHẦN\nVắt phở: Gạo, chất làm dày (tinh bột xử lý oxy hóa (1404)), tinh bột khoai tây, đường, muối, chất điều vị (mononatri L-glutamat (621)), chất nhũ hóa (lecithin đậu nành (322(i)), natri carboxymethyl cellulose (466)). Các gói gia vị: Muối, dầu thực vật (dầu cọ, chất chống oxy hoá (BHA (320), BHT (321))), chất điều vị (mononatri L-glutamat (621), dinatri 5'-inosinat (631), dinatri 5'-guanylat (627)), các gia vị (hành, gừng, tỏi, ớt, tiêu, tai vị, tiểu hồi, quế, hạt ngò), tương ớt, đường, nước cốt bò 17,75 g/kg, protein đậu nành, hương bò tổng hợp 3,7 g/kg, maltodextrin, hành lá sấy, tương đậu nành, tinh bột khoai mì, chiết xuất nấm men, chất chống đông vón (dioxyd silic vô định hình (551)), phẩm màu tổng hợp (caramen nhóm I (150a)), hương bò rau thơm tổng hợp (đậu nành) 0,44 g/kg, chất bảo quản (kali sorbat (202)), phẩm màu tự nhiên (curcumin (100(i))), chất tạo ngọt tổng hợp (acesulfam kali (950)).\n* Quý khách lưu ý: Bao bì sản phẩm có thể thay đổi tùy theo đợt nhập hàng và vẫn luôn đảm bảo hàng chính hãng.\n-Hạn sử dụng: 8 tháng\n-Xuất xứ: Việt Nam\n-Sản xuất bởi: Công ty Cổ phần  Acecook Việt Nam\n-Địa chỉ: Lô số III đường số 11, nhóm CN II, khu công nghiệp Tân Bình, phường Tân Thạnh, quận Tân Phú, TP Hồ Chí Minh, Việt Nam",
+          "gia": "₫11.900",
+          "daban": "1,7k",
+          "muc": "Yêu thích",
+          "loai": "Phở"
+        }
+      ],
+      "id": 4
+    },
+    {
+      "ma": 5,
+      "products": [
+        {
+          "id": 1,
+          "image": "https://down-vn.img.susercontent.com/file/ce5d84eed76de3db4703c94370445733",
+          "title": "Đùi Gà Chiên Giòn Cay CP_ 1 Đùi",
+          "mota": "- Thương hiệu CP đã quá nổi tiếng tại Việt Nam về chế biến thực phẩm thịt tươi sống, chất lượng đã được khẳng định trong nhiều năm qua.\n- Chính vì được sự tin dùng của khách hàng, CP Việt Nam đã ra mắt nhiều sản phẩm ngày càng chất lượng để đáp ứng nhu cầu của khách hàng.\n- Đùi gà chiên giòn CP đã ra mắt để phục vụ cho nhu cầu bữa ăn nhanh cho khách hàng ngay tại nhà mà chất lượng không thua kém tại những nhà hàng thức ăn nhanh.\n- Bạn không có thời gian chuẩn bị bữa ăn nhanh yêu thích cho các bé yêu thương của mình?\n- Đừng lo, với đùi gà chiên giòn CP bạn chỉ cần 10 phút là đã có ngay những đùi gà chiên giòn cực ngon cho bé nhà mình.",
+          "gia": "₫23.000",
+          "daban": "2k",
+          "loai": "Gà rán",
+          "muc": "Yêu thích"
+        },
+        {
+          "id": 2,
+          "image": "https://down-vn.img.susercontent.com/file/sg-11134201-22090-is0njsoqzuhv63_tn",
+          "title": "Bột chiên gà KFC, Lotteria Thủy Tiên Food - Chuẩn vị, chiên cực giòn không ngấm dầu mỡ",
+          "mota": "Bột chiên gà KFC, Lotteria Thủy Tiên Food - Chuẩn vị, chiên cực giòn không ngấm dầu mỡ\nThông tin sản phẩm:\n1- Thành phần: Bột ngô, bột mì, muối gia vị,...\n2- Công dụng: Làm các món ngô, khoai béo ngậy, giòn thơm và màu bắt mắt.\n3- Hạn sử dụng: 12 tháng từ ngày sản xuất in trên bao bì\n4- Trọng lượng: 500g/ 1kg\nHướng dẫn sử dụng\nBước 1: Thịt gà rửa sạch,chặt miếng nhỏ vừa ăn, khía nhẹ vài đường cho thấm gia vị. Để gà trên rổ cho ráo nước, dùng giấy ăn thấm khô.\nBước 2: Ướp thịt với 2 thìa cà phê muối, 1/2 thìa cà phê hạt nêm, 1/2 thìa cà phê bột tỏi (công thức cho 1kg thịt gà) trộn đều và ướp từ 3 - 4 tiếng cho ngấm. Có thể dùng màng bọc thực phẩm bọc kín lại.\nBước 3: Sau đó cho bột vào túi ny lông sạch, nhúng miếng gà qua nước, cho các miếng gà vào bột khô. Phủ bột vào miếng gà và dùng tay bóp nhẹ cho bột bám đều vào miếng gà.\nBước 4: Rũ sạch bột bám trên miếng gà nhúng lại miếng gà qua nước rồi lặp lại bước phủ bột 1 lần nữa. \nBước 5: Dùng chảo sâu lòng, đổ ngập 1/2 chảo bằng dầu ăn, đun nóng, rồi thả từng miếng gà vào một rán vàng và cùng thưởng thức. ",
+          "gia": "₫99.000",
+          "daban": "640",
+          "loai": "Gà rán",
+          "muc": ""
+        },
+        {
+          "id": 3,
+          "image": "https://down-vn.img.susercontent.com/file/02f8841ee4ca7fb6c3bec12d26895575_tn",
+          "title": "Gà Rán KFC Quang Vinh 350g",
+          "mota": "💥💥💥💥💥 BỘT CHIÊN GÀ KFC nhà e đã quay lại ạ \nBột chiên gà chuẩn vị KFC. \n#50k 2 set ( 1 set . gồm 2 túi 1 túi bột khô và 1 túi bột ướt)).\nTừ nay không phải ra tiệm mà các mẹ vẫn có thể làm ra 1 đĩa gà chuẩn vị KFC, ảnh  thật e làm cho con e nhé. Rất dễ làm ạ. \n🍴1 sét bột ( có 2 gói ) chiên được từ 1,2 kg gà vừa rẻ lại ngon và sạch \n🍗🍖🍟Chỉ với 1 sét BỘT CHIÊN GÀ \nthể chế biến các món như gà rán sốt cay, gà lắc phô mai, gà sốt chua , gà sốt mật ong ngoài ra còn chiên cá, chiên khoai, chiên hải sản..\n🌿1 món khác không thể bỏ qua là heo chiên tẩm bột, miếng thịt thái lát mỏng, nhúng qua bột pha thêm gia vị rồi chiên lên sẽ ra thành phẩm giòn rụm, thơm ngon, đậm đà.sỉ từ 10 set trở lên",
+          "gia": "₫34.000",
+          "daban": "2k",
+          "loai": "Gà rán",
+          "muc": "Yêu thích"
+        },
+        {
+          "id": 4,
+          "image": "https://down-vn.img.susercontent.com/file/c7c797836b08be3c4998253e518f7e64",
+          "title": "Gà Chiên Giòn CP Tiện Lợi_ Làm nóng ăn liền nhiều vị",
+          "mota": "sản xuất tại nhà máy CP Việt Nam\nSản phẩm chỉ cần làm nóng là ăn liền ( chiên, quay lò vi sóng,,,)\nHạn sử dụng 18 tháng\nthịt gà đậm vị, bên ngoài giòn tan, trong thịt vẫn mềm, bao ngon luôn ạ\nChiên chấm tương cà, ớt mayone…\nChế biến trong 1phút , ko cần rã đông, chiên trực tiếp trên dầu nóng hoặc nồi chiên không dầu \n ngày này ăn bao ngon khách ạ, gà CP môi loại là một vị khác nhau, mỗi vị có phong cách riêng, đáng để thưởng thức.",
+          "gia": "₫85.000",
+          "daban": "1,1k",
+          "muc": "Yêu thích",
+          "loai": "Gà rán"
+        },
+        {
+          "id": 5,
+          "image": "https://down-vn.img.susercontent.com/file/19ac41363f3d55845442ff36e6721bf7",
+          "title": "Đùi Gà Rán Giòn Tan",
+          "mota": "Tên Sản Phẩm: Đùi Gà rán\nThương Hiệu : SaigonJSC \nQuy cách : Túi 3 cái đùi / 500Gr\nBảo quản: -18 độ C, tủ đông, hoặc ngăn đông của tủ lạnh.\nGà rán được làm từ 100% thịt gà tươi .Gia vị  nguyên liệu đầu vào tất cả đều được chọn lọc và phân tích chuyên sâu kỹ càng. Quy trình sản xuất theo công nghệ khép kín từ khi tẩm ướp , chiên, đóng gói đến cấp đông và giao tới khách hàng đều được giám sát kỹ càng. ",
+          "gia": "₫58.000",
+          "daban": "2.3k",
+          "muc": "",
+          "loai": "Gà rán"
+        },
+        {
+          "id": 6,
+          "image": "https://down-vn.img.susercontent.com/file/e56dc47fd942cf21bde921b89fa1d2a3_tn",
+          "title": "Gà karaage CP chiên giòn ngon ( túi 300gr)",
+          "mota": "-Đảm bảo an toàn vệ sinh thực phẩm, các sản phẩm đều mới sản xuất, thời gian sử dụng còn dài hạn.  \n-Hàng chính hãng của công ty đối tác hoặc do chính DORA sản xuất.\n-Đóng gói đầy đủ tận tâm để sản phẩm đến tay khách hàng.\n- Hương vi cay nhẹ, đã tẩm bột chiên sẵn rất tiện, mọi người chỉ cẩn chiên lại hoặc bỏ nồi chiên không dầu là có ngay đùi ko thua kém ngoài hàng\n- Sản phẩm được sản xuất từ thương hiệu CP nổi tiếng đặc biệt ở các thành phố lớn như Hà Nội, HCM, nên mọi người có thể an tâm sử dụng.\nKARAAGE 300gr\nHàng tẩm thơm ngon, đảm bảo vừa lòng khách hàng khó tính nhất.\n✅HDSD: kg cần rã đông lấy ra 5p là bỏ lò chiên không dầu 20phút là măm măm luôn mà ko cần phải tẩn ướp hay sơ chế gì nhé.\nAn toàn - tiện lợi - thơm ngon cho các bé.\n✅Thương hiệu: CP\n✅Thời hạn sử dụng: 12 tháng kể từ NSX\n✅Điều kiện bảo quản: ≤ -18ºC hoặc ngăn đá tủ lạnh",
+          "gia": "₫48.000",
+          "daban": "460",
+          "muc": "Yêu thích",
+          "loai": "Gà rán"
+        },
+        {
+          "id": 7,
+          "image": "https://down-vn.img.susercontent.com/file/b196af51bb05bb46e127c4763707769e",
+          "title": "Đùi Gà Rán 10 cái KFC CP Loại 1 (Phú Nhuận)",
+          "mota": "\n*Giới thiệu:\nĐùi gà rán là một sản phẩm thơm ngon chất lượng trong giới ăn vặt nói chung và các nhà hàng quán ăn nói riêng. Nói như vậy bởi vì Đùi gà rán có thể chinh phục tất cả các lĩnh vực cảu giới ăn uống và độ tuổi từ già đến trẻ cđều thích sản phẩm Đùi gà rán này.\n*Cách chiên đùi gà rán:\nĐùi gà rán được chiên trong dầu nóng, dầu càng nóng đùi gà sẽ càng đẹp các bạn nhé. Đùi gà rán sau khi chiên xong sẽ được để lên miếng giấy cho thắm hết dầu mở.\nKhi chiên đùi gà rán các bạn nhớ trỡ đùi gà đều tay để không làm vỡ đùi gà nhé. Sau cùng các bạn chỉ việc thưởng thức sản phẩm mà mình làm ra thôi nhé.",
+          "gia": "₫220.000",
+          "daban": "2.1k",
+          "muc": "Yêu thích",
+          "loai": "Gà rán"
+        },
+        {
+          "id": 8,
+          "image": "https://down-vn.img.susercontent.com/file/81ed0c3c51deef746bcc81af72c68411",
+          "title": "LẺ 1 GÓI 25gr CÁNH GIỮA GÀ TẨM MẬT ONG ĂN LIỀN",
+          "mota": "GÓI 25gr CÁNH GIỮA GÀ TẨM MẬT ONG ĂN LIỀN\nTín đồ mê ăn vặt không thể bỏ qua món này đâu ạ! ngon xuất sắc luôn. Cánh gà là phần mà nhiều chị em thích ăn nhất được tẩm ướp gia vị siêu ngon và hấp dẫn.\n Có 3 vị cho khách yêu lựa chọn:\n👉Đen vị tương\n👉 Đỏ cay \n👉 Vàng ít cay\nNgày sản xuất ghi trên bao bì.\nHSD 9 tháng kể từ ngày sản xuất.",
+          "gia": "₫3.300",
+          "daban": "18,8k",
+          "muc": "Yêu thích",
+          "loai": "Gà rán"
+        }
+      ],
+      "id": 5
+    },
+    {
+      "ma": 6,
+      "products": [
+        {
+          "id": 1,
+          "image": "https://down-vn.img.susercontent.com/file/9281f8d9b2844be3cee7d11144a19605_tn",
+          "title": "COMBO Đồ ăn vặt CAY SIÊU HOT TIỆM CỔNG TRƯỜNG 20 GÓI",
+          "mota": "Sản phẩm: Combo Đồ Ăn Vặt chua cay\nXin chào bạn đến với Tiệm Ăn Vặt nhà Thuỳ nha!!\n✔Tất cả sản phẩm đều được mình tự chụp khách yên tâm đặt hàng nhaaaa!!\n✔Đồ ăn đảm bảo, đa dạng, luôn có sẵn, sản phẩm được đóng gói trong thùng chắc chắn khách nhà mình không lo sản phẩm bị bẹp - vỡ.\n✔️Tổng hợp các loại bánh kẹo đại lý, bách hoá - tổng hợp, quán ăn, căng-tin cổng trường.\n✔️Phù hợp mọi lứa tuổi, sản phẩm luôn được nhập mới liên tục đảm bảo chất lượng.\n    ✨ Ngày sản xuất được in trên bao bì\n    ✨ Hạn sử dụng 6 tháng kể từ ngày sản xuất.\n    ✨ Để nơi thoáng mát, tránh ánh nắng trực tiếp\n    ✨ Mọi vấn đề thắc mắc khách nhắn tin trực tiếp cho mình sẽ xử lý giải đáp nhanh nhất nha!!",
+          "gia": "₫36.000",
+          "daban": "34,5k",
+          "loai": "Đồ ăn vặt",
+          "muc": "Yêu thích"
+        },
+        {
+          "id": 2,
+          "image": "https://down-vn.img.susercontent.com/file/e6ae4f3ff7c88bed07372fe896988027_tn",
+          "title": "Khô 3 Vị Mix hộp 300gr : KHÔ GÀ + KHÔ HEO + MỰC SỢI HẤP DỪA đo ăn văt ngon rẻ sài gòn",
+          "mota": "KHÔ 3 Vị Mix : KHÔ GÀ + KHÔ HEO + MỰC SỢI HẤP DỪA ✌️\n✔Khô 3 vị gồm : Mực hấp dừa, Heo cháy tỏi, Gà lá chanh 😘❤️\n☘E về khô 3 loại mix chung 1 hủ, quý khách có thể thưởng thức 3 loại cùng lúc mà không phải mua riêng lẻ từng loại tốn kém ạ, hihi.\nE mời mọi người lên đơn. Sỉ từ 10 lon giá tốt\nQuy cách đóng gói : hủ pet 300g.\nShop Đảm Bảo\n-Chăm sóc khách hàng là ưu tiên đầu tiên của shop mình ạ, nên có thắc mắc gì cứ inbox hoặc gọi cho shop.\n-Về sản phẩm shop đảm bảo luôn là date mới nhất luôn nên là chất lượng tuyệt đối.\n-Về giá cả : vì là lấy số lượng lớn nên giá luôn là giá rẻ nhất thị trường bán lẻ và sỉ ạ\n-Chuẩn bị hàng: Shop luôn có hàng sẵn trên 10 thùng nên sản phẩm sẽ được gửi đến các bạn sớm nhất luôn ạ\nHàng có sẵn, giao hàng ngay khi nhận được đơn \nGiao hàng trên toàn quốc, nhận hàng trả tiền \nHỗ trợ đổi trả theo quy định của Shopee ",
+          "gia": "₫50.000",
+          "daban": "11,9k",
+          "loai": "Đồ ăn vặt",
+          "muc": "Yêu thích"
+        },
+        {
+          "id": 3,
+          "image": "https://down-vn.img.susercontent.com/file/f18e72c75b3a59a9c68162f936a3a4b4_tn",
+          "title": "Ăn Vặt cao cấp đóng lon giá sỉ",
+          "mota": "Sẵn hàng ăn vặt đóng Pet nhà làm:\nQui cách :Đóng lon pet có nắp thiếc và túi hút ẩm và nắp nhựa đậy sau khi khui lon\nHạn sử dụng : 06thang\nBảo Quản tránh ánh nắng trực tiếp để nơi khô ráo thoáng mát",
+          "gia": "₫93.000",
+          "daban": "12,2k",
+          "loai": "Đồ ăn vặt",
+          "muc": ""
+        },
+        {
+          "id": 4,
+          "image": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-li9qxz2rvcgi76",
+          "title": "Kẹo MIX MIX sấy giòn - KẸO KHÔNG CHUA ăn vặt siêu ngon KKC",
+          "mota": "Kẹo MIX MIX sấy giòn - KẸO KHÔNG CHUA ăn vặt siêu ngon KKC\n- Hướng dẫn sử dụng: Dùng ăn trực tiếp\n- Hướng dẫn bảo quản: Nhiệt độ thường\n- Trọng lượng tịnh: \n- Hạn sử dụng: 06 tháng kể từ ngày sản xuất",
+          "gia": "₫39.000 ",
+          "daban": "3,4k",
+          "muc": "Yêu thích",
+          "loai": "Đồ ăn vặt"
+        },
+        {
+          "id": 5,
+          "image": "https://down-vn.img.susercontent.com/file/sg-11134201-23010-b2say3olxgmvd8",
+          "title": "Đồ ăn vặt ngon giá rẻ Đệ Nhất Khô 22 món đặc sản Phan Thiết",
+          "mota": "ĐỒ ĂN VẶT ĐỆ NHẤT KHÔ - ĐẶC SẢN PHAN THIẾT CÓ GÌ MÀ ĐẠT ĐƯỢC HƠN 30.000 ĐƠN HÀNG TRONG 1 NĂM ???\n- Đồ ăn vặt ngon rẻ an toàn uy tín : trên thị trường đồ ăn vặt shopee food hiện nay có rất nhiêu shop bán hàng với các mẫu mã đa dạng và chất lượng, cạnh tranh cao làm khách hàng khó lựa chọn một thương hiệu ăn vặt uy tín chất lượng. Hiểu được tâm lý đó, Đệ Nhất Khô - Đặc Sản Phan Thiết luôn chú trọng tập trung phát triển về chất lượng sản phẩm cho đồ ăn vặt, đồ ăn vặt không chỉ ngon mà còn phải an toàn vệ sinh thực phẩm, đồ ăn vặt phải có bao bì mẫu mã đẹp, đồ ăn vặt phải có giá thành phù hợp với mọi người.\n- Đồ ăn vặt mới lạ độc đáo : Đệ Nhất Khô - Đặc Sản Phan Thiết luôn tự hào vì các sản phẩm đồ ăn vặt của Shop được sinh ra tại Phan Thiết, vùng đát của nắng , gió và đặc sản là các loại hải sản làm thành đồ ăn vặt mang tính mới lạ, ít bị trúng lặp, ngon mắt , ngon miệng.\n- Vệ sinh an toàn thực phẩm : Các sản phẩm Khô Ăn Liền của chúng mình được kiểm soát kỹ lưỡng về chất lượng sản phẩm, không chỉ đảm bảo sản phẩm ngon về mùi vị, chuẩn về chất lượng mà còn phải đạt được tiêu chuẩn vệ sinh an toàn thực phẩm, bạn hoàn toàn tự tin và an tâm sử dụng\n- Đóng gói đẹp mắt, chắc chắn : Chúng mình đầu tư rất kỹ về nhãn mác bao bì của sản phẩm theo phong cách trẻ trung, năng động, vui nhộn... bạn hoàn toàn có thể sử dụng các sản phẩm của Shop để tặng quà cho người thân, bạn bè, đồng nghiệp với chi phí phải chăng.\n- Giao hàng nhanh chóng : Chúng mình đảm bảo hàng sẽ được\n giao đến tay bạn từ 1 - 2 ngày ở Khu vực miền Nam và miền Trung, 3 - 4 ngày ở Khu vực miền Bắc ^^.\n- Quà tặng tri ân : Để cảm ơn bạn đã tin tưởng lựa chọn các sản phẩm của Shop, chúng mình sẽ dành tặng cho bạn một phần quà nho nhỏ chứa đựng ngập tràn tình cảm, chúng mình hi vọng bạn sẽ thích.",
+          "gia": "₫49.000 ",
+          "daban": "6,4k",
+          "muc": "Yêu thích",
+          "loai": "Đồ ăn vặt"
+        },
+        {
+          "id": 6,
+          "image": "https://down-vn.img.susercontent.com/file/c45b6065c1a1916e1eb578fea28e2bcd",
+          "title": "[Sẵn date mới] 💥Kẹo SoCoLa Bọc Dâu Tây Sấy💥 Gói 60g",
+          "mota": "Socola bọc dâu tây sấy lạnh gói 60gram siêu hot hit \nNhững viên socola  nhỏ xinh bọc những quả dâu tây sấy khô giòn. Kèm vị ngọt ngào của socola, vị chua dịu nhẹ của dâu tây là sự kết hợp tuyệt hảo, ăn hoài không thấy chán.\nSản phẩm phù hợp cho các tín đồ ăn uống, vị ngọt của sô cô la.\nHình ảnh bắt mắt hợp lý xuất hiện trong các tiệc cưới, sinh nhât..\nCó 3 vị chính :\nSocola truyền thống\nSocola Matcha\nSocola sữa\n",
+          "gia": "₫25.000",
+          "daban": "3,6k",
+          "muc": "Yêu thích+",
+          "loai": "Đồ ăn vặt"
+        },
+        {
+          "id": 7,
+          "image": "https://down-vn.img.susercontent.com/file/61d3812bdaff90abe20e9ff390832aba",
+          "title": "Đồ ăn vặt tổng hợp các món ngọt bánh kẹo bimbim siêu thơm ngon",
+          "mota": "Đồ ăn vặt tổng hợp các món ngọt bánh kẹo bimbim siêu thơm ngon\nTL : 15-50h/1 gói\nHsd : 6th từ ngày sx\nNgày in trên bao bì là ngày sản xuất\nHướng dẫn sử dụng: Mở túi ăn ngay.\nBảo quản ở nhiệt độ thường, tránh ánh nắng trực tiếp.\nĐồ ăn vặt từ lâu là món ăn vặt quen thuộc với giới trẻ. \nĐồ ăn vặt gồm các món ngọt : bánh, kẹo, bimbim rất dễ ăn và phù hợp với khẩu vị của nhiều người.\nXuất xứ : Đài Loan",
+          "gia": "₫12.900",
+          "daban": "14,5k",
+          "muc": "Yêu thích+",
+          "loai": "Đồ ăn vặt"
+        },
+        {
+          "id": 8,
+          "image": "https://down-vn.img.susercontent.com/file/sg-11134201-22120-827nlbjejglvb1",
+          "title": "500G Đùi Gà Sấy Phô Mai, Bánh Quẩy Đùi Gà Phô Mai Giòn Tan Thơm Ngon, đồ ăn vặt",
+          "mota": "Quẩy đùi gà phô mai cay 500g \n- Thành phần: Bột mì,bơ, đường, ớt , vị phô mai cùng gia vị.  \n- Hướng dẫn sử dụng:  Ăn trực tiếp hoặc ăn kèm với nước ngọt hoặc làm mồi nhậu là hết sẩy.\n- Hướng dẫn bảo quản: Nhiệt độ thường, để ở nơi khô ráo, thoáng mát. Tránh ánh nắng trực tiếp\n- Trọng lượng: 500g\n- Hạn sử dụng: 06 tháng kể từ ngày sản xuất\n- Xuất Xứ: Việt Nam\nChúc các bạn có những phút giây vui vẻ và ngon miệng với quẩy đùi gà phô mai cay Soyum. À, đừng quên bên mình vẫn còn nhiều món ngon lắm đấy, như khô bò, khô heo cháy tỏi... chẳng hạn.\nThơm ngon từng sợi ",
+          "gia": "₫25.000",
+          "daban": "19,3k",
+          "muc": "Yêu thích+",
+          "loai": "Đồ ăn vặt"
+        }
+      ],
+      "id": 6
     }
   ],
   "image1": [
@@ -145,44 +635,61 @@
   ],
   "cart": [
     {
-      "id": 1,
       "userId": 1,
       "products": [
         {
           "id": 1,
           "product": [
             {
-              "id": 1,
-              "image": "https://down-vn.img.susercontent.com/file/e9bdde49a2765c3d331871cfb5ffdbed_tn",
-              "title": "Bánh Mì Hoa Cúc 270G",
-              "mota": "Bánh mì hoa cúc hạnh nhân được coi là chiếc bánh mì bơ ngon nhất thế giới. Vì thành phần chính tạo nên hương vị và kết cấu hoàn toàn khác biệt của bánh chính là bơ. Chất lượng của bơ gần như quyết định chất lượng bánh. Tại Gạch Đỏ, Bánh mì hoa cúc là vũ khúc healthy của Bơ Ph.áp hảo hạng \n- Đất nước của những dòng bơ thơm ngon, dẻo mềm và sánh mịn hàng đầu thế giới. Cảm nhận hương thơm nức mũi, vị bơ sữa xen lẫn hương cam tự nhiên cực cuốn, không ngấy mà rất vừa vặn, sợi bánh tơi như sợi chỉ, khiến người dùng như lạc bước vào nước Ph.áp lãng mạn. Hàm lượng caloo nhỏ, giàu dinhh dưỡngg, được tạo nên từ 💯 nguyên liệu tự nhiên, xứng đáng được nạp ngay vào sổ tay nội trợ của mọi tín đồ healthy.",
-              "gia": "₫65.000",
-              "daban": "5k6",
-              "muc": "Yêu thích+",
-              "loai": "Bánh"
+              "id": 16,
+              "image": "https://down-vn.img.susercontent.com/file/ad4d21212546bed08033efb0bb09596c",
+              "title": "[Freeship70k] Thùng 30 gói mì gấu đỏ tôm chua cay 63g/ thùng 30 gói mì gà sợi phở gấu đỏ",
+              "mota": "Sợi mì vàng dai ngon được tẩm ướp nước mắm cá cơm hoà quyện trong nước súp tôm chua cay Gấu Đỏ đậm đà cùng hành phi 1 nắng thơm lừng ngất ngây. 30 gói mì Gấu Đỏ tôm chua cay 63g có hương vị thơm ngon khó cưỡng, lựa chọn hấp dẫn cho bữa ăn nhanh gọn đơn giản và đầy đủ dưỡng chất\nThông tin sản phẩm\nLoại mì \nMì nước\nVị mì \nTôm chua cay\nSợi mì \nSợi tròn, nhỏ \n Khối lượng \n63g / gói\nThành phần \nBột mì, dầu thực vật tinh luyện, tinh bột khoai mì biến tính (1412, 1420), muối I-ốt, đường, chất điều vị (621, 627, 631), hành (5 g/kg), chiết xuất nấm men, bột tôm (1,6 g/kg), ớt, tiêu, tỏi, rau sấy, chất điều chỉnh độ axit (296, 330), chất tạo xốp (452(i), 500(i)), chất ổn định (466, 501(i)), chất nhũ hoá (322(i), 420(i)), hương tổng hợp dùng trong thực phẩm, chất ngọt tổng hợp (420(ii), 950, 951), màu tự nhiên (160b(i), 160c), chất chống oxy hoá (320, 321).\nCách dùng \nCho vắt mì và các gói gia vị vào tô. Chế khoảng 320 ml nước sôi, đậy nắp trong 3 phút. Mở nắp, trộn đều bạn sẽ có tô mì ngon tuyệt.\nBảo quản \nBảo quản nơi khô ráo, thoáng mát, tránh ánh nắng trực tiếp. Không để gần hóa chất hoặc sản phẩm có mùi mạnh.",
+              "gia": "₫85.000",
+              "daban": "192",
+              "muc": "Yêu thích",
+              "loai": "Mỳ Tôm"
             }
           ],
           "quantity": 3,
-          "totalPrice": 195000
+          "totalPrice": 255000
         },
         {
           "id": 2,
           "product": [
             {
-              "id": 5,
-              "image": "https://down-vn.img.susercontent.com/file/9bdb5fa57757392f3451d76dcf00253c",
-              "title": "NƯỚC SODA TRÁI CÂY HÀN QUỐC",
-              "mota": "- Nước Tropicana Sparkling vị nho 🍇\n- Nước Tropicana Sparkling Vị đào 🍑\n- Nước Tropicana Sparkling Vị Cam 🍊\n- Nước Tropicana Sparkling Vị Táo  🍏\n- Nước Tropicana Sparkling Vị  Xoài  🍋",
-              "gia": "₫23.000",
-              "daban": "900",
+              "id": 10,
+              "image": "https://down-vn.img.susercontent.com/file/sg-11134201-7qvcp-li5hi2hm552i3a",
+              "title": "hùng Mì Tôm 30 Gói Hảo Hảo chua cay",
+              "mota": "30 Gói Mì Tôm Hảo Hảo chua cay ,thiếu gói gia vị muối và mỡ bên trong .Đảm bảo hàng chuẩn của Cty Acecook Việt Nam  ,sai 1 đền 10 luôn ah \nMỌI NGƯỜI LƯU Ý DÙM EM LÀ MÌ THIẾU MUỐI NHA , ko có mất công đặt hàng xong nói Shop em lừa đảo ạ , \nGiá Mì Hảo Hảo chua cay tại đại lý giờ 125 k ( em bán có 98 k ) tất nhiên phải là ko có muối ạ .\nNgày in trên bao bì là ngày sản xuất , cộng thêm 5 tháng là ngày hết hạn , Quý Anh /Chị đừng nhầm ngày in là ngày hết hạn ạ .\nDo nhu cầu nhiều người muốn giảm giá thành lên Shop em xin được phục vụ Qúy Khách theo cách riêng .\nRất mong Quý Khách Hàng đọc kỹ SP trước khi đặt hàng bên em ạ ❤️😘\nCAM KẾT :Hàng chính hãng Cty ACECOOK Việt Nam \nHạn Sử Dụng 6 tháng kể từ ngày SX in trên bao bì .",
+              "gia": "₫103.999",
+              "daban": "580",
               "muc": "Yêu thích+",
-              "loai": "Nước ngọt"
+              "loai": "Mỳ Tôm"
             }
           ],
-          "quantity": 6,
-          "totalPrice": 138000
+          "quantity": 3,
+          "totalPrice": 311997
+        },
+        {
+          "id": 3,
+          "product": [
+            {
+              "id": 4,
+              "image": "https://down-vn.img.susercontent.com/file/6adb26db573d84ab8668d0a0101ebb91",
+              "title": "Gói Mì xào khô Indomie Goreng l 4 vị",
+              "mota": "- Mì có 4 vị được bán tại Việt Nam:\n+ Vị Đặc Biệt (Goreng Fried) 85g\n+ Vị Bò Cay (Goreng Rasa Rendang) 91g\n+ Vị Sườn (Goreng Rasa Iga Penyet) 80g\n+ Vị Cay Nồng (Goreng Pedas) 79\n+ Vị gà siêu cay (Goreng Rasa Ayam Geprek) 85g ->  mì giành cho những bạn thích ăn cay. Khi trộn vị này, gói muối nên trộn 2/3 gói, và gói dầu sa tế nên đổ từ từ vào trộn đều và nếm thử để tìm được khẩu vị cay hợp lý của bạn.\n- Mì Xào Khô INDOMIE\nMột sản phẩm thuộc tập đoàn INDOFOOD của INDONESIA, thương hiệu mì được ưa chuộng tại 60 quốc gia trên toàn thế giới đã có mặt tại Việt Nam.\n- IDOMIE cung cấp cho bạn cho bạn đầy đủ hương vị đặc biệt độc đáo.\n- Sản phẩm có chứa Vitamin A, B1, B6, B12, Axit Folic, sắt và nhiều khoáng chất cần thiết cho cơ thể, đảm bảo năng lượng hoạt động hàng ngày.\n- Thành phần: Bột mì, tinh bột sắn, lúa mạch, chất tạo vị chua, hành tím, đậu tương…\nHạn sử dụng: 8 tháng kể từ ngày sản xuất\n- Cách dùng: cho khoảng 400ml nước sôi vào mì chờ khoảng 2-3 phút cho mềm mì, chắt hết nước và cho các gói gia vị trộn đều và ăn nóng.",
+              "gia": "₫6.200",
+              "daban": "9,3k",
+              "muc": "Yêu thích+",
+              "loai": "Mỳ Tôm"
+            }
+          ],
+          "quantity": 2,
+          "totalPrice": 12400
         }
-      ]
+      ],
+      "id": 1
     }
   ],
   "Loai": [
@@ -193,22 +700,20 @@
         "Nước Ngọt",
         "Phở",
         "Gà rán",
-        "Tôm chiên",
-        "Tôm"
+        "Đồ ăn vặt"
       ],
       "id": 1
     }
   ],
   "Goiy": [
     {
-      "id": 1,
       "image": "https://down-vn.img.susercontent.com/file/e9bdde49a2765c3d331871cfb5ffdbed_tn",
       "title": "Bánh Mì Hoa Cúc 270G",
-      "mota": "Bánh mì hoa cúc hạnh nhân được coi là chiếc bánh mì bơ ngon nhất thế giới. Vì thành phần chính tạo nên hương vị và kết cấu hoàn toàn khác biệt của bánh chính là bơ. Chất lượng của bơ gần như quyết định chất lượng bánh. Tại Gạch Đỏ, Bánh mì hoa cúc là vũ khúc healthy của Bơ Ph.áp hảo hạng \n- Đất nước của những dòng bơ thơm ngon, dẻo mềm và sánh mịn hàng đầu thế giới. Cảm nhận hương thơm nức mũi, vị bơ sữa xen lẫn hương cam tự nhiên cực cuốn, không ngấy mà rất vừa vặn, sợi bánh tơi như sợi chỉ, khiến người dùng như lạc bước vào nước Ph.áp lãng mạn. Hàm lượng caloo nhỏ, giàu dinhh dưỡngg, được tạo nên từ 💯 nguyên liệu tự nhiên, xứng đáng được nạp ngay vào sổ tay nội trợ của mọi tín đồ healthy.",
       "gia": "₫65.000",
+      "mota": "Bánh mì hoa cúc hạnh nhân được coi là chiếc bánh mì bơ ngon nhất thế giới. Vì thành phần chính tạo nên hương vị và kết cấu hoàn toàn khác biệt của bánh chính là bơ. Chất lượng của bơ gần như quyết định chất lượng bánh. Tại Gạch Đỏ, Bánh mì hoa cúc là vũ khúc healthy của Bơ Ph.áp hảo hạng \n- Đất nước của những dòng bơ thơm ngon, dẻo mềm và sánh mịn hàng đầu thế giới. Cảm nhận hương thơm nức mũi, vị bơ sữa xen lẫn hương cam tự nhiên cực cuốn, không ngấy mà rất vừa vặn, sợi bánh tơi như sợi chỉ, khiến người dùng như lạc bước vào nước Ph.áp lãng mạn. Hàm lượng caloo nhỏ, giàu dinhh dưỡngg, được tạo nên từ 💯 nguyên liệu tự nhiên, xứng đáng được nạp ngay vào sổ tay nội trợ của mọi tín đồ healthy.",
       "daban": "5k6",
-      "muc": "Yêu thích+",
-      "loai": "Bánh"
+      "loai": "Bánh",
+      "id": 1
     },
     {
       "id": 4,
@@ -239,6 +744,548 @@
       "daban": "10k",
       "loai": "Nước ngọt",
       "muc": ""
+    },
+    {
+      "id": 7,
+      "image": "https://down-vn.img.susercontent.com/file/4d2954648c8960164e974e6af094bde9",
+      "title": "Bánh mì tươi các vị (nho, socola, dâu, khoai môn, ruốc)",
+      "mota": "Cảm ơn các bạn đã ghé thăm shop. \nHiện shop đã đăng ký gói freeship extra của Shopee nên khi bạn mua hàng, hãy áp dụng mã miễn phí vận chuyển của Freeship extra để được giảm phí vận chuyển nhé.\nĐơn từ 50k trở lên, sẽ được giảm tối đa 20k phí vận chuyển và đơn từ 300k trở lên được giảm tối đa 70k phí vận chuyển đó ạ. \n(Các hàng chưa đủ 50k, khách có thể xem thêm sản phẩm khác của shop để mua combo đủ điều kiện từ 50k trở lên để được mã giảm phí vận chuyển freeship extra nhé. ^^\nCác bạn vào phần mã giảm giá và chọn phần giảm phí vận chuyển có chữ freeship extra nhé. \nỞ nhà mua hàng online giá tốt tại tổng kho tạp hoá Khang Trang nhé. Cảm ơn khách yêu nhiều ạ)",
+      "gia": "₫2.990 ",
+      "daban": "9,5k",
+      "muc": "Yêu thích+",
+      "loai": "Bánh"
+    },
+    {
+      "id": 8,
+      "image": "https://down-vn.img.susercontent.com/file/vn-11134201-23020-b9arzp4tywnv34",
+      "title": "Bánh mì tươi mini 20c❤️GIÁ SỈ❤️thơm ngon tiện lợi",
+      "mota": "Theo yêu cầu của cả nhà e về thêm a. 😄 phải tìm được chỗ uy tín mới lên bài đây a. Trưa e có ạ\n#BÁN_MỲ_MINI_TƯƠI CÁC BÁC ƠI!!!!!!!!!\n💪💪💪💪 Sỉ  2x\n/ túi 20 cái\nX nhỏ xíu xíu luôn a\n💐💐Bánh mỳ chuột mini vị bơ Pháp chay mặn đều ăn dc nha\n💐💐trong nhà có sẵn ít mỳ tươi bỏ đông ăn dần tiện lắm ah\n💕💕Bánh mỳ chuột mini tươi về nướng bằng nồi chiên ko dầu/lò vi sóng 5-7p là giòn tan, nóng đặc ruột thơm lắm ạ, ưa làm mỳ bơ muối ,mỳ bơ tỏi , nướng lên nóng hổi chấm sữa … ngon,vỏ giòn,ruột dẻo thích lắm ạ.\n# túi 20 chiếc ạ",
+      "gia": "₫39.999",
+      "daban": "48",
+      "muc": "Yêu thích+",
+      "loai": "Bánh"
+    },
+    {
+      "id": 9,
+      "image": "https://down-vn.img.susercontent.com/file/e3c533bc8783b7278a750ede075705d3",
+      "title": "Mì tôm Mug Nhật Bản Nissin cho bé ăn dặm",
+      "mota": "Xuất xứ: Nissin - Nhật Bản \nHSD: 6 tháng kể từ ngày sản xuất \nMì Mug Nhật Bản\nThay đổi khẩu phần ăn hàng ngày hoặc dùng mang đi chơi cho bé rất tiện lợi. \nĐặc biệt, Mi Mug còn kích thích khẩu phần ăn của trẻ, bởi trong mỗi gói mỳ nhỏ đều có thịt(sau khi nở) sẽ thành hình mặt gấu, chú lợn, chú chó hoặc con mèo tạo cho bé cảm giác hứng thú khi ăn. \nMì Mug không chiên, không cay, không nóng, mùi vị thơm ngon, dạng mềm. \nTHÔNG TIN SẢN PHẨM \nSản phẩm có 2 màu sắc tương ứng với 2 hương vị khác biệt cho bữa ăn của bé thêm sự lựa chọn: \n– Mì Mug màu trắng – xanh: Có hình heo và cáo, sợi mì mầu trắng với hương vị thịt heo đặc trưng. \n– Mì Mug màu vàng: Có hình gấu panda và cún con, sợi mì mầu vàng với hương vị hải sản \nCÁCH DÙNG \n– Chỉ cần lấy 01 gói nhỏ, mở ra, cho vào cốc có nắp đậy hoặc bát, đổ 150ml nước sôi vào, rồi cho toàn bộ gói gia vị có sẵn trong túi vào, rồi đậy nắp. Sau 2-3 phút là bé đã có ngay 1 tô mỳ nóng hổi đủ dinh dưỡng.\n– Khi cho nước nóng vào, thịt nở ra & có hình mặt chú lợn hay chú gấu…, giúp kích thích bé ăn ngon, thích ăn.\n– Bạn có thể cho thêm 10ml dầu oliu (tùy thích) hoặc sử dụng nước dùng (nước hầm từ thịt thăn, sườn hoặc rau củ). \n– Mì Mug dành cho bé từ 1 tuổi trở lên hoặc những bé biết ăn cháo lổn nhổn, ăn cơm…",
+      "gia": "₫79.950",
+      "daban": "2,3k",
+      "muc": "Yêu thích+",
+      "loai": "Mỳ Tôm"
+    },
+    {
+      "id": 10,
+      "image": "https://down-vn.img.susercontent.com/file/sg-11134201-7qvcp-li5hi2hm552i3a",
+      "title": "hùng Mì Tôm 30 Gói Hảo Hảo chua cay",
+      "mota": "30 Gói Mì Tôm Hảo Hảo chua cay ,thiếu gói gia vị muối và mỡ bên trong .Đảm bảo hàng chuẩn của Cty Acecook Việt Nam  ,sai 1 đền 10 luôn ah \nMỌI NGƯỜI LƯU Ý DÙM EM LÀ MÌ THIẾU MUỐI NHA , ko có mất công đặt hàng xong nói Shop em lừa đảo ạ , \nGiá Mì Hảo Hảo chua cay tại đại lý giờ 125 k ( em bán có 98 k ) tất nhiên phải là ko có muối ạ .\nNgày in trên bao bì là ngày sản xuất , cộng thêm 5 tháng là ngày hết hạn , Quý Anh /Chị đừng nhầm ngày in là ngày hết hạn ạ .\nDo nhu cầu nhiều người muốn giảm giá thành lên Shop em xin được phục vụ Qúy Khách theo cách riêng .\nRất mong Quý Khách Hàng đọc kỹ SP trước khi đặt hàng bên em ạ ❤️😘\nCAM KẾT :Hàng chính hãng Cty ACECOOK Việt Nam \nHạn Sử Dụng 6 tháng kể từ ngày SX in trên bao bì .",
+      "gia": "₫103.999",
+      "daban": "580",
+      "muc": "Yêu thích+",
+      "loai": "Mỳ Tôm"
+    },
+    {
+      "id": 11,
+      "image": "https://down-vn.img.susercontent.com/file/5a0737a159c80ccb18f126b011554cdb",
+      "title": "Thùng Mì KOKOMI Tôm Chua Cay 30 gói 65GR",
+      "mota": "Loại mì: Mì nước\nVị mì: Tôm chua cay\nSợi mì: Sợi tròn, nhỏ\nKhối lượng: 65g / gói\nHướng dẫn sử dụng:\nCho vắt mì và các gói gia vị vào tô.\nThêm nước sôi vừa đủ dùng.\nĐậy kín, đợi khoảng 3-4 phút là có thể sử dụng được.\nBảo quản:\nĐể nơi khô ráo, thoáng mát.\nTránh ánh nắng mặt trời.\nXuất xứ: Việt Nam\nHạn sử dụng: 5 tháng",
+      "gia": "₫86.000 ",
+      "daban": "1,1k",
+      "muc": "",
+      "loai": "Mỳ Tôm"
+    },
+    {
+      "id": 16,
+      "image": "https://down-vn.img.susercontent.com/file/ad4d21212546bed08033efb0bb09596c",
+      "title": "[Freeship70k] Thùng 30 gói mì gấu đỏ tôm chua cay 63g/ thùng 30 gói mì gà sợi phở gấu đỏ",
+      "mota": "Sợi mì vàng dai ngon được tẩm ướp nước mắm cá cơm hoà quyện trong nước súp tôm chua cay Gấu Đỏ đậm đà cùng hành phi 1 nắng thơm lừng ngất ngây. 30 gói mì Gấu Đỏ tôm chua cay 63g có hương vị thơm ngon khó cưỡng, lựa chọn hấp dẫn cho bữa ăn nhanh gọn đơn giản và đầy đủ dưỡng chất\nThông tin sản phẩm\nLoại mì \nMì nước\nVị mì \nTôm chua cay\nSợi mì \nSợi tròn, nhỏ \n Khối lượng \n63g / gói\nThành phần \nBột mì, dầu thực vật tinh luyện, tinh bột khoai mì biến tính (1412, 1420), muối I-ốt, đường, chất điều vị (621, 627, 631), hành (5 g/kg), chiết xuất nấm men, bột tôm (1,6 g/kg), ớt, tiêu, tỏi, rau sấy, chất điều chỉnh độ axit (296, 330), chất tạo xốp (452(i), 500(i)), chất ổn định (466, 501(i)), chất nhũ hoá (322(i), 420(i)), hương tổng hợp dùng trong thực phẩm, chất ngọt tổng hợp (420(ii), 950, 951), màu tự nhiên (160b(i), 160c), chất chống oxy hoá (320, 321).\nCách dùng \nCho vắt mì và các gói gia vị vào tô. Chế khoảng 320 ml nước sôi, đậy nắp trong 3 phút. Mở nắp, trộn đều bạn sẽ có tô mì ngon tuyệt.\nBảo quản \nBảo quản nơi khô ráo, thoáng mát, tránh ánh nắng trực tiếp. Không để gần hóa chất hoặc sản phẩm có mùi mạnh.",
+      "gia": "₫85.000",
+      "daban": "192",
+      "muc": "Yêu thích",
+      "loai": "Mỳ Tôm"
+    }
+  ],
+  "AllProduct": [
+    {
+      "id": 1,
+      "image": "https://down-vn.img.susercontent.com/file/e9bdde49a2765c3d331871cfb5ffdbed_tn",
+      "title": "Bánh Mì Hoa Cúc 270G",
+      "mota": "Bánh mì hoa cúc hạnh nhân được coi là chiếc bánh mì bơ ngon nhất thế giới. Vì thành phần chính tạo nên hương vị và kết cấu hoàn toàn khác biệt của bánh chính là bơ. Chất lượng của bơ gần như quyết định chất lượng bánh. Tại Gạch Đỏ, Bánh mì hoa cúc là vũ khúc healthy của Bơ Ph.áp hảo hạng \n- Đất nước của những dòng bơ thơm ngon, dẻo mềm và sánh mịn hàng đầu thế giới. Cảm nhận hương thơm nức mũi, vị bơ sữa xen lẫn hương cam tự nhiên cực cuốn, không ngấy mà rất vừa vặn, sợi bánh tơi như sợi chỉ, khiến người dùng như lạc bước vào nước Ph.áp lãng mạn. Hàm lượng caloo nhỏ, giàu dinhh dưỡngg, được tạo nên từ 💯 nguyên liệu tự nhiên, xứng đáng được nạp ngay vào sổ tay nội trợ của mọi tín đồ healthy.",
+      "gia": "₫65.000",
+      "daban": "5k6",
+      "muc": "Yêu thích+",
+      "loai": "Bánh"
+    },
+    {
+      "id": 2,
+      "image": "https://down-vn.img.susercontent.com/file/994fc7d9bb18beea2eaea28c3290d8b3",
+      "title": "Bánh Mì Ngũ Cốc Nguyên Cám",
+      "mota": "Dẫn đầu xu thế dinh dưỡng hiện nay, bánh mì nguyên cám chính là thực phẩm dành cho những bạn có lối sống healthy. Bánh Mì Nguyên Cám của Gạch Đỏ 'Bất bại' về độ ngon và những lợi ích cho sức khỏe, vóc dáng.\n- Là món bánh lành mạnh dành cho bất kỳ ai, ngay cả những chế độ ăn kiêng khắt khe nhất như: keto, diet, eat clean, healthy, thuần chay... \n- Không tốn nhiều thời gian cho việc bếp núc, cũng chẳng cần phải khéo tay; chỉ cần ổ Bánh mì nguyên cám và hũ bơ mứt của Gạch Đỏ là có ngay công thức cho bữa ăn healthy, tròn vị cho cả nhà \n- Đa di năng vì có thể dùng cho bữa sáng, bữa chính, bữa phụ trong ngày \n- Hiện Shop chỉ bán Hỏa Tốc và bánh luôn tươi mới mỗi ngày. Bảo quản lâu hơn trong ngăn đông tủ lạnh. \nKhi ăn hãy áp chảo, nướng hoặc dùng nồi chiên không dầu làm nóng. Trọng lượng : 500gr/ ổ gồm 14 lát ",
+      "gia": "₫45.000",
+      "daban": "600",
+      "muc": "Yêu thích+",
+      "loai": "Bánh"
+    },
+    {
+      "id": 3,
+      "image": "https://down-vn.img.susercontent.com/file/73aae92b2c84e7d65394d0bae9485356",
+      "title": "Bánh Đài Loan Mix Đủ Vị 1kg",
+      "mota": "Bánh Tươi Nội Địa Đài Loan \n( Mặt trước của bánh ghi ngày sản xuất , mặt sau của bánh có ghi ngày sử dụng 6 tháng kể từ ngày sản xuất như hình ảnh shop đã mô tả ở sản phẩm ) \n- Lưu ý . ngày in trên vỏ bánh là ngày sản xuất \n- Hạn Sử Dụng 6 Tháng Kể Từ Ngày Sản Xuất\n- xuất xứ Đài Loan\n🍱 Combo 1 kg bánh .( Toàn Bánh To Và không trùng vị , Bánh mix tuỳ theo thời điểm nhập hàng , từ 17-20 cái nhưng toàn bánh to nên nặng và đắt chất lượng )\nCombo 1kg gồm có những vị sau\n✅ Bánh Guo ren yuan\n✅Mexican bread\n✅Bông lan Nho beboxan\n✅Bánh chuối đôi \n✅Bánh ruốc cay fuck family tròn\n✅Bánh ruốc cay dài\n✅Bông lan tròn bedoxan\n✅Bánh chuối new bake sữa chua\n✅Bánh xuenuo pai xanh lá\n✅Bánh wang xin lu trứng muối\n✅Bánh kong weng việt quất\n✅Bánh guo ren yuan chữ nhật ruốc nh\n✅Bánh guo ren yuan trứng gấu bắc cực\n✅Bánh guo ren yuan tròn xoắn \n✅Bánh tròn guo ren yuan trứng muối \n✅Bánh vuông ruốc qing ru rou song\n✅Bánh ruốc guolenyuan tròn \n... Rất nhiều vị khác nữa mà shop không thể kể hết\n🍱 Bánh Đài Loan Ngon Chất Lượng\n🍰 Đảm bảo Đủ 1 kg bánh , không tính hộp đựng hàng \n🍰 Đảm bảo ăn là nghiện vì độ ngon của bánh\n🍰 Cam kết hàng chuẩn date mới nhất \n🍰 Không cần tốn kém mua riêng lẻ từng loại , chỉ cần trong 1 combo là đủ các vị yêu thích\n🍰 Người lớn hay trẻ em đều thích và dễ ăn . Bánh ngon lại chất lượng ngại gì không ăn",
+      "gia": "₫75.000 ",
+      "daban": "7,9k",
+      "muc": "Yêu thích+",
+      "loai": "Bánh"
+    },
+    {
+      "id": 4,
+      "image": "https://down-vn.img.susercontent.com/file/sg-11134201-22100-pz65wz257liv3c",
+      "title": "Bánh mì hoa cúc vị sữa chua",
+      "mota": "Bánh tươi Đài Loan đủ vị date mới nhất theo thị trường\nĐủ các mẫu bánh bông lan, bánh mì tươi có nhân và ko nhân hot nhất thị trường . \nThành phần mỗi chiếc bánh đều in rõ trên 1 túi bạn nên khách mua về yên tâm nhé . \nNgày sản xuất và hạn sử dụng in trên bao bì sản phẩm hình thật shop chụp.\nLưu ý : Ngày in trên bao bì là ngày sản xuất.\nHạn sử dụng : 3 tháng kể từ ngày sản xuất.",
+      "gia": "₫12.900",
+      "daban": "1,7k",
+      "muc": "Hot",
+      "loai": "Bánh"
+    },
+    {
+      "id": 5,
+      "image": "https://down-vn.img.susercontent.com/file/e4918ee415c0003490161ec57138582e",
+      "title": "Bánh mỳ phô mai , đậu đỏ thơm ngon (thùng1kg)",
+      "mota": "BÁNH MỲ PHÔ MAI , ĐẬU ĐỎ   \n- quy cách : thùng 1 kg \n- vị : phô mai , đậu đỏ \n- xuất xứ : thành phố Đức Châu , tỉnh Sơn Đông , Trung Quốc \n- hạn sử dụng : 2 tháng  kể từ ngày sản xuất in trên vỏ bánh \n👉bánh mỳ phô mai béo ngậy thơm vị sữa , bánh mỳ đậu đỏ thơm bùi tạo nên hương vị khó quên \n- bánh làm từ bột mì cao cấp , trứng sữa , phô mai , đậu đỏ toàn thành phần được tuyển chọn kĩ càng , buổi sáng chỉ cần một cái bánh và 1 ly sữa là đủ dinh dưỡng cho cả buổi sáng đầy năng lượng rồi ",
+      "gia": "₫85.000",
+      "daban": "905",
+      "muc": "",
+      "loai": "Bánh"
+    },
+    {
+      "id": 6,
+      "image": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-liice11fr7wyd3",
+      "title": "BÁNH MÌ GỐI BƠ SỮA NGÀN LỚP",
+      "mota": "\n1 thùng 8 hộp x 1 hộp 2 cái x 210 gam --> shop em bán theo hộp\nHsd 45 ngày\nHàng đủ công bố giấy tờ\n🍞🍞🍞BÁNH MÌ GỐI BƠ SỮA NGÀN LỚP\n🍞Bánh ngon và thơm lắm mn ơi, cả nhà e đều cực mê bánh nhiều lớp này, dỡ từng lớp ăn bao phê luôn!!\n🍞Bánh nhào nhiều lớp siêu mềm mịn - Thơm mùi bơ sữa nhưng không quá ngọt, rất cuốn ạ. \n🥞Ăn không hoặc chấm sữa đều ngon cả \n😃😃Cảm giác ăn mịn tan luôn nên trẻ con rất là thích! \nLƯU Ý\n- NGÀY IN TRÊN BÁNH LÀ NGÀY SẢN XUẤT.\n- HẠN SỬ DỤNG BÁNH QUÝ KHÁCH VUI LÒNG LẬT MẶT SAU BÁNH ĐỂ XEM HẠN SỬ DỤNG.\nCác mẹ mua trữ sẵn cho con đi học ăn siêu tiện nha. Hoặc lúc đói lôi ra nhâm nhi là đủ năng lượng rồi",
+      "gia": "₫59.000 ",
+      "daban": "51",
+      "muc": "Yêu thích ",
+      "loai": "Bánh"
+    },
+    {
+      "id": 7,
+      "image": "https://down-vn.img.susercontent.com/file/4d2954648c8960164e974e6af094bde9",
+      "title": "Bánh mì tươi các vị (nho, socola, dâu, khoai môn, ruốc)",
+      "mota": "Cảm ơn các bạn đã ghé thăm shop. \nHiện shop đã đăng ký gói freeship extra của Shopee nên khi bạn mua hàng, hãy áp dụng mã miễn phí vận chuyển của Freeship extra để được giảm phí vận chuyển nhé.\nĐơn từ 50k trở lên, sẽ được giảm tối đa 20k phí vận chuyển và đơn từ 300k trở lên được giảm tối đa 70k phí vận chuyển đó ạ. \n(Các hàng chưa đủ 50k, khách có thể xem thêm sản phẩm khác của shop để mua combo đủ điều kiện từ 50k trở lên để được mã giảm phí vận chuyển freeship extra nhé. ^^\nCác bạn vào phần mã giảm giá và chọn phần giảm phí vận chuyển có chữ freeship extra nhé. \nỞ nhà mua hàng online giá tốt tại tổng kho tạp hoá Khang Trang nhé. Cảm ơn khách yêu nhiều ạ)",
+      "gia": "₫2.990 ",
+      "daban": "9,5k",
+      "muc": "Yêu thích+",
+      "loai": "Bánh"
+    },
+    {
+      "id": 8,
+      "image": "https://down-vn.img.susercontent.com/file/vn-11134201-23020-b9arzp4tywnv34",
+      "title": "Bánh mì tươi mini 20c❤️GIÁ SỈ❤️thơm ngon tiện lợi",
+      "mota": "Theo yêu cầu của cả nhà e về thêm a. 😄 phải tìm được chỗ uy tín mới lên bài đây a. Trưa e có ạ\n#BÁN_MỲ_MINI_TƯƠI CÁC BÁC ƠI!!!!!!!!!\n💪💪💪💪 Sỉ  2x\n/ túi 20 cái\nX nhỏ xíu xíu luôn a\n💐💐Bánh mỳ chuột mini vị bơ Pháp chay mặn đều ăn dc nha\n💐💐trong nhà có sẵn ít mỳ tươi bỏ đông ăn dần tiện lắm ah\n💕💕Bánh mỳ chuột mini tươi về nướng bằng nồi chiên ko dầu/lò vi sóng 5-7p là giòn tan, nóng đặc ruột thơm lắm ạ, ưa làm mỳ bơ muối ,mỳ bơ tỏi , nướng lên nóng hổi chấm sữa … ngon,vỏ giòn,ruột dẻo thích lắm ạ.\n# túi 20 chiếc ạ",
+      "gia": "₫39.999",
+      "daban": "48",
+      "muc": "Yêu thích+",
+      "loai": "Bánh"
+    },
+    {
+      "id": 9,
+      "image": "https://down-vn.img.susercontent.com/file/e3c533bc8783b7278a750ede075705d3",
+      "title": "Mì tôm Mug Nhật Bản Nissin cho bé ăn dặm",
+      "mota": "Xuất xứ: Nissin - Nhật Bản \nHSD: 6 tháng kể từ ngày sản xuất \nMì Mug Nhật Bản\nThay đổi khẩu phần ăn hàng ngày hoặc dùng mang đi chơi cho bé rất tiện lợi. \nĐặc biệt, Mi Mug còn kích thích khẩu phần ăn của trẻ, bởi trong mỗi gói mỳ nhỏ đều có thịt(sau khi nở) sẽ thành hình mặt gấu, chú lợn, chú chó hoặc con mèo tạo cho bé cảm giác hứng thú khi ăn. \nMì Mug không chiên, không cay, không nóng, mùi vị thơm ngon, dạng mềm. \nTHÔNG TIN SẢN PHẨM \nSản phẩm có 2 màu sắc tương ứng với 2 hương vị khác biệt cho bữa ăn của bé thêm sự lựa chọn: \n– Mì Mug màu trắng – xanh: Có hình heo và cáo, sợi mì mầu trắng với hương vị thịt heo đặc trưng. \n– Mì Mug màu vàng: Có hình gấu panda và cún con, sợi mì mầu vàng với hương vị hải sản \nCÁCH DÙNG \n– Chỉ cần lấy 01 gói nhỏ, mở ra, cho vào cốc có nắp đậy hoặc bát, đổ 150ml nước sôi vào, rồi cho toàn bộ gói gia vị có sẵn trong túi vào, rồi đậy nắp. Sau 2-3 phút là bé đã có ngay 1 tô mỳ nóng hổi đủ dinh dưỡng.\n– Khi cho nước nóng vào, thịt nở ra & có hình mặt chú lợn hay chú gấu…, giúp kích thích bé ăn ngon, thích ăn.\n– Bạn có thể cho thêm 10ml dầu oliu (tùy thích) hoặc sử dụng nước dùng (nước hầm từ thịt thăn, sườn hoặc rau củ). \n– Mì Mug dành cho bé từ 1 tuổi trở lên hoặc những bé biết ăn cháo lổn nhổn, ăn cơm…",
+      "gia": "₫79.950",
+      "daban": "2,3k",
+      "muc": "Yêu thích+",
+      "loai": "Mỳ Tôm"
+    },
+    {
+      "id": 10,
+      "image": "https://down-vn.img.susercontent.com/file/sg-11134201-7qvcp-li5hi2hm552i3a",
+      "title": "Thùng Mì Tôm 30 Gói Hảo Hảo chua cay",
+      "mota": "30 Gói Mì Tôm Hảo Hảo chua cay ,thiếu gói gia vị muối và mỡ bên trong .Đảm bảo hàng chuẩn của Cty Acecook Việt Nam  ,sai 1 đền 10 luôn ah \nMỌI NGƯỜI LƯU Ý DÙM EM LÀ MÌ THIẾU MUỐI NHA , ko có mất công đặt hàng xong nói Shop em lừa đảo ạ , \nGiá Mì Hảo Hảo chua cay tại đại lý giờ 125 k ( em bán có 98 k ) tất nhiên phải là ko có muối ạ .\nNgày in trên bao bì là ngày sản xuất , cộng thêm 5 tháng là ngày hết hạn , Quý Anh /Chị đừng nhầm ngày in là ngày hết hạn ạ .\nDo nhu cầu nhiều người muốn giảm giá thành lên Shop em xin được phục vụ Qúy Khách theo cách riêng .\nRất mong Quý Khách Hàng đọc kỹ SP trước khi đặt hàng bên em ạ ❤️😘\nCAM KẾT :Hàng chính hãng Cty ACECOOK Việt Nam \nHạn Sử Dụng 6 tháng kể từ ngày SX in trên bao bì .",
+      "gia": "₫103.999",
+      "daban": "580",
+      "muc": "Yêu thích+",
+      "loai": "Mỳ Tôm"
+    },
+    {
+      "id": 11,
+      "image": "https://down-vn.img.susercontent.com/file/5a0737a159c80ccb18f126b011554cdb",
+      "title": "Thùng Mì KOKOMI Tôm Chua Cay 30 gói 65GR",
+      "mota": "Loại mì: Mì nước\nVị mì: Tôm chua cay\nSợi mì: Sợi tròn, nhỏ\nKhối lượng: 65g / gói\nHướng dẫn sử dụng:\nCho vắt mì và các gói gia vị vào tô.\nThêm nước sôi vừa đủ dùng.\nĐậy kín, đợi khoảng 3-4 phút là có thể sử dụng được.\nBảo quản:\nĐể nơi khô ráo, thoáng mát.\nTránh ánh nắng mặt trời.\nXuất xứ: Việt Nam\nHạn sử dụng: 5 tháng",
+      "gia": "₫86.000 ",
+      "daban": "1,1k",
+      "muc": "",
+      "loai": "Mỳ Tôm"
+    },
+    {
+      "id": 12,
+      "image": "https://down-vn.img.susercontent.com/file/6adb26db573d84ab8668d0a0101ebb91",
+      "title": "Gói Mì xào khô Indomie Goreng l 4 vị",
+      "mota": "- Mì có 4 vị được bán tại Việt Nam:\n+ Vị Đặc Biệt (Goreng Fried) 85g\n+ Vị Bò Cay (Goreng Rasa Rendang) 91g\n+ Vị Sườn (Goreng Rasa Iga Penyet) 80g\n+ Vị Cay Nồng (Goreng Pedas) 79\n+ Vị gà siêu cay (Goreng Rasa Ayam Geprek) 85g ->  mì giành cho những bạn thích ăn cay. Khi trộn vị này, gói muối nên trộn 2/3 gói, và gói dầu sa tế nên đổ từ từ vào trộn đều và nếm thử để tìm được khẩu vị cay hợp lý của bạn.\n- Mì Xào Khô INDOMIE\nMột sản phẩm thuộc tập đoàn INDOFOOD của INDONESIA, thương hiệu mì được ưa chuộng tại 60 quốc gia trên toàn thế giới đã có mặt tại Việt Nam.\n- IDOMIE cung cấp cho bạn cho bạn đầy đủ hương vị đặc biệt độc đáo.\n- Sản phẩm có chứa Vitamin A, B1, B6, B12, Axit Folic, sắt và nhiều khoáng chất cần thiết cho cơ thể, đảm bảo năng lượng hoạt động hàng ngày.\n- Thành phần: Bột mì, tinh bột sắn, lúa mạch, chất tạo vị chua, hành tím, đậu tương…\nHạn sử dụng: 8 tháng kể từ ngày sản xuất\n- Cách dùng: cho khoảng 400ml nước sôi vào mì chờ khoảng 2-3 phút cho mềm mì, chắt hết nước và cho các gói gia vị trộn đều và ăn nóng.",
+      "gia": "₫6.200",
+      "daban": "9,3k",
+      "muc": "Yêu thích+",
+      "loai": "Mỳ Tôm"
+    },
+    {
+      "id": 13,
+      "image": "https://down-vn.img.susercontent.com/file/f237e5d71ea4bcef802db59e36f37359",
+      "title": "Mì tôm Enaak cho trẻ em và Mì Shogun vị Gà Nướng",
+      "mota": "Trẻ con bây giờ sướng thật đấy các mẹ ạ! Bao nhiêu là đồ ngon, mình ăn mình còn thấy ngon nữa là trẻ con. Mì tôm enaak này cũng ko phải ngoại lệ ạ!\nVị đậm đà, giòn tan😜😜😜😜\nCon nhà em mang về xé túi nhai nhau nháu 😂😂😒😂\nXuất xứ: Hàng Indonesia liên doanh Hàn Quốc ạ!\nDate: 12 tháng cơ ạ\nNói chung hàng ăn vặt nhà em các chị cứ yên tâm cả về chất lượng lẫn date nhé!",
+      "gia": "₫5.700",
+      "daban": "5,6k",
+      "muc": "",
+      "loai": "Mỳ Tôm"
+    },
+    {
+      "id": 14,
+      "image": "https://down-vn.img.susercontent.com/file/9f1932bf7efeda6ebb3f48d84444b5a6",
+      "title": "Thùng Mì 3 miền tôm chua cay 30 gói",
+      "mota": "- Mì 3 miền tôm chua cay thung 30 gói mỗi gói 65 g\n- Sợi mì mềm dai, hương vị tôm chua cay thơm ngon\n- Chế nước sôi 3 phút là có thể dùng",
+      "gia": "₫85.000",
+      "daban": "1,3k",
+      "muc": "Yêu thích ",
+      "loai": "Mỳ Tôm"
+    },
+    {
+      "id": 15,
+      "image": "https://down-vn.img.susercontent.com/file/d4bc38a53c3fb95cd962892b5a6e8cb1",
+      "title": "5 Gói Mì Tôm Omachi Xốt Bò Hầm, Sườn Hầm, Tôm chua cay 80g",
+      "mota": "Thương hiệu: Omachi - Masan\nThành phần Bột mì nguyên chất, bột lòng đỏ trứng, bột ớt, bột chanh cùng vị xốt bò hầm, sườn hầm....\nMÌ OMACHI được sản xuất từ những nguyên liệu chọn lọc, tươi ngon. Vắt mì làm từ khoai tây tươi cùng với phần súp chứa mỡ bò, hành tây, tỏi, nước cốt từ thịt và xương... tạo nên hương vị hấp dẫn, ngon đúng điệu.\nSản phẩm MÌ OMACHI xốt bò hầm, sườn hầm được sản xuất theo công nghệ hiện đại. Mọi khâu từ tuyển chọn nguyên liệu tới chế biến, đóng gói đều diễn ra khép kín dưới sự giám sát và kiểm tra nghiêm ngặt của các chuyên gia thực phẩm hàng đầu, theo đó sản phẩm không chứa hóa chất, chất bảo quản độc hại, đảm bảo an toàn cho sức khỏe người tiêu dùng.\nCách nấu mì: Cho vắt mì và các gói gia vị vào tô, đổ thêm nước sôi vào tô cho vừa ăn, đậy kín nắp trong vòng 3 phút. Mở nắp rồi trộn đều và thưởng thức.\nMẫu mã bao bì sản phẩm có thể thay đổi tùy từng đợt đổi mẫu của sản xuất\nHướng dẫn bảo quản: Bảo quản nơi thoáng mát, tránh ẩm ướt. Tránh ánh nắng mặt trời",
+      "gia": "₫47.000 ",
+      "daban": "2,6k",
+      "muc": "Yêu thích",
+      "loai": "Mỳ Tôm"
+    },
+    {
+      "id": 16,
+      "image": "https://down-vn.img.susercontent.com/file/ad4d21212546bed08033efb0bb09596c",
+      "title": "[Freeship70k] Thùng 30 gói mì gấu đỏ tôm chua cay 63g/ thùng 30 gói mì gà sợi phở gấu đỏ",
+      "mota": "Sợi mì vàng dai ngon được tẩm ướp nước mắm cá cơm hoà quyện trong nước súp tôm chua cay Gấu Đỏ đậm đà cùng hành phi 1 nắng thơm lừng ngất ngây. 30 gói mì Gấu Đỏ tôm chua cay 63g có hương vị thơm ngon khó cưỡng, lựa chọn hấp dẫn cho bữa ăn nhanh gọn đơn giản và đầy đủ dưỡng chất\nThông tin sản phẩm\nLoại mì \nMì nước\nVị mì \nTôm chua cay\nSợi mì \nSợi tròn, nhỏ \n Khối lượng \n63g / gói\nThành phần \nBột mì, dầu thực vật tinh luyện, tinh bột khoai mì biến tính (1412, 1420), muối I-ốt, đường, chất điều vị (621, 627, 631), hành (5 g/kg), chiết xuất nấm men, bột tôm (1,6 g/kg), ớt, tiêu, tỏi, rau sấy, chất điều chỉnh độ axit (296, 330), chất tạo xốp (452(i), 500(i)), chất ổn định (466, 501(i)), chất nhũ hoá (322(i), 420(i)), hương tổng hợp dùng trong thực phẩm, chất ngọt tổng hợp (420(ii), 950, 951), màu tự nhiên (160b(i), 160c), chất chống oxy hoá (320, 321).\nCách dùng \nCho vắt mì và các gói gia vị vào tô. Chế khoảng 320 ml nước sôi, đậy nắp trong 3 phút. Mở nắp, trộn đều bạn sẽ có tô mì ngon tuyệt.\nBảo quản \nBảo quản nơi khô ráo, thoáng mát, tránh ánh nắng trực tiếp. Không để gần hóa chất hoặc sản phẩm có mùi mạnh.",
+      "gia": "₫85.000",
+      "daban": "192",
+      "muc": "Yêu thích",
+      "loai": "Mỳ Tôm"
+    },
+    {
+      "id": 17,
+      "image": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-liqs1sfkcedu65",
+      "title": "[TẶNG LY GIỮ NHIỆT 900ML]Thùng 24 Lon Nước Ngọt Có Gaz Mirinda Soda Kem (320ml/lon)",
+      "mota": "Trên thị trường ngành hàng đồ uống có gaz đang ngày càng phát triển và đa dạng sản phẩm, Mirinda luôn tự hào là nhãn hiệu nước giải khát có gaz nổi tiếng mà luôn được mọi lứa tuổi ưa chuộng và tin dùng.\nĐược sản xuất trên dây chuyền công nghệ hiện đại, đảm bảo vệ sinh, an toàn cho sức khỏe người tiêu dùng. Sản phẩm đậm vị soda kem thơm béo, ngọt dịu kết hợp với vị gaz nhẹ - Mirinda Soda Kem luôn là lựa chọn tuyệt vời giải nhanh cơn khát, tràn đầy năng lượng, cùng bạn khơi nguồn sáng tạo, tận hưởng mọi cuộc vuiiiiii!\nSố lượng: 24 lon/thùng\nHSD: 12 tháng kể từ ngày sản xuất \nHướng dẫn bảo quản: Bảo quản nơi sạch sẽ, khô ráo thoáng mát, tránh ánh nắng mặt trời.\n***Lưu ý: \n+ Bao bì sản phẩm thay có thể đổi theo đợt nhập hàng\n+ Giá sản phẩm đã bao gồm thuế theo luật hiện hành và phí vận chuyển\n+ Chỉ áp dụng hình thức thanh toán online",
+      "gia": "₫205.000",
+      "daban": "62",
+      "loai": "Nước ngọt",
+      "muc": "Mall"
+    },
+    {
+      "id": 18,
+      "image": "https://down-vn.img.susercontent.com/file/3b04c549068cf953f2a39a9189f7f8da_tn",
+      "title": "Nước Uống Có Gas SFC Soda Sparkling Vị Cam Mận Xoài Dưa Hấu Dưa Lưới 350ml",
+      "mota": "🌳 Có 5 vị : dưa hấu, mận, cam , dưa gang, dưa lưới.\n🌳 Bảo quản: Nơi khô ráo, thoáng mát, tránh ánh nắng mặt trời\n🌳 Thể tích thực: 350ml/lon\n🌳 Hạn sử dụng: 24 tháng kể từ ngày sản xuất in trên bao bì sản phẩm\n▶️ MÔ TẢ SẢN PHẨM\n🌳 Nước Soda SFC đên từ hàn quốc giúp bạn sản khoái tinh thần vui chơi và làm việc ,,,\n🌳 Soda mix là mới chính là 'Từ Khóa' được tìm kiếm nhiều nhất trong thế giới đồ uống giải nhiệt mùa hè.\n🌳 Nguyên liệu tự nhiên và giàu dưỡng chất, cung cấp nhiều năng lượng và nước cho các hoạt động hằng ngày\n🌳 Dễ dàng sử dụng và mang theo khi đi chơi hoặc đi làm.\n🌳 Có 5 vị : dưa hấu, mận, cam , dưa gang, dưa lưới, xoài",
+      "gia": "₫18.000",
+      "daban": "2,4k",
+      "loai": "Nước ngọt",
+      "muc": "Hot"
+    },
+    {
+      "id": 19,
+      "image": "https://down-vn.img.susercontent.com/file/2d6df5dba66e341b01aadafd2e0cac09",
+      "title": "Nước trái cây hoa quả Kangshifu",
+      "mota": " Cải thiện sự hấp thu chất dinh dưỡng, tăng cường hệ thống miễn dịch, giảm huyết áp , tăng cường lưu thông, tăng mật độ xương, hỗ trợ sức khỏe hệ thần kinh, hỗ trợ nhận thức và loại bỏ viêm, trong số những người khác  \n+> Cải thiện sức khỏe tim mạch: \n +> Tăng lưu thông: \n +> Ngăn ngừa loãng xương: \n+> Điều hòa hệ thần kinh: \n+>Giảm viêm\n+>Tăng cường miễn dịch\n +>Thúc đẩy lượng dinh dưỡng\nBảo quản nơi khô ráo, thoáng mát, ngon hơn khi uống lạnh",
+      "gia": "₫18.900",
+      "daban": "10k",
+      "loai": "Nước ngọt",
+      "muc": ""
+    },
+    {
+      "id": 20,
+      "image": "https://down-vn.img.susercontent.com/file/b279f2d8419725cc5bc2221dda88bb17",
+      "title": "Lốc 6 Chai Nước Giải Khát, Nước Ngọt Có Ga Coca, 7up, Pepsi, Sting, Number One, Revive, Warrior",
+      "mota": "Các Loại Nước Ngọt Có Ga\nĐóng gói: 6 chai/lốc\nPhân loại: \n- Coca 390ML\n- 7 Up 390ML\n- Pepsi 390ML\n- Sting Dâu/Nhân Sâm 330ML\n- Number One: 330ML\n-  Revive Chanh Muối 390ML/ Muối Khoáng 500ML\n- Warrior Nho: 330ML",
+      "gia": "₫59.999",
+      "daban": "558",
+      "muc": "Yêu thích",
+      "loai": "Nước ngọt"
+    },
+    {
+      "id": 21,
+      "image": "https://down-vn.img.susercontent.com/file/73bf2bce8040764ad08138ba343b707f_tn",
+      "title": "Nước Trái Cây Có Ga Lon 330ml 🍇🍑🍓🍒GIẢM CÂN🍇🍑🍓🍒 Soda CHI FOREST",
+      "mota": "    CAM KẾT CỦA SHOP\n           -Giao ngay HỎA TỐC trong TPHCM nhận trong 1 2h\n           -Đổi trả khi sản phẩm tổn hại hoặc không đúng sản phẩm hoàn toàn 100/100\n           -Khách hàng sẽ nhận được hàng trong khoảng thời gian 2 đến 3 ngày nếu khách ở xa\n          -Đóng gói cẩn thận, gửi hàng nhanh chóng.100% là ảnh THẬT tự chụp.\n                      THÔNG TIN SẢN PHẨM\n           🍇🍑🍓🍒 Nước soda có ga không Calo có tên là CHI FOREST 🍇🍑🍓🍒\n            + Rất có ích cho người thích uống nước ngọt nhưng mà không lo mập vì sản phẩm thuộc dòng : 0 đường - 0 chất béo - 0 calo\n            + Mùi hương ngọt ngào của các loại trái cây và mát lạnh , nay thêm tuyệt vời cùng cảm giác bùng nổ từ những làn sóng ga sảng khoái.\n            🍕 Thức uống không thể thiếu cho mỗi bữa ăn\nUống nước có ga, vị hoa quả ngọt ngào mà lại không lo bị béo\n🍇Vị Nho 🍇\n🍑Vị Đào 🍑\n🍓Vị Dâu Dừa🍓\n🍒Vị Vải 🍒\n- Hạn sử dụng: 24 tháng\nQuy cách đóng gói:\nLon chứa dung tích 330ml\nXuất xứ: Trung Quốc\nLưu ý :\nHSD: 24 tháng kể từ ngày sản xuất ,hạn sử dụng in trên thân chai\n - HƯỚNG DẪN SỬ DỤNG: sử dụng ngay khi mở uống trực tiếp với nước đá hoặc bỏ vào tủ lạnh cho lanh trước dùng sẽ ngon hơn.\n- BẢO QUẢN: nơi khô ráo, thoáng mát, tránh tiếp xúc trực tiếp với ánh nắng mặt trời.\nLiên hệ:\nNhắn tin trực tiếp cho shop và khách hàng sẽ được trả lời sớm nhất .",
+      "gia": "₫19.900",
+      "daban": "1k",
+      "muc": "",
+      "loai": "Nước ngọt"
+    },
+    {
+      "id": 22,
+      "image": "https://down-vn.img.susercontent.com/file/sg-11134201-22120-aist2oxxx3kv4a",
+      "title": "[TẶNG LY GIỮ NHIỆT 900L]Thùng 24 Lon Nước Uống Có Gaz Pepsi Vị Chanh Không Calo (320ml/lon)",
+      "mota": "Thế hệ Pepsi-Cola tiên phong dành cho bạn, với vị Cola trứ danh, đột phá cùng Vị Chanh, không calo đem đến một trải nghiệm sảng khoái tột đỉnh, để bạn thoải mái bung hết chất mình. \nHương vị: Nước Ngọt Có Gas Pepsi Không Calo với hương cola hấp dẫn kết hợp cùng vị chanh thanh mát, không chỉ mang lại cảm giác sảng khoái, giải nhiệt tức thì mà còn tốt cho sức khỏe. Dùng trực tiếp, sẽ ngon hơn khi ướp lạnh, hoặc dùng với đá.\nThiết kế bao bì chất liệu lon Matte nhám sang trọng lần đầu tiên xuất hiện trong ngành hàng Nước uống có gaz, giúp bạn có thể dễ dàng bảo quản cũng như mang theo sản phẩm trong các buổi tiệc, chuyến dã ngoại.\nSố lượng: 24 lon/thùng\nHSD: 09 tháng kể từ ngày sản xuất\nBảo quản nơi sạch sẽ, khô ráo thoáng mát, tránh ánh nắng mặt trời. \n***Lưu ý: \n+ Bao bì sản phẩm có thể đổi theo đợt nhập hàng\n+ Giá sản phẩm đã bao gồm thuế theo luật hiện hành và phí vận chuyển\n+ Chỉ áp dụng hình thức thanh toán online",
+      "gia": "₫207.000",
+      "daban": "241",
+      "muc": "Mall",
+      "loai": "Nước ngọt"
+    },
+    {
+      "id": 23,
+      "image": "https://down-vn.img.susercontent.com/file/e2b13830264de3ca8b52ffe7b117cbc6",
+      "title": "Thùng 10 bịch nước trái cây oishi vị teago chanh, đào, nước cam, táo, nho, bưởi, t-rexx",
+      "mota": "Thùng 10 bịch nước trái cây oishi vị teago chanh, teago đào, teago cam, teago táo, t-rexx \n Nhãng oishi nổi tiếng bim bim ra đời dòng nước trái cây cực thơm ngon bổ rẻ",
+      "gia": "₫35.000",
+      "daban": "4,4k",
+      "muc": "Yêu thích",
+      "loai": "Nước ngọt"
+    },
+    {
+      "id": 24,
+      "image": "https://down-vn.img.susercontent.com/file/36bc106eb43165fe53d50c2f7a511824",
+      "title": "[GROFFWC -10% max 30k đơn 170k] Thùng/lốc 24 Lon Nước Giải Khát Có Gas Fanta Nho 320ml x 24 lon",
+      "mota": "Thông tin sản phẩm\nLốc 24 Lon Nước Giải Khát Có Gas Fanta Nho 320ml là nước ngọt có ga thơm ngon hấp dẫn đến từ thương hiệu nước ngọt Fanta nổi tiếng trên thế giới. Lốc 24  lon nước ngọt Fanta hương nho 320ml chua ngọt tươi mới, thơm ngon mang đến cho bạn cảm giác sảng khoái cùng vị ga thích thú. Sản phẩm chính hãng, giá tốt\n· Thương hiệu: Fanta (Việt Nam)\n· Sản xuất tại: Việt Nam\n· Loại nước: Nước ngọt\n· Hương vị: Hương nho\n· Thành phần: Nước bảo hoà CO2, đường HFCS, đường mía, chất điều chỉnh độ acid, hương nho tự nhiên và tổng hợp, chất tạo ngọt tổng hợp, chất bảo quản, màu tổng hợp, hỗn hợp vitamin (B3, B5, B6)\n· Lượng ga: Có ga\n· Lượng đường: Có đường\n· Thể tích: 320ml\n· Số lượng: 24 lon\n· Sử dụng: Ngon hơn khi uống lạnh\n· Bảo quản: Bảo quản nơi thoáng mát\n· HSD: 9 tháng \nThành phần dinh dưỡng trong sản phẩm\n· Thành phần chủ yếu của sản phẩm là nước bão hòa CO2, đường, hương nho và khoáng chất natri.\n· Mức năng lượng của sản phẩm khoảng 19 calo/100ml\nTác dụng của sản phẩm với sức khỏe\n· Cung cấp năng lượng tươi trẻ, cho tinh thần tỉnh táo\n· Giải khát\n· Giải tỏa căng thẳng mệt mỏi\n· Nước có ga có tác dụng kích thích vị giác, giúp ăn ngon ngon miệng hơn, tốt cho tiêu hóa\n· Nước ngọt còn có tác giúp giúp giữ canxi trong máu\nLưu ý khi sử dụng và cách bảo quản sản phẩm\n· Bảo quản nơi khô ráo thoáng mát\n· Tránh nơi có ánh nắng trực tiếp\n· Tránh để sản phẩm trong tủ lạnh\n· Không lạm dụng sản phẩm, uống quá nhiều, đặc biệt với trẻ em\n· Không phù hợp cho người tiểu đường\n#cocacola #coca #nutriboost #thumsup #sprite #fanta #dasani #fuzetea #teppy #monster #schweppes #fantanho #fantacam  #aquarius #fantaxaxi #fantasodakem #nuocngotcoga #nuocngot #nuocgiaikhat # #georgiamaxcoffee\nLưu ý: mẫu mã bao bì thay đổi theo từng đợt nhập hàng.",
+      "gia": "₫192.000",
+      "daban": "114",
+      "muc": "Mall",
+      "loai": "Nước ngọt"
+    },
+    {
+      "id": 25,
+      "image": "https://down-vn.img.susercontent.com/file/vn-11134211-23030-xf1m45ez0cov5b",
+      "title": "Phở Bò Chinsu Thịt Thật Nguyên Miếng, Bánh Đa Cua, Hủ Tiếu, Miến Gà Hầm Măng, Phở Gà",
+      "mota": "Sản phẩm mới của Chinsu\nRiêu cua đồng 120g\nHủ tiếu nam vang thịt bằm trứng cút 137\nHủ tiếu khô Nam Vang 71g\nPhở bò thịt thật 132g\nHủ tiếu bò kho nguyên miếng 145g\nMiến gà măng khô 123g\nChế biến trong 5 phút siêu ngon và tiện lợi\nThành phần: gạo, chất ổn định, tinh bột khoai tây, tinh bột gạo, muối đường, chất điều vị...\n- Hướng dẫn sử dụng: xé và cho vắt phở và nguyên liệu vào bát, đổ vào 400ml nước sôi đậy nắp trong 5 phút, trộn đều thưởng thức\n-Sản phẩm sx bởi: Công ty TNHH một thành viên công nghiệp masan\n- Sản xuất tại Việt Nam\nHạn sử dụng : 9 tháng",
+      "gia": "₫29.900",
+      "daban": "12,1k",
+      "loai": "Phở",
+      "muc": "Yêu thích"
+    },
+    {
+      "id": 26,
+      "image": "https://down-vn.img.susercontent.com/file/2c5f8d2bb2ee30ecc7beb9dcd0d27763",
+      "title": "Bún riêu cua/bánh đa cua/phở bò/phở gà VIFON",
+      "mota": "Bún riêu cua, bánh đa cua,phở bò,phở gà ViFon\nKhối lượng tịnh: phở bò,phở gà:65g\nBánh đa cua 60g\nBún riêu cua:80g",
+      "gia": "₫11.000",
+      "daban": "4,4k",
+      "loai": "Phở",
+      "muc": "Yêu thích+"
+    },
+    {
+      "id": 27,
+      "image": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-li8j7m70bt1udf",
+      "title": "[Thùng 30 gói] Phở Bò VIFON (65g / Gói)",
+      "mota": "Món phở Việt Nam là món ngon truyền thống ăn kèm rau thơm, húng quế được phục vụ vào buổi sáng. Thưởng thức một tô Phở Bò VIFON nóng quả là một lựa chọn hợp lý cho bữa sáng. Điểm đặc trưng nhất của phở VIFON là vị nước dùng thanh, nhẹ nhàng giữ nguyên vị phở xưa truyền thống.",
+      "gia": "₫259.900",
+      "daban": "1k",
+      "loai": "Phở",
+      "muc": "Mall"
+    },
+    {
+      "id": 28,
+      "image": "https://down-vn.img.susercontent.com/file/d39a97344e933551eae07b9e0bc57ac2_tn",
+      "title": "[HCM] Mì xào khô / Mì Trộn Indomie Mi Goreng Ngon số 1 Thế Giới (Đủ Vị)",
+      "mota": "❤ Một sản phẩm thuộc tập đoàn INDOFOOD của INDONESIA, thương hiệu mì được ưa chuộng tại 60 quốc gia trên toàn thế giới đã có mặt tại VIỆT NAM !!!\n❤ Được The Ramen Rater bình chọn là một trong 10 sản phẩm mì ngon nhất mọi thời đại, INDOMIE cung cấp cho bạn đủ đầy hương vị đặc biệt độc đáo của đất nước vạn đảo Nam Dương.\n❤ Sản phẩm có chứa Vitamin A, B1,B6,B12,Axit Folic, sắt và nhiều khoáng chất cần thiết cho cơ thể, đảm bảo năng lượng hoạt động hàng ngày.\n𝐂𝐎́ 𝐒𝐀̆̃𝐍 𝟒 𝐕𝐈̣ 𝐂𝐎̛ 𝐁𝐀̉𝐍\n🛑 Vị Đặc Biệt ( Goreng Fried ) 85g\n🛑 Vị Bò Cay ( Goreng Rasa Rendang ) 91g\n🛑 Vị Sườn ( Goreng Rasa Iga Penyet) 80g\n🛑 Vị Cay Nồng (Goreng Pedas ) 79g\n𝐇𝐔̛𝐎̛́𝐍𝐆 𝐃𝐀̂̃𝐍 𝐒𝐔̛̉ 𝐃𝐔̣𝐍𝐆\n➊ - Nấu mì với 400ml nước sôi trong khoảng 3 phút.\n➋ - Cho các gói gia vị, dầu gia vị vá nước sốt vào đĩa, trộn đều. Điều chỉnh gia vị tùy theo khẩu vị.\n➌ - Vớt mì ra để ráo.\n➍ - Sau đó cho vào đĩa trộn đều với gia vị đã pha sẵn và món mì xào đã sẵn sàng để thưởng thức",
+      "gia": "₫5.500",
+      "daban": "127k",
+      "muc": "Yêu thích",
+      "loai": "Phở"
+    },
+    {
+      "id": 29,
+      "image": "https://down-vn.img.susercontent.com/file/19ac41363f3d55845442ff36e6721bf7",
+      "title": "Phở gà good 68g",
+      "mota": "Mỳ ăn liền sợi phở sản phẩm với công nghệ nhật bản\nĐịa chỉ cửa hàng tạp hóa thắng phượng 45e,  dương khuê, mai dịch, hà nội",
+      "gia": "₫5.000",
+      "daban": "2,2k",
+      "muc": "Yêu thích",
+      "loai": "Phở"
+    },
+    {
+      "id": 30,
+      "image": "https://down-vn.img.susercontent.com/file/2fba409a79ffd3eb5fd0fe9a5862f5b9_tn",
+      "title": "Phở Gánh Hà Nội Ăn Liền Thùng 24 Gói x 75gr",
+      "mota": "“Phở là một thứ quà đặc biệt của Hà Nội, không phải chỉ riêng Hà Nội mới có nhưng chính là vì chỉ ở Hà Nội mới ngon”. Nhắc đến Phở Hà Nội, ta không thể bỏ qua Phở Gánh - nơi đầu tiên Phở ra đời với hương vị rất đặc trưng và cũng là nơi lưu giữ những kí ức ngọt ngào về Hà Nội xưa. Phở Gánh Hà Nội ăn liền của Foodeli mang trọn vẹn hương vị truyền thống của Phở Gánh vào trong từng gói phở, khiến bạn cứ ngỡ như đang được thưởng thức tô phở nóng hổi trên phố cổ Hà Nội xưa. Phở Bò ăn liền của Foodeli với: \n-Vắt phở làm 100% từ những hạt gạo mới nguyên chất, được lựa chọn kĩ lưỡng; trải qua các quá trình ngâm, xay, nghiền; sau đó đem hấp và sấy khô đảm bảo bánh phở có độ dẻo dai chỉ sau 4 phút chế biến. \n-Nước cốt xương hầm nguyên chất được hầm liên tục 12 giờ mang vị thanh ngọt từ xương, kết hợp với hương thơm từ mùi, hồi, quế, thảo quả, gừng nướng, hành nướng và thịt bò băm tạo nên một gói sốt đậm đà, tròn vị. \n-Gói hành lá, hành chẻ được sấy theo công nghệ sấy thăng hoa giữ nguyên được màu sắc, hương vị đặc trưng và đầy đủ chất dinh dưỡng. \n-Gói tỏi ớt ngâm giấm ăn kèm phở giúp dậy mùi, chống ngán và đúng chuẩn hương vị phở Hà Nội. \n-Gói tương ớt xay được chế biến đặc biệt dành riêng cho Phở Hà Nội. \nChỉ với vài thao tác chế biến đơn giản, Foodeli mang đến cho bạn một bữa ăn đầy đủ dinh dưỡng, đúng chuẩn hương vị tinh tuý của Phở Gánh Hà Nội xưa mà chẳng cần đi đâu xa. \nThông tin sản phẩm\n- Trọng lượng 75gr/gói, 1 thùng 24 gói \n- Giá trị năng lượng 215kcal \n- Sản phẩm đạt đầy đủ các tiêu chuẩn khắt khe về vệ sinh an toàn thực phẩm FSSC 22000, ISO, HACCP \n- 1 thùng 24 gói \n- HSD: 12 tháng kể từ ngày sản xuất ghi trên bao bì \n- Sản xuất tại Việt Nam\nHướng dẫn sử dụng\n- Bước 1: Cho vắt phở, gói rau và gói nước sốt vào tô \n- Bước 2: Chế khoảng 400ml nước sôi vào tô \n- Bước 3: Đậy nắp tô lại và chờ trong khoảng từ 3-4 phút \n- Bước 4: Trộn đều, cho gói tương ớt và tỏi ớt ngâm giấm vào tô rồi thưởng thức\n*Sản phẩm của Công ty cổ phần thương mai Foodeli Việt Nam.",
+      "gia": "₫216.000",
+      "daban": "1,2k",
+      "muc": "",
+      "loai": "Phở"
+    },
+    {
+      "id": 31,
+      "image": "https://down-vn.img.susercontent.com/file/sg-11134201-22090-y99yxor6b1hv41_tn",
+      "title": "[Tô lẻ] TÔ CHINSU CÓ THỊT 5 VỊ: PHỞ BÒ, HỦ TIẾU NAM VANG, BÁNH ĐA CUA, HỦ TIẾU BÒ KHO, MIẾN GÀ HẦM MĂNG ",
+      "mota": "Bữa ăn cực tiện lợi và thơm ngon. Chin-su tô 145g là thực phẩm ăn liền của nhà Chin-su với 5 hương vị khác nhau, mang đặc trưng riêng của từng món ăn đậm chất  và thấm đẫm trong từng sợi dai ngon đậm đà kèm gói thịt thật cực chất lượng cùng mùi hương hấp dẫn lôi cuốn không thể chối từ\nCó 05 vị: Phở Bò, Hủ Tiếu Nam Vang, Bánh Đa Cua, Hủ Tiếu Bò Kho, Miến Gà Hầm Măng\nKhối lượng: 145g\nCách nấu: Mở nắp tô, xé và cho vắt hủ tiếu, các gói gia vị và gói thịt bò nguyên miếng vào tô. Đổ nước sôi tới vạch trong tô. Đây nắp và đợi trong 5 phút. Trộn đều và thưởng thức.\nBảo quản: Bảo quản nơi khô ráo, tránh ánh nắng mặt trời. Nên chế biến ngay khi mở bao bì. Tránh để gần hoá chất và sản phẩm có mùi mạnh.\nThương hiệu: Chin-su (Việt Nam)\nSản xuất tại Việt Nam",
+      "gia": "₫52.000",
+      "daban": "554",
+      "muc": "Yêu thích",
+      "loai": "Phở"
+    },
+    {
+      "id": 32,
+      "image": "https://down-vn.img.susercontent.com/file/vn-11134211-23030-lqcaa57tadov2b",
+      "title": "Phở Bò Acecook, Tái Lăn, Phở Gà Ngon Như Phở Quán",
+      "mota": "ĐỆ NHẤT PHỞ, NGON NHƯ PHỞ QUÁN\nTrong mỗi gói Phở Đệ Nhất, từng sợi phở mềm dai đắm mình trong nước súp thơm ngon tuyệt hảo. Sự kết hợp hài hòa, tỉ mỉ của các gia vị Phở truyền thống, cùng nước cốt thịt và nhiều hành lá tươi ngon, bạn sẽ được thưởng thức tô phở NGON NHƯ PHỞ QUÁN dù ở nhà hay bất cứ nơi đâu.\nHướng dẫn sử dụng\nCách chung\nBước 1\nCho vắt phở và các gói gia vị vào tô.\nBước 2\nChế khoảng 400ml nước sôi, đậy nắp lại và chờ 3 phút.\nBước 3\nTrộn đều và dùng được ngay.\nGIÁ TRỊ DINH DƯỠNG\nGiá trị năng lượng:235 kcal\nChất béo:3,8 g\nCarbohydrat:45,6 g\nChất đạm:4,6 g\nTHÀNH PHẦN\nVắt phở: Gạo, chất làm dày (tinh bột xử lý oxy hóa (1404)), tinh bột khoai tây, đường, muối, chất điều vị (mononatri L-glutamat (621)), chất nhũ hóa (lecithin đậu nành (322(i)), natri carboxymethyl cellulose (466)). Các gói gia vị: Muối, dầu thực vật (dầu cọ, chất chống oxy hoá (BHA (320), BHT (321))), chất điều vị (mononatri L-glutamat (621), dinatri 5'-inosinat (631), dinatri 5'-guanylat (627)), các gia vị (hành, gừng, tỏi, ớt, tiêu, tai vị, tiểu hồi, quế, hạt ngò), tương ớt, đường, nước cốt bò 17,75 g/kg, protein đậu nành, hương bò tổng hợp 3,7 g/kg, maltodextrin, hành lá sấy, tương đậu nành, tinh bột khoai mì, chiết xuất nấm men, chất chống đông vón (dioxyd silic vô định hình (551)), phẩm màu tổng hợp (caramen nhóm I (150a)), hương bò rau thơm tổng hợp (đậu nành) 0,44 g/kg, chất bảo quản (kali sorbat (202)), phẩm màu tự nhiên (curcumin (100(i))), chất tạo ngọt tổng hợp (acesulfam kali (950)).\n* Quý khách lưu ý: Bao bì sản phẩm có thể thay đổi tùy theo đợt nhập hàng và vẫn luôn đảm bảo hàng chính hãng.\n-Hạn sử dụng: 8 tháng\n-Xuất xứ: Việt Nam\n-Sản xuất bởi: Công ty Cổ phần  Acecook Việt Nam\n-Địa chỉ: Lô số III đường số 11, nhóm CN II, khu công nghiệp Tân Bình, phường Tân Thạnh, quận Tân Phú, TP Hồ Chí Minh, Việt Nam",
+      "gia": "₫11.900",
+      "daban": "1,7k",
+      "muc": "Yêu thích",
+      "loai": "Phở"
+    },
+    {
+      "id": 33,
+      "image": "https://down-vn.img.susercontent.com/file/ce5d84eed76de3db4703c94370445733",
+      "title": "Đùi Gà Chiên Giòn Cay CP_ 1 Đùi",
+      "mota": "- Thương hiệu CP đã quá nổi tiếng tại Việt Nam về chế biến thực phẩm thịt tươi sống, chất lượng đã được khẳng định trong nhiều năm qua.\n- Chính vì được sự tin dùng của khách hàng, CP Việt Nam đã ra mắt nhiều sản phẩm ngày càng chất lượng để đáp ứng nhu cầu của khách hàng.\n- Đùi gà chiên giòn CP đã ra mắt để phục vụ cho nhu cầu bữa ăn nhanh cho khách hàng ngay tại nhà mà chất lượng không thua kém tại những nhà hàng thức ăn nhanh.\n- Bạn không có thời gian chuẩn bị bữa ăn nhanh yêu thích cho các bé yêu thương của mình?\n- Đừng lo, với đùi gà chiên giòn CP bạn chỉ cần 10 phút là đã có ngay những đùi gà chiên giòn cực ngon cho bé nhà mình.",
+      "gia": "₫23.000",
+      "daban": "2k",
+      "loai": "Gà rán",
+      "muc": "Yêu thích"
+    },
+    {
+      "id": 34,
+      "image": "https://down-vn.img.susercontent.com/file/sg-11134201-22090-is0njsoqzuhv63_tn",
+      "title": "Bột chiên gà KFC, Lotteria Thủy Tiên Food - Chuẩn vị, chiên cực giòn không ngấm dầu mỡ",
+      "mota": "Bột chiên gà KFC, Lotteria Thủy Tiên Food - Chuẩn vị, chiên cực giòn không ngấm dầu mỡ\nThông tin sản phẩm:\n1- Thành phần: Bột ngô, bột mì, muối gia vị,...\n2- Công dụng: Làm các món ngô, khoai béo ngậy, giòn thơm và màu bắt mắt.\n3- Hạn sử dụng: 12 tháng từ ngày sản xuất in trên bao bì\n4- Trọng lượng: 500g/ 1kg\nHướng dẫn sử dụng\nBước 1: Thịt gà rửa sạch,chặt miếng nhỏ vừa ăn, khía nhẹ vài đường cho thấm gia vị. Để gà trên rổ cho ráo nước, dùng giấy ăn thấm khô.\nBước 2: Ướp thịt với 2 thìa cà phê muối, 1/2 thìa cà phê hạt nêm, 1/2 thìa cà phê bột tỏi (công thức cho 1kg thịt gà) trộn đều và ướp từ 3 - 4 tiếng cho ngấm. Có thể dùng màng bọc thực phẩm bọc kín lại.\nBước 3: Sau đó cho bột vào túi ny lông sạch, nhúng miếng gà qua nước, cho các miếng gà vào bột khô. Phủ bột vào miếng gà và dùng tay bóp nhẹ cho bột bám đều vào miếng gà.\nBước 4: Rũ sạch bột bám trên miếng gà nhúng lại miếng gà qua nước rồi lặp lại bước phủ bột 1 lần nữa. \nBước 5: Dùng chảo sâu lòng, đổ ngập 1/2 chảo bằng dầu ăn, đun nóng, rồi thả từng miếng gà vào một rán vàng và cùng thưởng thức. ",
+      "gia": "₫99.000",
+      "daban": "640",
+      "loai": "Gà rán",
+      "muc": ""
+    },
+    {
+      "id": 35,
+      "image": "https://down-vn.img.susercontent.com/file/02f8841ee4ca7fb6c3bec12d26895575_tn",
+      "title": "Gà Rán KFC Quang Vinh 350g",
+      "mota": "💥💥💥💥💥 BỘT CHIÊN GÀ KFC nhà e đã quay lại ạ \nBột chiên gà chuẩn vị KFC. \n#50k 2 set ( 1 set . gồm 2 túi 1 túi bột khô và 1 túi bột ướt)).\nTừ nay không phải ra tiệm mà các mẹ vẫn có thể làm ra 1 đĩa gà chuẩn vị KFC, ảnh  thật e làm cho con e nhé. Rất dễ làm ạ. \n🍴1 sét bột ( có 2 gói ) chiên được từ 1,2 kg gà vừa rẻ lại ngon và sạch \n🍗🍖🍟Chỉ với 1 sét BỘT CHIÊN GÀ \nthể chế biến các món như gà rán sốt cay, gà lắc phô mai, gà sốt chua , gà sốt mật ong ngoài ra còn chiên cá, chiên khoai, chiên hải sản..\n🌿1 món khác không thể bỏ qua là heo chiên tẩm bột, miếng thịt thái lát mỏng, nhúng qua bột pha thêm gia vị rồi chiên lên sẽ ra thành phẩm giòn rụm, thơm ngon, đậm đà.sỉ từ 10 set trở lên",
+      "gia": "₫34.000",
+      "daban": "2k",
+      "loai": "Gà rán",
+      "muc": "Yêu thích"
+    },
+    {
+      "id": 36,
+      "image": "https://down-vn.img.susercontent.com/file/c7c797836b08be3c4998253e518f7e64",
+      "title": "Gà Chiên Giòn CP Tiện Lợi_ Làm nóng ăn liền nhiều vị",
+      "mota": "sản xuất tại nhà máy CP Việt Nam\nSản phẩm chỉ cần làm nóng là ăn liền ( chiên, quay lò vi sóng,,,)\nHạn sử dụng 18 tháng\nthịt gà đậm vị, bên ngoài giòn tan, trong thịt vẫn mềm, bao ngon luôn ạ\nChiên chấm tương cà, ớt mayone…\nChế biến trong 1phút , ko cần rã đông, chiên trực tiếp trên dầu nóng hoặc nồi chiên không dầu \n ngày này ăn bao ngon khách ạ, gà CP môi loại là một vị khác nhau, mỗi vị có phong cách riêng, đáng để thưởng thức.",
+      "gia": "₫85.000",
+      "daban": "1,1k",
+      "muc": "Yêu thích",
+      "loai": "Gà rán"
+    },
+    {
+      "id": 37,
+      "image": "https://down-vn.img.susercontent.com/file/19ac41363f3d55845442ff36e6721bf7",
+      "title": "Đùi Gà Rán Giòn Tan",
+      "mota": "Tên Sản Phẩm: Đùi Gà rán\nThương Hiệu : SaigonJSC \nQuy cách : Túi 3 cái đùi / 500Gr\nBảo quản: -18 độ C, tủ đông, hoặc ngăn đông của tủ lạnh.\nGà rán được làm từ 100% thịt gà tươi .Gia vị  nguyên liệu đầu vào tất cả đều được chọn lọc và phân tích chuyên sâu kỹ càng. Quy trình sản xuất theo công nghệ khép kín từ khi tẩm ướp , chiên, đóng gói đến cấp đông và giao tới khách hàng đều được giám sát kỹ càng. ",
+      "gia": "₫58.000",
+      "daban": "2.3k",
+      "muc": "",
+      "loai": "Gà rán"
+    },
+    {
+      "id": 38,
+      "image": "https://down-vn.img.susercontent.com/file/e56dc47fd942cf21bde921b89fa1d2a3_tn",
+      "title": "Gà karaage CP chiên giòn ngon ( túi 300gr)",
+      "mota": "-Đảm bảo an toàn vệ sinh thực phẩm, các sản phẩm đều mới sản xuất, thời gian sử dụng còn dài hạn.  \n-Hàng chính hãng của công ty đối tác hoặc do chính DORA sản xuất.\n-Đóng gói đầy đủ tận tâm để sản phẩm đến tay khách hàng.\n- Hương vi cay nhẹ, đã tẩm bột chiên sẵn rất tiện, mọi người chỉ cẩn chiên lại hoặc bỏ nồi chiên không dầu là có ngay đùi ko thua kém ngoài hàng\n- Sản phẩm được sản xuất từ thương hiệu CP nổi tiếng đặc biệt ở các thành phố lớn như Hà Nội, HCM, nên mọi người có thể an tâm sử dụng.\nKARAAGE 300gr\nHàng tẩm thơm ngon, đảm bảo vừa lòng khách hàng khó tính nhất.\n✅HDSD: kg cần rã đông lấy ra 5p là bỏ lò chiên không dầu 20phút là măm măm luôn mà ko cần phải tẩn ướp hay sơ chế gì nhé.\nAn toàn - tiện lợi - thơm ngon cho các bé.\n✅Thương hiệu: CP\n✅Thời hạn sử dụng: 12 tháng kể từ NSX\n✅Điều kiện bảo quản: ≤ -18ºC hoặc ngăn đá tủ lạnh",
+      "gia": "₫48.000",
+      "daban": "460",
+      "muc": "Yêu thích",
+      "loai": "Gà rán"
+    },
+    {
+      "id": 39,
+      "image": "https://down-vn.img.susercontent.com/file/b196af51bb05bb46e127c4763707769e",
+      "title": "Đùi Gà Rán 10 cái KFC CP Loại 1 (Phú Nhuận)",
+      "mota": "\n*Giới thiệu:\nĐùi gà rán là một sản phẩm thơm ngon chất lượng trong giới ăn vặt nói chung và các nhà hàng quán ăn nói riêng. Nói như vậy bởi vì Đùi gà rán có thể chinh phục tất cả các lĩnh vực cảu giới ăn uống và độ tuổi từ già đến trẻ cđều thích sản phẩm Đùi gà rán này.\n*Cách chiên đùi gà rán:\nĐùi gà rán được chiên trong dầu nóng, dầu càng nóng đùi gà sẽ càng đẹp các bạn nhé. Đùi gà rán sau khi chiên xong sẽ được để lên miếng giấy cho thắm hết dầu mở.\nKhi chiên đùi gà rán các bạn nhớ trỡ đùi gà đều tay để không làm vỡ đùi gà nhé. Sau cùng các bạn chỉ việc thưởng thức sản phẩm mà mình làm ra thôi nhé.",
+      "gia": "₫220.000",
+      "daban": "2.1k",
+      "muc": "Yêu thích",
+      "loai": "Gà rán"
+    },
+    {
+      "id": 40,
+      "image": "https://down-vn.img.susercontent.com/file/81ed0c3c51deef746bcc81af72c68411",
+      "title": "LẺ 1 GÓI 25gr CÁNH GIỮA GÀ TẨM MẬT ONG ĂN LIỀN",
+      "mota": "GÓI 25gr CÁNH GIỮA GÀ TẨM MẬT ONG ĂN LIỀN\nTín đồ mê ăn vặt không thể bỏ qua món này đâu ạ! ngon xuất sắc luôn. Cánh gà là phần mà nhiều chị em thích ăn nhất được tẩm ướp gia vị siêu ngon và hấp dẫn.\n Có 3 vị cho khách yêu lựa chọn:\n👉Đen vị tương\n👉 Đỏ cay \n👉 Vàng ít cay\nNgày sản xuất ghi trên bao bì.\nHSD 9 tháng kể từ ngày sản xuất.",
+      "gia": "₫3.300",
+      "daban": "18,8k",
+      "muc": "Yêu thích",
+      "loai": "Gà rán"
+    },
+    {
+      "id": 41,
+      "image": "https://down-vn.img.susercontent.com/file/9281f8d9b2844be3cee7d11144a19605_tn",
+      "title": "COMBO Đồ ăn vặt CAY SIÊU HOT TIỆM CỔNG TRƯỜNG 20 GÓI",
+      "mota": "Sản phẩm: Combo Đồ Ăn Vặt chua cay\nXin chào bạn đến với Tiệm Ăn Vặt nhà Thuỳ nha!!\n✔Tất cả sản phẩm đều được mình tự chụp khách yên tâm đặt hàng nhaaaa!!\n✔Đồ ăn đảm bảo, đa dạng, luôn có sẵn, sản phẩm được đóng gói trong thùng chắc chắn khách nhà mình không lo sản phẩm bị bẹp - vỡ.\n✔️Tổng hợp các loại bánh kẹo đại lý, bách hoá - tổng hợp, quán ăn, căng-tin cổng trường.\n✔️Phù hợp mọi lứa tuổi, sản phẩm luôn được nhập mới liên tục đảm bảo chất lượng.\n    ✨ Ngày sản xuất được in trên bao bì\n    ✨ Hạn sử dụng 6 tháng kể từ ngày sản xuất.\n    ✨ Để nơi thoáng mát, tránh ánh nắng trực tiếp\n    ✨ Mọi vấn đề thắc mắc khách nhắn tin trực tiếp cho mình sẽ xử lý giải đáp nhanh nhất nha!!",
+      "gia": "₫36.000",
+      "daban": "34,5k",
+      "loai": "Đồ ăn vặt",
+      "muc": "Yêu thích"
+    },
+    {
+      "id": 42,
+      "image": "https://down-vn.img.susercontent.com/file/e6ae4f3ff7c88bed07372fe896988027_tn",
+      "title": "Khô 3 Vị Mix hộp 300gr : KHÔ GÀ + KHÔ HEO + MỰC SỢI HẤP DỪA đo ăn văt ngon rẻ sài gòn",
+      "mota": "KHÔ 3 Vị Mix : KHÔ GÀ + KHÔ HEO + MỰC SỢI HẤP DỪA ✌️\n✔Khô 3 vị gồm : Mực hấp dừa, Heo cháy tỏi, Gà lá chanh 😘❤️\n☘E về khô 3 loại mix chung 1 hủ, quý khách có thể thưởng thức 3 loại cùng lúc mà không phải mua riêng lẻ từng loại tốn kém ạ, hihi.\nE mời mọi người lên đơn. Sỉ từ 10 lon giá tốt\nQuy cách đóng gói : hủ pet 300g.\nShop Đảm Bảo\n-Chăm sóc khách hàng là ưu tiên đầu tiên của shop mình ạ, nên có thắc mắc gì cứ inbox hoặc gọi cho shop.\n-Về sản phẩm shop đảm bảo luôn là date mới nhất luôn nên là chất lượng tuyệt đối.\n-Về giá cả : vì là lấy số lượng lớn nên giá luôn là giá rẻ nhất thị trường bán lẻ và sỉ ạ\n-Chuẩn bị hàng: Shop luôn có hàng sẵn trên 10 thùng nên sản phẩm sẽ được gửi đến các bạn sớm nhất luôn ạ\nHàng có sẵn, giao hàng ngay khi nhận được đơn \nGiao hàng trên toàn quốc, nhận hàng trả tiền \nHỗ trợ đổi trả theo quy định của Shopee ",
+      "gia": "₫50.000",
+      "daban": "11,9k",
+      "loai": "Đồ ăn vặt",
+      "muc": "Yêu thích"
+    },
+    {
+      "id": 43,
+      "image": "https://down-vn.img.susercontent.com/file/f18e72c75b3a59a9c68162f936a3a4b4_tn",
+      "title": "Ăn Vặt cao cấp đóng lon giá sỉ",
+      "mota": "Sẵn hàng ăn vặt đóng Pet nhà làm:\nQui cách :Đóng lon pet có nắp thiếc và túi hút ẩm và nắp nhựa đậy sau khi khui lon\nHạn sử dụng : 06thang\nBảo Quản tránh ánh nắng trực tiếp để nơi khô ráo thoáng mát",
+      "gia": "₫93.000",
+      "daban": "12,2k",
+      "loai": "Đồ ăn vặt",
+      "muc": ""
+    },
+    {
+      "id": 44,
+      "image": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-li9qxz2rvcgi76",
+      "title": "Kẹo MIX MIX sấy giòn - KẸO KHÔNG CHUA ăn vặt siêu ngon KKC",
+      "mota": "Kẹo MIX MIX sấy giòn - KẸO KHÔNG CHUA ăn vặt siêu ngon KKC\n- Hướng dẫn sử dụng: Dùng ăn trực tiếp\n- Hướng dẫn bảo quản: Nhiệt độ thường\n- Trọng lượng tịnh: \n- Hạn sử dụng: 06 tháng kể từ ngày sản xuất",
+      "gia": "₫39.000 ",
+      "daban": "3,4k",
+      "muc": "Yêu thích",
+      "loai": "Đồ ăn vặt"
+    },
+    {
+      "id": 45,
+      "image": "https://down-vn.img.susercontent.com/file/sg-11134201-23010-b2say3olxgmvd8",
+      "title": "Đồ ăn vặt ngon giá rẻ Đệ Nhất Khô 22 món đặc sản Phan Thiết",
+      "mota": "ĐỒ ĂN VẶT ĐỆ NHẤT KHÔ - ĐẶC SẢN PHAN THIẾT CÓ GÌ MÀ ĐẠT ĐƯỢC HƠN 30.000 ĐƠN HÀNG TRONG 1 NĂM ???\n- Đồ ăn vặt ngon rẻ an toàn uy tín : trên thị trường đồ ăn vặt shopee food hiện nay có rất nhiêu shop bán hàng với các mẫu mã đa dạng và chất lượng, cạnh tranh cao làm khách hàng khó lựa chọn một thương hiệu ăn vặt uy tín chất lượng. Hiểu được tâm lý đó, Đệ Nhất Khô - Đặc Sản Phan Thiết luôn chú trọng tập trung phát triển về chất lượng sản phẩm cho đồ ăn vặt, đồ ăn vặt không chỉ ngon mà còn phải an toàn vệ sinh thực phẩm, đồ ăn vặt phải có bao bì mẫu mã đẹp, đồ ăn vặt phải có giá thành phù hợp với mọi người.\n- Đồ ăn vặt mới lạ độc đáo : Đệ Nhất Khô - Đặc Sản Phan Thiết luôn tự hào vì các sản phẩm đồ ăn vặt của Shop được sinh ra tại Phan Thiết, vùng đát của nắng , gió và đặc sản là các loại hải sản làm thành đồ ăn vặt mang tính mới lạ, ít bị trúng lặp, ngon mắt , ngon miệng.\n- Vệ sinh an toàn thực phẩm : Các sản phẩm Khô Ăn Liền của chúng mình được kiểm soát kỹ lưỡng về chất lượng sản phẩm, không chỉ đảm bảo sản phẩm ngon về mùi vị, chuẩn về chất lượng mà còn phải đạt được tiêu chuẩn vệ sinh an toàn thực phẩm, bạn hoàn toàn tự tin và an tâm sử dụng\n- Đóng gói đẹp mắt, chắc chắn : Chúng mình đầu tư rất kỹ về nhãn mác bao bì của sản phẩm theo phong cách trẻ trung, năng động, vui nhộn... bạn hoàn toàn có thể sử dụng các sản phẩm của Shop để tặng quà cho người thân, bạn bè, đồng nghiệp với chi phí phải chăng.\n- Giao hàng nhanh chóng : Chúng mình đảm bảo hàng sẽ được\n giao đến tay bạn từ 1 - 2 ngày ở Khu vực miền Nam và miền Trung, 3 - 4 ngày ở Khu vực miền Bắc ^^.\n- Quà tặng tri ân : Để cảm ơn bạn đã tin tưởng lựa chọn các sản phẩm của Shop, chúng mình sẽ dành tặng cho bạn một phần quà nho nhỏ chứa đựng ngập tràn tình cảm, chúng mình hi vọng bạn sẽ thích.",
+      "gia": "₫49.000 ",
+      "daban": "6,4k",
+      "muc": "Yêu thích",
+      "loai": "Đồ ăn vặt"
+    },
+    {
+      "id": 46,
+      "image": "https://down-vn.img.susercontent.com/file/c45b6065c1a1916e1eb578fea28e2bcd",
+      "title": "[Sẵn date mới] 💥Kẹo SoCoLa Bọc Dâu Tây Sấy💥 Gói 60g",
+      "mota": "Socola bọc dâu tây sấy lạnh gói 60gram siêu hot hit \nNhững viên socola  nhỏ xinh bọc những quả dâu tây sấy khô giòn. Kèm vị ngọt ngào của socola, vị chua dịu nhẹ của dâu tây là sự kết hợp tuyệt hảo, ăn hoài không thấy chán.\nSản phẩm phù hợp cho các tín đồ ăn uống, vị ngọt của sô cô la.\nHình ảnh bắt mắt hợp lý xuất hiện trong các tiệc cưới, sinh nhât..\nCó 3 vị chính :\nSocola truyền thống\nSocola Matcha\nSocola sữa\n",
+      "gia": "₫25.000",
+      "daban": "3,6k",
+      "muc": "Yêu thích+",
+      "loai": "Đồ ăn vặt"
+    },
+    {
+      "id": 47,
+      "image": "https://down-vn.img.susercontent.com/file/61d3812bdaff90abe20e9ff390832aba",
+      "title": "Đồ ăn vặt tổng hợp các món ngọt bánh kẹo bimbim siêu thơm ngon",
+      "mota": "Đồ ăn vặt tổng hợp các món ngọt bánh kẹo bimbim siêu thơm ngon\nTL : 15-50h/1 gói\nHsd : 6th từ ngày sx\nNgày in trên bao bì là ngày sản xuất\nHướng dẫn sử dụng: Mở túi ăn ngay.\nBảo quản ở nhiệt độ thường, tránh ánh nắng trực tiếp.\nĐồ ăn vặt từ lâu là món ăn vặt quen thuộc với giới trẻ. \nĐồ ăn vặt gồm các món ngọt : bánh, kẹo, bimbim rất dễ ăn và phù hợp với khẩu vị của nhiều người.\nXuất xứ : Đài Loan",
+      "gia": "₫12.900",
+      "daban": "14,5k",
+      "muc": "Yêu thích+",
+      "loai": "Đồ ăn vặt"
+    },
+    {
+      "id": 48,
+      "image": "https://down-vn.img.susercontent.com/file/sg-11134201-22120-827nlbjejglvb1",
+      "title": "500G Đùi Gà Sấy Phô Mai, Bánh Quẩy Đùi Gà Phô Mai Giòn Tan Thơm Ngon, đồ ăn vặt",
+      "mota": "Quẩy đùi gà phô mai cay 500g \n- Thành phần: Bột mì,bơ, đường, ớt , vị phô mai cùng gia vị.  \n- Hướng dẫn sử dụng:  Ăn trực tiếp hoặc ăn kèm với nước ngọt hoặc làm mồi nhậu là hết sẩy.\n- Hướng dẫn bảo quản: Nhiệt độ thường, để ở nơi khô ráo, thoáng mát. Tránh ánh nắng trực tiếp\n- Trọng lượng: 500g\n- Hạn sử dụng: 06 tháng kể từ ngày sản xuất\n- Xuất Xứ: Việt Nam\nChúc các bạn có những phút giây vui vẻ và ngon miệng với quẩy đùi gà phô mai cay Soyum. À, đừng quên bên mình vẫn còn nhiều món ngon lắm đấy, như khô bò, khô heo cháy tỏi... chẳng hạn.\nThơm ngon từng sợi ",
+      "gia": "₫25.000",
+      "daban": "19,3k",
+      "muc": "Yêu thích+",
+      "loai": "Đồ ăn vặt"
     }
   ]
 }

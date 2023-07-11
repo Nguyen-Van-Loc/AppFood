@@ -53,7 +53,6 @@ const Cart = () => {
      }, 0);
      setSum(totalPrice)
   }
-  
   const increaseQuantity = (cart_id) => {
     const cartItem = data1.find(
       (item1) => item1.id === item.id && item1.userId === item.id

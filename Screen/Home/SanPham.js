@@ -56,7 +56,6 @@ const Sanpham = () => {
       daban: daban,
       loai: loai,
     };
-
     fetch(Api_Foodgy + "/" + id, {
       method: "PUT",
       headers: {
@@ -83,6 +82,14 @@ const Sanpham = () => {
       },
       body: JSON.stringify(New),
     }).then(() => getList(), setModalVisible1(!modalVisible1));
+     fetch(Api_All, {
+            method: "POST",
+            headers: {
+              "Content-Type": "application/json",
+              Accept: "application/json",
+            },
+            body: JSON.stringify(check),
+          });
   };
   const showModal = (item) => {
    setID(item.id);

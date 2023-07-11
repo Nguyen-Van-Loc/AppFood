@@ -8,7 +8,7 @@ import {
   SafeAreaView,
   Image
 } from "react-native";
-import { Api_Food } from "../../api";
+import { Api_All } from "../../api";
 import { useNavigation } from "@react-navigation/native";
 const Search = () => {
   const navigation = useNavigation();
@@ -17,7 +17,7 @@ const Search = () => {
   const [masterDataSource, setMasterDataSource] = useState([]);
 
   useEffect(() => {
-    fetch(Api_Food)
+    fetch(Api_All)
       .then((response) => response.json())
       .then((responseJson) => {
         setFilteredDataSource(responseJson);
@@ -53,7 +53,7 @@ const Search = () => {
     );
   };
   const GetId = (id) => {
-    fetch(Api_Food + "/" + id)
+    fetch(Api_All + "/" + id)
       .then((res) => res.json())
       .then((data) => navigation.navigate("Chitiet1", { Data: data }));
   };

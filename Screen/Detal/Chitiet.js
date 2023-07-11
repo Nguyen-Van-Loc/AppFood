@@ -85,6 +85,8 @@ const Chitiet = ({ route, navigation }) => {
           }).then((res) => res.json());
         }
       });
+      showModal()
+      ToastAndroid.showWithGravity("Thêm sản phẩm vào giỏ hàng thành công",ToastAndroid.LONG,ToastAndroid.BOTTOM);
   };
   useEffect(() => {
     getIduser();
@@ -117,35 +119,37 @@ const Chitiet = ({ route, navigation }) => {
           source={{ uri: item.image }}
         />
       </View>
-      
-        <ScrollView style={style.thongtin}>
-          <View style={style.viewsp}>
-            <Text style={style.tensp}>{item.title}</Text>
-          </View>
-          <View style={style.viewgia}>
-            <Text style={{ color: "red", fontSize: 17 }}>{item.gia}</Text>
-          </View>
-          <View style={{ marginTop: 10, paddingHorizontal: 15 }}>
-            <Text>
-              Đã bán:
-              <Text>{item.daban}</Text>
-            </Text>
-          </View>
-          <View>
-            <Text
-              style={{
-                fontSize: 18,
-                backgroundColor: "rgba(0,0,0,0.02)",
-                paddingVertical: 10,
-                marginVertical: 10,
-                paddingHorizontal: 10,
-              }}
-            >
-              Mô tả sản phẩm
-            </Text>
-            <Text style={{ paddingHorizontal: 10,marginBottom:50 }}>{item.mota}</Text>
-          </View>
-        </ScrollView>
+
+      <ScrollView style={style.thongtin} showsVerticalScrollIndicator={false}>
+        <View style={style.viewsp}>
+          <Text style={style.tensp}>{item.title}</Text>
+        </View>
+        <View style={style.viewgia}>
+          <Text style={{ color: "red", fontSize: 17 }}>{item.gia}</Text>
+        </View>
+        <View style={{ marginTop: 10, paddingHorizontal: 15 }}>
+          <Text>
+            Đã bán:
+            <Text>{item.daban}</Text>
+          </Text>
+        </View>
+        <View>
+          <Text
+            style={{
+              fontSize: 18,
+              backgroundColor: "rgba(0,0,0,0.02)",
+              paddingVertical: 10,
+              marginVertical: 10,
+              paddingHorizontal: 10,
+            }}
+          >
+            Mô tả sản phẩm
+          </Text>
+          <Text style={{ paddingHorizontal: 10, marginBottom: 50 }}>
+            {item.mota}
+          </Text>
+        </View>
+      </ScrollView>
       <View
         style={{
           position: "absolute",
