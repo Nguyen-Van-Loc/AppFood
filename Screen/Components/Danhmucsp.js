@@ -103,8 +103,7 @@ const Danhmucsp = ({ route }) => {
     getIduser();
   }, [isFocused]);
   const GetId = (id) => {
-    
-    fetch(Api_Foodgy + "/" + id)
+    fetch(Api_sanPham + "/" + id)
       .then((res) => res.json())
       .then((data) => navigation.navigate("Chitiet1", { Data: data }));
   };
