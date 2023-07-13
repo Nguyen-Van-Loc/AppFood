@@ -11,52 +11,96 @@ import {
 } from "react-native";
 import { useNavigation, useIsFocused } from "@react-navigation/native";
 import AsyncStorage from "@react-native-async-storage/async-storage";
-import { Api_Cart } from "../../api";
+import { Api_Cart, Api_Oder } from "../../api";
 const widthScreen = Dimensions.get("window").width;
-const HeightScreen = Dimensions.get("window").height;
 const Cart = () => {
   const [item, setItem] = useState([]);
   const [data, setData] = useState([]);
   const [data1, setData1] = useState([]);
+  const [check, setCheck] = useState(true);
   const [sum, setSum] = useState(null);
   const isFocused = useIsFocused();
   const navigation = useNavigation();
+
   const getIdUser = async () => {
     try {
       const jsonValue = await AsyncStorage.getItem("nit");
+      getItemCart(JSON.parse(jsonValue));
       return jsonValue != null ? setItem(JSON.parse(jsonValue)) : null;
     } catch (e) {
       console.log("2" + e);
     }
   };
-  const hienthi= new Intl.NumberFormat('vi-VN');
-  const getItemCart = () => {
+  const hienthi = new Intl.NumberFormat("vi-VN");
+  const getItemCart = (item) => {
     fetch(Api_Cart)
       .then((res) => res.json())
       .then((data) => {
-        setData(data), setData1(data);
+        let getCart = data.find((cart) => cart.userId === item.id);
+        if (getCart) {
+          const products = getCart.products;
+          if (products.length > 0) {
+           
+          } else {
+            setCheck(false);
+          }
+          let product = products.filter(
+            (product) => product.product.length > 0
+          );
+          setData(product);
+        }
+        else{
+          setCheck(false)
+        }
+        if (getCart) {
+          const products = getCart.products;
+          const totalPrice = products.reduce((acc, product) => {
+            return acc + product.totalPrice;
+          }, 0);
+          setSum(totalPrice);
+        }
+        setData1(data);
       })
       .catch((error) => {
         console.error(error);
       });
   };
-  let getCart = data.find((cart) => cart.userId === item.id);
-  if (getCart) {
-    const products = getCart.products;
-    let product = products.filter((product) => product.product.length > 0);
-    setData(product);
-  }
-  if (getCart) {
-     const products = getCart.products;
-     const totalPrice =products.reduce((acc, product) => {
-       return acc + product.totalPrice;
-     }, 0);
-     setSum(totalPrice)
-  }
-  const increaseQuantity = (cart_id) => {
-    const cartItem = data1.find(
-      (item1) => item1.id === item.id && item1.userId === item.id
+  const Delete = (cart_id) => {
+    const cartItem = data1.find((item1) => item1.userId === item.id);
+    const product1 = cartItem.products.filter(
+      (item2) => item2.id !== cart_id.id
     );
+    cartItem.products = product1;
+    fetch(Api_Cart + "/" + cartItem.id, {
+      method: "PUT",
+      headers: {
+        "Content-Type": "application/json",
+        Accept: "application/json",
+      },
+      body: JSON.stringify(cartItem),
+    });
+    getItemCart(item)
+    setCheck(check)
+  };
+
+  const AddOder = () => {
+    const add = {
+      userId: item.id,
+      products: data,
+      sum: sum,
+    };
+    fetch(Api_Oder, {
+      method: "POST",
+      headers: {
+        "Content-Type": "application/json",
+        Accept: "application/json",
+      },
+      body: JSON.stringify(add),
+    });
+  };
+
+  const increaseQuantity = (cart_id) => {
+    const cartItem = data1.find((item1) => item1.userId === item.id);
     const product1 = cartItem.products.find((item2) => item2.id === cart_id.id);
     product1.quantity = cart_id.quantity + 1;
     product1.totalPrice =
@@ -70,12 +114,10 @@ const Cart = () => {
       },
       body: JSON.stringify(cartItem),
     });
-    getItemCart();
+    getItemCart(item);
   };
   const decreaseQuantity = (cart_id) => {
-    const cartItem = data1.find(
-      (item1) => item1.id === item.id && item1.userId === item.id
-    );
+    const cartItem = data1.find((item1) => item1.userId === item.id);
     const product1 = cartItem.products.find((item2) => item2.id === cart_id.id);
     product1.quantity = cart_id.quantity - 1;
     product1.totalPrice =
@@ -89,10 +131,10 @@ const Cart = () => {
       },
       body: JSON.stringify(cartItem),
     });
-    getItemCart();
+    getItemCart(item);
   };
+
   useEffect(() => {
-    getItemCart();
     getIdUser();
     const backAction = () => {
       navigation.goBack();
@@ -106,181 +148,182 @@ const Cart = () => {
   }, [isFocused]);
 
   return (
-    <View style={{ width: widthScreen, height: HeightScreen }}>
-      <TouchableOpacity
-        onPress={() => navigation.goBack()}
-        style={{
-          position: "absolute",
-          zIndex: 1,
-          marginLeft: 20,
-          marginTop: 35,
-          flexDirection: "row",
-        }}
-      >
-        <Image
-          style={{
-            width: 20,
-            height: 20,
-          }}
-          source={{
-            uri: "https://cdn-icons-png.flaticon.com/128/130/130882.png",
-          }}
-        ></Image>
-      </TouchableOpacity>
-      <View
-        style={{
-          position: "absolute",
-          zIndex: 1,
-          marginLeft: 50,
-          marginTop: 35,
-          flexDirection: "row",
-        }}
-      >
-        <Text style={{ fontSize: 20, marginLeft: 10, marginTop: -5 }}>
-          Giỏ Hàng
-        </Text>
-      </View>
-      <FlatList
-        data={data}
-        style={{ marginTop: 80 }}
-        keyExtractor={(item) => item.id.toString()}
-        renderItem={({ item }) => (
-          <View>
-            <View
-              style={{
-                borderWidth: 1,
-                padding: 20,
-                borderRadius: 20,
-                margin: 10,
-              }}
-            >
-              <View style={{ flexDirection: "row" }}>
-                <View>
-                  <Image
-                    style={{ width: 70, height: 70 }}
-                    source={{ uri: item.product[0].image }}
-                  />
-                </View>
-                <View style={{ flexDirection: "column", width: "80%" }}>
-                  <Text style={{ fontSize: 18, marginLeft: 10 }}>
-                    {item.product[0].title}
-                  </Text>
-                  <Text style={{ fontSize: 18, marginLeft: 10, color: "red" }}>
-                    {item.product[0].gia}
-                  </Text>
-                </View>
-              </View>
-              <View
-                style={{
-                  flexDirection: "row",
-                  justifyContent: "space-between",
-                }}
-              >
+    <View style={{ width: widthScreen, flex: 1 }}>
+      {check ? (
+        <View style={{ width: widthScreen, flex: 1 }}>
+          <FlatList
+            data={data}
+            keyExtractor={(item) => item.id.toString()}
+            renderItem={({ item }) => (
+              <View>
                 <View
                   style={{
-                    flexDirection: "row",
+                    borderWidth: 1,
+                    padding: 20,
+                    borderRadius: 20,
                     margin: 10,
-                    height: 35,
                   }}
                 >
-                  {item.quantity <= 1 ? (
-                    <TouchableOpacity
-                      disabled={true}
-                      onPress={() => decreaseQuantity(item)}
-                      style={{
-                        padding: 8,
-                        borderTopWidth: 1,
-                        borderLeftWidth: 1,
-                        borderBottomWidth: 1,
-                        justifyContent: "center",
-                      }}
-                    >
-                      <Image
-                        style={{ width: 10, height: 10 }}
-                        source={{
-                          uri: "https://cdn-icons-png.flaticon.com/128/43/43625.png",
-                        }}
-                      />
-                    </TouchableOpacity>
-                  ) : (
-                    <TouchableOpacity
-                      disabled={false}
-                      onPress={() => decreaseQuantity(item)}
-                      style={{
-                        padding: 8,
-                        borderTopWidth: 1,
-                        borderLeftWidth: 1,
-                        borderBottomWidth: 1,
-                        justifyContent: "center",
-                      }}
-                    >
-                      <Image
-                        style={{ width: 10, height: 10 }}
-                        source={{
-                          uri: "https://cdn-icons-png.flaticon.com/128/43/43625.png",
-                        }}
-                      />
-                    </TouchableOpacity>
-                  )}
-                  <TextInput
-                    style={{
-                      width: 70,
-                      textAlign: "center",
-                      color: "red",
-                      borderWidth: 1,
-                    }}
-                    keyboardType="numeric"
-                  >
-                    {item.quantity}
-                  </TextInput>
                   <TouchableOpacity
-                    onPress={() => increaseQuantity(item)}
-                    style={{
-                      padding: 8,
-                      borderTopWidth: 1,
-                      borderRightWidth: 1,
-                      borderBottomWidth: 1,
-                      justifyContent: "center",
-                    }}
+                    style={{ position: "absolute", right: 0, margin: 10 }}
+                    onPress={() => Delete(item)}
                   >
                     <Image
-                      style={{ width: 10, height: 10 }}
+                      style={{ width: 30, height: 30 }}
                       source={{
-                        uri: "https://cdn-icons-png.flaticon.com/128/2997/2997933.png",
+                        uri: "https://cdn-icons-png.flaticon.com/128/9068/9068699.png",
                       }}
                     />
                   </TouchableOpacity>
+                  <View style={{ flexDirection: "row" }}>
+                    <View>
+                      <Image
+                        style={{ width: 70, height: 70 }}
+                        source={{ uri: item.product[0].image }}
+                      />
+                    </View>
+                    <View style={{ flexDirection: "column", width: "75%" }}>
+                      <Text style={{ fontSize: 18, marginLeft: 10 }}>
+                        {item.product[0].title}
+                      </Text>
+                      <Text
+                        style={{ fontSize: 18, marginLeft: 10, color: "red" }}
+                      >
+                        {item.product[0].gia}
+                      </Text>
+                    </View>
+                  </View>
+                  <View
+                    style={{
+                      flexDirection: "row",
+                      justifyContent: "space-between",
+                    }}
+                  >
+                    <View
+                      style={{
+                        flexDirection: "row",
+                        margin: 10,
+                        height: 35,
+                      }}
+                    >
+                      {item.quantity <= 1 ? (
+                        <TouchableOpacity
+                          disabled={true}
+                          onPress={() => decreaseQuantity(item)}
+                          style={{
+                            padding: 8,
+                            borderTopWidth: 1,
+                            borderLeftWidth: 1,
+                            borderBottomWidth: 1,
+                            justifyContent: "center",
+                          }}
+                        >
+                          <Image
+                            style={{ width: 10, height: 10 }}
+                            source={{
+                              uri: "https://cdn-icons-png.flaticon.com/128/43/43625.png",
+                            }}
+                          />
+                        </TouchableOpacity>
+                      ) : (
+                        <TouchableOpacity
+                          disabled={false}
+                          onPress={() => decreaseQuantity(item)}
+                          style={{
+                            padding: 8,
+                            borderTopWidth: 1,
+                            borderLeftWidth: 1,
+                            borderBottomWidth: 1,
+                            justifyContent: "center",
+                          }}
+                        >
+                          <Image
+                            style={{ width: 10, height: 10 }}
+                            source={{
+                              uri: "https://cdn-icons-png.flaticon.com/128/43/43625.png",
+                            }}
+                          />
+                        </TouchableOpacity>
+                      )}
+                      <TextInput
+                        style={{
+                          width: 70,
+                          textAlign: "center",
+                          color: "red",
+                          borderWidth: 1,
+                        }}
+                        keyboardType="numeric"
+                      >
+                        {item.quantity}
+                      </TextInput>
+                      <TouchableOpacity
+                        onPress={() => increaseQuantity(item)}
+                        style={{
+                          padding: 8,
+                          borderTopWidth: 1,
+                          borderRightWidth: 1,
+                          borderBottomWidth: 1,
+                          justifyContent: "center",
+                        }}
+                      >
+                        <Image
+                          style={{ width: 10, height: 10 }}
+                          source={{
+                            uri: "https://cdn-icons-png.flaticon.com/128/2997/2997933.png",
+                          }}
+                        />
+                      </TouchableOpacity>
+                    </View>
+                  </View>
                 </View>
               </View>
+            )}
+          />
+          <View
+            style={{
+              position: "relative",
+              width: "100%",
+              flexDirection: "row",
+              justifyContent: "space-between",
+              borderTopWidth: 0.4,
+            }}
+          >
+            <View style={{ flexDirection: "row", marginTop: 20 }}>
+              <Text style={{ fontSize: 18 }}>Tổng tiền: ₫</Text>
+              <Text style={{ fontSize: 18 }}>{hienthi.format(sum)}</Text>
             </View>
+            <TouchableOpacity
+              onPress={() => AddOder()}
+              style={{
+                backgroundColor: "red",
+                width: "25%",
+                justifyContent: "center",
+                alignItems: "center",
+                padding: 15,
+              }}
+            >
+              <Text style={{ color: "white", fontSize: 15 }}>Mua ngay</Text>
+            </TouchableOpacity>
           </View>
-        )}
-      />
-      <View
-        style={{
-          width: "100%",
-          flexDirection: "row",
-          justifyContent: "space-between",
-          borderTopWidth: 0.4,
-        }}
-      >
-        <View style={{ flexDirection: "row", marginTop: 20 }}>
-          <Text style={{ fontSize: 18 }}>Tổng tiền: ₫</Text>
-          <Text style={{ fontSize: 18 }}>{hienthi.format(sum)}</Text>
         </View>
-        <TouchableOpacity
+      ) : (
+        <View
           style={{
-            backgroundColor: "red",
-            width: "25%",
-            justifyContent: "center",
+            width: widthScreen,
+            flex: 1,
             alignItems: "center",
-            padding: 15,
-            marginBottom: -25,
+            justifyContent: "center",
           }}
         >
-          <Text style={{ color: "white", fontSize: 15 }}>Mua ngay</Text>
-        </TouchableOpacity>
-      </View>
+          <Image
+            style={{ width: 150, height: 150 }}
+            source={{
+              uri: "https://cdn-icons-png.flaticon.com/256/6002/6002155.png",
+            }}
+          />
+          <Text>Không có sản phẩm trong giỏ hàng</Text>
+        </View>
+      )}
     </View>
   );
 };

@@ -125,9 +125,9 @@
       "id": 1
     },
     {
-      "ma":2,
-      "id":2,
-      "products":[
+      "ma": 2,
+      "id": 2,
+      "products": [
         {
           "id": 1,
           "image": "https://down-vn.img.susercontent.com/file/e3c533bc8783b7278a750ede075705d3",
@@ -634,63 +634,6 @@
     }
   ],
   "cart": [
-    {
-      "userId": 1,
-      "products": [
-        {
-          "id": 1,
-          "product": [
-            {
-              "id": 16,
-              "image": "https://down-vn.img.susercontent.com/file/ad4d21212546bed08033efb0bb09596c",
-              "title": "[Freeship70k] Thùng 30 gói mì gấu đỏ tôm chua cay 63g/ thùng 30 gói mì gà sợi phở gấu đỏ",
-              "mota": "Sợi mì vàng dai ngon được tẩm ướp nước mắm cá cơm hoà quyện trong nước súp tôm chua cay Gấu Đỏ đậm đà cùng hành phi 1 nắng thơm lừng ngất ngây. 30 gói mì Gấu Đỏ tôm chua cay 63g có hương vị thơm ngon khó cưỡng, lựa chọn hấp dẫn cho bữa ăn nhanh gọn đơn giản và đầy đủ dưỡng chất\nThông tin sản phẩm\nLoại mì \nMì nước\nVị mì \nTôm chua cay\nSợi mì \nSợi tròn, nhỏ \n Khối lượng \n63g / gói\nThành phần \nBột mì, dầu thực vật tinh luyện, tinh bột khoai mì biến tính (1412, 1420), muối I-ốt, đường, chất điều vị (621, 627, 631), hành (5 g/kg), chiết xuất nấm men, bột tôm (1,6 g/kg), ớt, tiêu, tỏi, rau sấy, chất điều chỉnh độ axit (296, 330), chất tạo xốp (452(i), 500(i)), chất ổn định (466, 501(i)), chất nhũ hoá (322(i), 420(i)), hương tổng hợp dùng trong thực phẩm, chất ngọt tổng hợp (420(ii), 950, 951), màu tự nhiên (160b(i), 160c), chất chống oxy hoá (320, 321).\nCách dùng \nCho vắt mì và các gói gia vị vào tô. Chế khoảng 320 ml nước sôi, đậy nắp trong 3 phút. Mở nắp, trộn đều bạn sẽ có tô mì ngon tuyệt.\nBảo quản \nBảo quản nơi khô ráo, thoáng mát, tránh ánh nắng trực tiếp. Không để gần hóa chất hoặc sản phẩm có mùi mạnh.",
-              "gia": "₫85.000",
-              "daban": "192",
-              "muc": "Yêu thích",
-              "loai": "Mỳ Tôm"
-            }
-          ],
-          "quantity": 3,
-          "totalPrice": 255000
-        },
-        {
-          "id": 2,
-          "product": [
-            {
-              "id": 10,
-              "image": "https://down-vn.img.susercontent.com/file/sg-11134201-7qvcp-li5hi2hm552i3a",
-              "title": "hùng Mì Tôm 30 Gói Hảo Hảo chua cay",
-              "mota": "30 Gói Mì Tôm Hảo Hảo chua cay ,thiếu gói gia vị muối và mỡ bên trong .Đảm bảo hàng chuẩn của Cty Acecook Việt Nam  ,sai 1 đền 10 luôn ah \nMỌI NGƯỜI LƯU Ý DÙM EM LÀ MÌ THIẾU MUỐI NHA , ko có mất công đặt hàng xong nói Shop em lừa đảo ạ , \nGiá Mì Hảo Hảo chua cay tại đại lý giờ 125 k ( em bán có 98 k ) tất nhiên phải là ko có muối ạ .\nNgày in trên bao bì là ngày sản xuất , cộng thêm 5 tháng là ngày hết hạn , Quý Anh /Chị đừng nhầm ngày in là ngày hết hạn ạ .\nDo nhu cầu nhiều người muốn giảm giá thành lên Shop em xin được phục vụ Qúy Khách theo cách riêng .\nRất mong Quý Khách Hàng đọc kỹ SP trước khi đặt hàng bên em ạ ❤️😘\nCAM KẾT :Hàng chính hãng Cty ACECOOK Việt Nam \nHạn Sử Dụng 6 tháng kể từ ngày SX in trên bao bì .",
-              "gia": "₫103.999",
-              "daban": "580",
-              "muc": "Yêu thích+",
-              "loai": "Mỳ Tôm"
-            }
-          ],
-          "quantity": 3,
-          "totalPrice": 311997
-        },
-        {
-          "id": 3,
-          "product": [
-            {
-              "id": 4,
-              "image": "https://down-vn.img.susercontent.com/file/6adb26db573d84ab8668d0a0101ebb91",
-              "title": "Gói Mì xào khô Indomie Goreng l 4 vị",
-              "mota": "- Mì có 4 vị được bán tại Việt Nam:\n+ Vị Đặc Biệt (Goreng Fried) 85g\n+ Vị Bò Cay (Goreng Rasa Rendang) 91g\n+ Vị Sườn (Goreng Rasa Iga Penyet) 80g\n+ Vị Cay Nồng (Goreng Pedas) 79\n+ Vị gà siêu cay (Goreng Rasa Ayam Geprek) 85g ->  mì giành cho những bạn thích ăn cay. Khi trộn vị này, gói muối nên trộn 2/3 gói, và gói dầu sa tế nên đổ từ từ vào trộn đều và nếm thử để tìm được khẩu vị cay hợp lý của bạn.\n- Mì Xào Khô INDOMIE\nMột sản phẩm thuộc tập đoàn INDOFOOD của INDONESIA, thương hiệu mì được ưa chuộng tại 60 quốc gia trên toàn thế giới đã có mặt tại Việt Nam.\n- IDOMIE cung cấp cho bạn cho bạn đầy đủ hương vị đặc biệt độc đáo.\n- Sản phẩm có chứa Vitamin A, B1, B6, B12, Axit Folic, sắt và nhiều khoáng chất cần thiết cho cơ thể, đảm bảo năng lượng hoạt động hàng ngày.\n- Thành phần: Bột mì, tinh bột sắn, lúa mạch, chất tạo vị chua, hành tím, đậu tương…\nHạn sử dụng: 8 tháng kể từ ngày sản xuất\n- Cách dùng: cho khoảng 400ml nước sôi vào mì chờ khoảng 2-3 phút cho mềm mì, chắt hết nước và cho các gói gia vị trộn đều và ăn nóng.",
-              "gia": "₫6.200",
-              "daban": "9,3k",
-              "muc": "Yêu thích+",
-              "loai": "Mỳ Tôm"
-            }
-          ],
-          "quantity": 2,
-          "totalPrice": 12400
-        }
-      ],
-      "id": 1
-    }
   ],
   "Loai": [
     {
@@ -1287,5 +1230,8 @@
       "muc": "Yêu thích+",
       "loai": "Đồ ăn vặt"
     }
+  ],
+  "Oder": [
+    
   ]
 }

@@ -15,6 +15,7 @@ import {
   ActivityIndicator,
   Dimensions,
 } from "react-native";
+import { Api_User } from "../../api";
 const Login =  ({ navigation }) => {
   const [modalVisible, setModalVisible] = useState(false);
   const [isCheckPass, setCheckPass] = useState(true);
@@ -42,7 +43,7 @@ const Login =  ({ navigation }) => {
     } else {
       setErrPass("");
     }
-    fetch("http://192.168.0.108:3000/user?username=" + user)
+    fetch(Api_User+"?username=" + user)
       .then((res) => res.json())
       .then(async (data) => {
         if (data.length != 1) {

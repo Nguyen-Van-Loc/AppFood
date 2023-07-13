@@ -53,14 +53,14 @@ const Chitiet = ({ route, navigation }) => {
               quantity * parseFloat(item.gia.replace("₫", "").replace(".", "")),
           };
           check.products.push(product);
-          fetch(Api_Cart + "/" + cart.id, {
+          fetch(Api_Cart + "/" + check.id, {
             method: "PUT",
             headers: {
               "Content-Type": "application/json",
-              Accept: "application/json",
+              "Accept": "application/json",
             },
             body: JSON.stringify(check),
-          });
+          }).then(res=>res.json()).catch(err=>console.log(err));
         } else {
           const AddNew = {
             userId: cart.id,

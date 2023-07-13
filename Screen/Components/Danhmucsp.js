@@ -9,17 +9,21 @@ import {
   TouchableWithoutFeedback,
   TouchableOpacity,
   View,
-  FlatList,Button,Alert,ScrollView
+  FlatList,
+  Button,
+  Alert,
+  ScrollView,
 } from "react-native";
 import SelectDropdown from "react-native-select-dropdown";
 import AsyncStorage from "@react-native-async-storage/async-storage";
-import { Api_All, Api_sanPham,Api_Loai } from "../../api";
+import { Api_All, Api_sanPham, Api_Loai } from "../../api";
 const Danhmucsp = ({ route }) => {
   const navigation = useNavigation();
   const item = route.params.Data1;
   const isFocused = useIsFocused();
-   const [loai1, setLoai1] = useState("");
+  const [loai1, setLoai1] = useState("");
   const [list, setList] = useState([]);
+  const [list1, setList1] = useState([]);
   const [check, setCheck] = useState("");
   const [tensp, setTensp] = useState("");
   const [link, setLinksp] = useState("");
@@ -34,6 +38,7 @@ const Danhmucsp = ({ route }) => {
   const getIduser = async () => {
     try {
       const jsonValue = await AsyncStorage.getItem("nit");
+      getSanPham(JSON.parse(jsonValue));
       return jsonValue != null ? setCheck(JSON.parse(jsonValue)) : null;
     } catch (e) {
       console.log("2" + e);
@@ -44,26 +49,28 @@ const Danhmucsp = ({ route }) => {
       .then((res) => res.json())
       .then((data) => setLoai1(data.item));
   };
-  const getSanPham = () => {
+  const getSanPham = (item) => {
     fetch(Api_sanPham)
       .then((res) => res.json())
-      .then((data) => setList(data));
+      .then((data) => {
+        let getCart = data.find((cart) => cart.ma === item.id);
+        if (getCart) {
+          const products = getCart.products;
+          setList(products);
+        }
+        setList1(data);
+      });
   };
-  let getCart = list.find((cart) => cart.ma === item.id);
-  if (getCart) {
-    const products = getCart.products;
-    setList(products);
-  }
-   const showModal1 = (item) => {
-     setTensp(item.title);
-     setGiasp(item.gia);
-     setLinksp(item.image);
-     setDaban(item.daban);
-     setMotasp(item.mota);
-     setLoaisp(item.loai);
-     setMucsp(item.muc)
-     setModalVisible1(!modalVisible1);
-   };
+  const showModal1 = (item) => {
+    setTensp(item.title);
+    setGiasp(item.gia);
+    setLinksp(item.image);
+    setDaban(item.daban);
+    setMotasp(item.mota);
+    setLoaisp(item.loai);
+    setMucsp(item.muc);
+    setModalVisible1(!modalVisible1);
+  };
   const Update = () => {
     const New = {
       image: link,
@@ -81,7 +88,7 @@ const Danhmucsp = ({ route }) => {
         Accept: "application/json",
       },
       body: JSON.stringify(New),
-    }).then(() => getSanPham(), setModalVisible1(!modalVisible1));
+    }).then(() => getSanPham(item), setModalVisible1(!modalVisible1));
   };
   const AddSP = () => {
     fetch(Api_sanPham)
@@ -137,7 +144,7 @@ const Danhmucsp = ({ route }) => {
               Accept: "application/json",
             },
             body: JSON.stringify(New),
-          }).then((res) => getSanPham());
+          }).then((res) => getSanPham(item));
         }
       });
     showModal();
@@ -145,9 +152,22 @@ const Danhmucsp = ({ route }) => {
   const showModal = () => {
     setModalVisible(!modalVisible);
   };
+  const onDelete = (item1) => {
+    const checkD = list1.find((ma) => ma.ma === item.id);
+    const checkDelete = checkD.products.filter((nit) => nit.id !== item1.id);
+    checkD.products=checkDelete;
+    fetch(Api_sanPham + "/" + checkD.id, {
+      method: "PUT",
+      headers: {
+        "Content-Type": "application/json",
+        Accept: "application/json",
+      },
+      body: JSON.stringify(checkD),
+    });
+    getSanPham(item)
+  };
   useEffect(() => {
     Loai();
-    getSanPham();
     getIduser();
   }, [isFocused]);
   const GetId = (itemData) => {
@@ -172,6 +192,7 @@ const Danhmucsp = ({ route }) => {
               }}
             />
           </TouchableOpacity>
+
           <Modal animationType="slide" transparent visible={modalVisible}>
             <TouchableWithoutFeedback onPress={showModal}>
               <View style={style.modalContainer}>
@@ -407,6 +428,34 @@ const Danhmucsp = ({ route }) => {
                       right: 15,
                     }}
                   >
+                    <TouchableOpacity
+                      onPress={() =>
+                        Alert.alert("Bạn chắc chắn muốn xóa không", "", [
+                          {
+                            text: "Hủy",
+                            onPress: () => {},
+                            style: "cancel",
+                          },
+                          {
+                            text: "Đồng ý",
+                            onPress: () => {
+                              onDelete(item);
+                            },
+                          },
+                        ])
+                      }
+                    >
+                      <Image
+                        style={{
+                          width: 30,
+                          height: 30,
+                          backgroundColor: "white",
+                        }}
+                        source={{
+                          uri: "https://cdn-icons-png.flaticon.com/128/6861/6861362.png",
+                        }}
+                      />
+                    </TouchableOpacity>
                   </View>
                 </View>
               ) : null}

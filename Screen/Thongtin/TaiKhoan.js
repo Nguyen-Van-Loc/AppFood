@@ -1,24 +1,11 @@
-import React, { useCallback, useEffect, useState } from "react";
-import {
-  TouchableOpacity,
-  Image,
-  BackHandler,
-  Modal,
-  View,
-  Text,
-  StyleSheet,
-  Dimensions,
-  FlatList,
-  
-} from "react-native";
-import { useIsFocused, useNavigation } from "@react-navigation/native";
 import AsyncStorage from "@react-native-async-storage/async-storage";
-import { TextInput } from "react-native-gesture-handler";
+import { useNavigation,useIsFocused } from "@react-navigation/native";
+import { useEffect, useState } from "react";
+import { View, Text, StyleSheet,Dimensions,Image,TouchableOpacity,BackHandler,FlatList,Modal,TextInput} from "react-native";
 import { Api_User } from "../../api";
 const widthScreen = Dimensions.get("window").width;
 const HeightScreen = Dimensions.get("window").height;
-const Taikhoan = () => {
-  const isFocused = useIsFocused();
+const TaiKhoan = () => {
   const navigation = useNavigation();
   const [modalVisible, setModalVisible] = useState(false);
   const showModal = () => {
@@ -31,14 +18,19 @@ const Taikhoan = () => {
   const [sodt, setSodt] = useState("");
   const [email, setEmail] = useState("");
   const [sodu, setSodu] = useState("");
-
   const getId = async () => {
     try {
       const jsonValue = await AsyncStorage.getItem("nit");
+      getData(JSON.parse(jsonValue))
       return jsonValue != null ? setItem(JSON.parse(jsonValue)) : null;
     } catch (e) {
       console.log("2" + e);
     }
+  };
+  const getData = (item1) => {
+    fetch(Api_User + "/?id=" + item1.id)
+      .then((res) => res.json())
+      .then((data) => setData(data));
   };
   const onUpdate = () => {
     const update = {
@@ -64,12 +56,8 @@ const Taikhoan = () => {
       setModalVisible(!modalVisible);
     });
   };
-  const getData = () => {
-    fetch(Api_User + "/?id=" + item1.id)
-      .then((res) => res.json())
-      .then((data) => setData(data));
-  };
   useEffect(() => {
+    getId();
     if (item1) {
       setName(item1.name);
       setEmail(item1.email);
@@ -77,8 +65,6 @@ const Taikhoan = () => {
       setSodt(item1.sodt);
       setSodu(item1.sodu);
     }
-    getData();
-    getId();
     const backAction = () => {
       navigation.goBack();
       return true;
@@ -88,10 +74,10 @@ const Taikhoan = () => {
       backAction
     );
     return () => backHandler.remove();
-  }, [isFocused]);
+  }, []);
 
   return (
-    <>
+    <View>
       <TouchableOpacity
         onPress={() => navigation.goBack()}
         style={{
@@ -115,7 +101,7 @@ const Taikhoan = () => {
         data={data1}
         scrollEnabled={false}
         renderItem={({ item }) => (
-          <>
+          
             <View style={style.container}>
               <View style={{ paddingHorizontal: 15 }}>
                 <View
@@ -295,10 +281,9 @@ const Taikhoan = () => {
                 </View>
               </Modal>
             </View>
-          </>
         )}
       />
-    </>
+    </View>
   );
 };
 const style = StyleSheet.create({
@@ -357,4 +342,4 @@ const style = StyleSheet.create({
     marginVertical: 5,
   },
 });
-export default Taikhoan;
+export default TaiKhoan;

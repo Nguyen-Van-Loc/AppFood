@@ -23,7 +23,14 @@ const Thongtin = () => {
       return jsonValue != null ? setName(JSON.parse(jsonValue)) : null;
     } catch (e) {}
   };
-  
+const removeValue = async () => {
+  try {
+    await AsyncStorage.removeItem("nit");
+    navigation.navigate("Login");
+  } catch (e) {
+    console.log(e);
+  }
+};
   useEffect(() => {
     getUser();
   }, [isFocused]);
@@ -87,36 +94,40 @@ const Thongtin = () => {
                 />
               </View>
             </TouchableOpacity>
-            <View style={style.view}>
-              <Image
-                style={style.image}
-                source={{
-                  uri: "https://cdn-icons-png.flaticon.com/256/7457/7457418.png",
-                }}
-              />
-              <Text style={style.fonttext}>Đơn hàng đã mua</Text>
-              <Image
-                style={style.image1}
-                source={{
-                  uri: "https://cdn-icons-png.flaticon.com/128/130/130884.png",
-                }}
-              />
-            </View>
-            <View style={style.view}>
-              <Image
-                style={style.image}
-                source={{
-                  uri: "https://cdn-icons-png.flaticon.com/256/9060/9060681.png",
-                }}
-              />
-              <Text style={style.fonttext}>Giỏ Hàng</Text>
-              <Image
-                style={style.image1}
-                source={{
-                  uri: "https://cdn-icons-png.flaticon.com/128/130/130884.png",
-                }}
-              />
-            </View>
+            <TouchableOpacity onPress={() => navigation.navigate("Lichsu")}>
+              <View style={style.view}>
+                <Image
+                  style={style.image}
+                  source={{
+                    uri: "https://cdn-icons-png.flaticon.com/256/7457/7457418.png",
+                  }}
+                />
+                <Text style={style.fonttext}>Đơn hàng đã mua</Text>
+                <Image
+                  style={style.image1}
+                  source={{
+                    uri: "https://cdn-icons-png.flaticon.com/128/130/130884.png",
+                  }}
+                />
+              </View>
+            </TouchableOpacity>
+            <TouchableOpacity onPress={() => navigation.navigate("cart")}>
+              <View style={style.view}>
+                <Image
+                  style={style.image}
+                  source={{
+                    uri: "https://cdn-icons-png.flaticon.com/256/9060/9060681.png",
+                  }}
+                />
+                <Text style={style.fonttext}>Giỏ Hàng</Text>
+                <Image
+                  style={style.image1}
+                  source={{
+                    uri: "https://cdn-icons-png.flaticon.com/128/130/130884.png",
+                  }}
+                />
+              </View>
+            </TouchableOpacity>
             <View style={style.view1}>
               <Image
                 style={style.image}
@@ -140,6 +151,7 @@ const Thongtin = () => {
             marginTop: 10,
             backgroundColor: "white",
             borderTopLeftRadius: 30,
+            borderBottomRightRadius: 30,
           }}
         >
           <View style={style.view}>
@@ -157,7 +169,7 @@ const Thongtin = () => {
               }}
             />
           </View>
-          <View style={style.view}>
+          <View style={style.view1}>
             <Image
               style={style.image}
               source={{
@@ -172,6 +184,28 @@ const Thongtin = () => {
               }}
             />
           </View>
+        </View>
+        <View style={{ marginTop: 30, alignItems: "center" }}>
+          <TouchableOpacity
+            style={{
+              width: "42%",
+              flexDirection: "row",
+              borderRadius: 10,
+              padding: 10,
+              backgroundColor: "red",
+            }}
+            onPress={() => removeValue()}
+          >
+            <Image
+              style={{ height: 30, width: 30 }}
+              source={{
+                uri: "https://cdn-icons-png.flaticon.com/128/10309/10309341.png",
+              }}
+            />
+            <Text style={{ fontSize: 20, marginLeft: 5, color: "white" }}>
+              Đăng xuất
+            </Text>
+          </TouchableOpacity>
         </View>
       </View>
     </SafeAreaView>

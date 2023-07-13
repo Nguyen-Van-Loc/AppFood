@@ -31,10 +31,11 @@ const Draw = () => {
         }}
       />
       <Drawer.Screen
-        name="Cart"
+        name="Cart1"
         component={Cart}
         options={{
-          headerShown: false,
+          headerShown: true,
+          title: "Giỏ hàng",
           drawerIcon: ({ color }) => {
             return <Ionicons name="cart-outline" size={22} color={color} />;
           },
