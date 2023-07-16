@@ -72,6 +72,7 @@ const Chitiet = ({ route, navigation }) => {
                 totalPrice:
                   quantity *
                   parseFloat(item.gia.replace("₫", "").replace(".", "")),
+                trangthai: "Đang vận chuyển",
               },
             ],
           };

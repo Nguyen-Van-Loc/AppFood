@@ -12,8 +12,11 @@ import {
 import { useNavigation, useIsFocused } from "@react-navigation/native";
 import AsyncStorage from "@react-native-async-storage/async-storage";
 import { Api_Cart, Api_Oder } from "../../api";
+import { isEnabled } from "react-native/Libraries/Performance/Systrace";
 const widthScreen = Dimensions.get("window").width;
 const Cart = () => {
+  const [id, setID] = useState("");
+  const [count, setCount] = useState(0);
   const [item, setItem] = useState([]);
   const [data, setData] = useState([]);
   const [data1, setData1] = useState([]);
@@ -38,9 +41,9 @@ const Cart = () => {
       .then((data) => {
         let getCart = data.find((cart) => cart.userId === item.id);
         if (getCart) {
+          setID(getCart.id);
           const products = getCart.products;
           if (products.length > 0) {
-           
           } else {
             setCheck(false);
           }
@@ -48,9 +51,9 @@ const Cart = () => {
             (product) => product.product.length > 0
           );
           setData(product);
-        }
-        else{
-          setCheck(false)
+        } else {
+          setCheck(false);
+          setID('');
         }
         if (getCart) {
           const products = getCart.products;
@@ -79,26 +82,35 @@ const Cart = () => {
       },
       body: JSON.stringify(cartItem),
     });
-    getItemCart(item)
-    setCheck(check)
+    getItemCart(item);
+    setCheck(check);
   };
-
   const AddOder = () => {
     const add = {
+      id: count.length + 1,
       userId: item.id,
       products: data,
       sum: sum,
     };
-    fetch(Api_Oder, {
-      method: "POST",
-      headers: {
-        "Content-Type": "application/json",
-        Accept: "application/json",
+    fetch(
+      Api_Oder,
+      {
+        method: "POST",
+        headers: {
+          "Content-Type": "application/json",
+          Accept: "application/json",
+        },
+        body: JSON.stringify(add),
       },
-      body: JSON.stringify(add),
-    });
+      fetch(Api_Cart + "/" + id, {
+        method: "DELETE",
+        headers: {
+          "Content-Type": "application/json",
+          Accept: "application/json",
+        },
+      })
+    ).then(res=>{getItemCart(item)});
   };
-
   const increaseQuantity = (cart_id) => {
     const cartItem = data1.find((item1) => item1.userId === item.id);
     const product1 = cartItem.products.find((item2) => item2.id === cart_id.id);
@@ -106,7 +118,8 @@ const Cart = () => {
     product1.totalPrice =
       cart_id.quantity *
       parseFloat(product1.product[0].gia.replace("₫", "").replace(".", ""));
-    fetch(Api_Cart + "/" + item.id, {
+      console.log(cart_id.id)
+    fetch(Api_Cart + "/" + cartItem.id, {
       method: "PUT",
       headers: {
         "Content-Type": "application/json",
@@ -123,7 +136,7 @@ const Cart = () => {
     product1.totalPrice =
       cart_id.quantity *
       parseFloat(product1.product[0].gia.replace("₫", "").replace(".", ""));
-    fetch(Api_Cart + "/" + item.id, {
+    fetch(Api_Cart + "/" + cartItem.id, {
       method: "PUT",
       headers: {
         "Content-Type": "application/json",
@@ -133,7 +146,6 @@ const Cart = () => {
     });
     getItemCart(item);
   };
-
   useEffect(() => {
     getIdUser();
     const backAction = () => {
@@ -146,7 +158,6 @@ const Cart = () => {
     );
     return () => backHandler.remove();
   }, [isFocused]);
-
   return (
     <View style={{ width: widthScreen, flex: 1 }}>
       {check ? (

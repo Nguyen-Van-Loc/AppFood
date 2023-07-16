@@ -9,4 +9,4 @@ export const Api_sanPham = API + "/monan";
 export const Api_All = API + "/AllProduct";
 export const Api_Oder = API + "/Oder";
 //json-server db.json --watch -H 192.168.0.100
-//json-server db.json --watch -H 10.24.16.249
+//json-server db.json --watch -H 10.24.16.244

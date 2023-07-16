@@ -2,16 +2,16 @@ import React, { useState, useEffect } from "react";
 import {
   Dimensions,
   ImageBackground,
-  SafeAreaView,
   StyleSheet,
   View,
   Image,
   Text,
+  ScrollView,
+  TouchableOpacity,
 } from "react-native";
 const widthScreen = Dimensions.get("window").width;
 const HeightScreen = Dimensions.get("window").height;
 import AsyncStorage from "@react-native-async-storage/async-storage";
-import { TouchableOpacity } from "react-native-gesture-handler";
 import { useIsFocused, useNavigation } from "@react-navigation/native";
 const Thongtin = () => {
   const isFocused = useIsFocused();
@@ -23,19 +23,20 @@ const Thongtin = () => {
       return jsonValue != null ? setName(JSON.parse(jsonValue)) : null;
     } catch (e) {}
   };
-const removeValue = async () => {
-  try {
-    await AsyncStorage.removeItem("nit");
-    navigation.navigate("Login");
-  } catch (e) {
-    console.log(e);
-  }
-};
+  
+  const removeValue = async () => {
+    try {
+      await AsyncStorage.removeItem("nit");
+      navigation.navigate("Login");
+    } catch (e) {
+      console.log(e);
+    }
+  };
   useEffect(() => {
     getUser();
   }, [isFocused]);
   return (
-    <SafeAreaView>
+    <ScrollView showsVerticalScrollIndicator={false}>
       <View style={style.contarner}>
         <View>
           <ImageBackground
@@ -169,7 +170,7 @@ const removeValue = async () => {
               }}
             />
           </View>
-          <View style={style.view1}>
+          <View style={style.view}>
             <Image
               style={style.image}
               source={{
@@ -184,6 +185,24 @@ const removeValue = async () => {
               }}
             />
           </View>
+          <TouchableOpacity
+            onPress={() => navigation.navigate("DoiPass")}
+            style={style.view1}
+          >
+            <Image
+              style={style.image}
+              source={{
+                uri: "https://cdn-icons-png.flaticon.com/128/9381/9381773.png",
+              }}
+            />
+            <Text style={style.fonttext}>Đổi mật khẩu</Text>
+            <Image
+              style={style.image1}
+              source={{
+                uri: "https://cdn-icons-png.flaticon.com/128/130/130884.png",
+              }}
+            />
+          </TouchableOpacity>
         </View>
         <View style={{ marginTop: 30, alignItems: "center" }}>
           <TouchableOpacity
@@ -208,7 +227,7 @@ const removeValue = async () => {
           </TouchableOpacity>
         </View>
       </View>
-    </SafeAreaView>
+    </ScrollView>
   );
 };
 const style = StyleSheet.create({
@@ -231,6 +250,12 @@ const style = StyleSheet.create({
     position: "absolute",
     right: 0,
     top: 20,
+  },
+  centeredView: {
+    flex: 1,
+    justifyContent: "center",
+    alignItems: "center",
+    marginTop: 22,
   },
 });
 export default Thongtin;

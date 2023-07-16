@@ -10,6 +10,7 @@ import Danhmucsp from "./Screen/Components/Danhmucsp";
 import Oder from "./Screen/Thongtin/Oder";
 import Cart from "./Screen/Cart/Cart";
 import { GestureDetector } from "react-native-gesture-handler";
+import Doimatkhau from "./Screen/Thongtin/Doimatkhau";
 const Screen = createNativeStackNavigator();
 const App = () => {
   return (
@@ -70,6 +71,15 @@ const App = () => {
           options={{
             headerShown: true,
             title: "Giỏ hàng",
+            animation: "slide_from_right",
+          }}
+        />
+        <Screen.Screen
+          name="DoiPass"
+          component={Doimatkhau}
+          options={{
+            headerShown: true,
+            title: "Đổi mật khẩu",
             animation: "slide_from_right",
           }}
         />
