@@ -62,27 +62,13 @@ const TaiKhoan = () => {
       email: email,
       sodu: sodu,
     };
-    if (name.length == 0) {
+    if (name.match("")) {
       return setErrName("Họ tên không được để trống ");
     }
     else{
        setErrName("")
     }
-    if (diachi.length == 0) {
-      return setErrDiachi("Địa chỉ không được để trống ");
-    }
-    else{
-      setErrDiachi("")
-    }
-    if (sodt.length == 0) {
-      return setErrSodt("Số điện thoại không được để trống ");
-    }else if(!sodt.match(vnf_regex)){
-      return setErrSodt("Số điện thoại không đúng định dạng ");
-    }
-    else{
-      setErrSodt("")
-    }
-    if (email.length == 0) {
+    if (email.match("")) {
       return setErrEmail("Email không được để trống ");
     }
     else if(!email.match(checkemail)){
@@ -91,7 +77,21 @@ const TaiKhoan = () => {
     else{
       setErrEmail("")
     }
-    if (sodu.length == 0) {
+    if (sodt.match("")) {
+      return setErrSodt("Số điện thoại không được để trống ");
+    }else if(!sodt.match(vnf_regex)){
+      return setErrSodt("Số điện thoại không đúng định dạng ");
+    }
+    else{
+      setErrSodt("")
+    }
+    if (diachi.match("")) {
+      return setErrDiachi("Địa chỉ không được để trống ");
+    }
+    else{
+      setErrDiachi("")
+    }
+    if (sodu.match("")) {
       return setErrSodu("Số dư không được để trống ");
     }
     else if(!sodu.match(pattern)){
@@ -240,7 +240,6 @@ const TaiKhoan = () => {
                       style={{
                         color: "red",
                         fontSize: 15,
-                        margin: 5,
                         marginLeft: 40,
                       }}
                     >
@@ -258,8 +257,7 @@ const TaiKhoan = () => {
                       style={{
                         color: "red",
                         fontSize: 15,
-                        margin: 5,
-                        marginLeft: 40,
+                        marginLeft: 10
                       }}
                     >
                       {erremail}
@@ -276,8 +274,7 @@ const TaiKhoan = () => {
                       style={{
                         color: "red",
                         fontSize: 15,
-                        margin: 5,
-                        marginLeft: 40,
+                        marginLeft: 10
                       }}
                     >
                       {errsodt}
@@ -294,8 +291,7 @@ const TaiKhoan = () => {
                       style={{
                         color: "red",
                         fontSize: 15,
-                        margin: 5,
-                        marginLeft: 40,
+                        marginLeft: 10,
                       }}
                     >
                       {errdiachi}
@@ -312,7 +308,6 @@ const TaiKhoan = () => {
                       style={{
                         color: "red",
                         fontSize: 15,
-                        margin: 5,
                         marginLeft: 40,
                       }}
                     >

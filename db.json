@@ -1100,19 +1100,19 @@
       "password": "nit",
       "name": "Khoa",
       "diachi": "2e",
-      "sodt": "3",
-      "email": "Hao",
-      "sodu": "4ê"
+      "sodt": "03931754534",
+      "email": "Hao@gmail.com",
+      "sodu": "4"
     },
     {
-      "id": 2,
-      "username": "Nit",
-      "password": "1",
-      "name": "Minh",
-      "diachi": "3",
-      "sodt": "4",
-      "email": "6",
-      "sodu": "5"
+      "username": "Huy",
+      "password": "Q",
+      "name": "Q",
+      "diachi": "",
+      "sodt": "",
+      "sodu": "",
+      "email": "",
+      "id": 2
     }
   ],
   "cart": [
